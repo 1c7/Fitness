@@ -11,21 +11,20 @@
 
 
 ## 中文视频创作者
-备注: 排名顺序和质量高低无关。
+排名不分先后。
 
 - 帅soserious: [B站](https://space.bilibili.com/66391032/video), [Youtube](https://www.youtube.com/@shuaisoserious/videos)
-- 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA)
+- 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 我个人喜欢看这个。
+- 好人松松: [B站](https://space.bilibili.com/2078781964/video)
 - Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos)
 - 卓叔增重: [B站](https://space.bilibili.com/22423090/video)
-- 好人松松: [B站](https://space.bilibili.com/2078781964/video)
 - 闫帅奇: [B站](https://space.bilibili.com/434378423/video)
 - Erik埃里克: [B站](https://space.bilibili.com/23640791/video)
-- 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video), [Youtube](https://www.youtube.com/@wanduwang/videos)
 - 健助师_小珂: [B站](https://space.bilibili.com/330325021/video)
 - 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video)
 - 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video)
 - ZBY力量举: [B站](https://space.bilibili.com/236094881/video)
-- 维亚德: [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44)
+- 维亚德: [B站](https://space.bilibili.com/1745356376/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44), 讲中文的法国人, 内容主要是竖屏短视频讲单个动作。
 - KymFit: [B站](https://space.bilibili.com/18143977/video)
 
 
@@ -36,16 +35,16 @@
 - eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos)
 - Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization)
 
-## 图书
-备注: 以下都是购买过的图书。  
-
+## 优秀的健身教学图书
 - 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/)
 - 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
 - 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
 - 《量化健身：原理解析》
 - 《量化健身：动作精讲》
+- 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 这书在抖音上推荐的很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。
+- 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
 
-（待补充更多图书）
+（欢迎补充更多图书）
 
 
 ## 难以分类的视频创作者,统一放这里。
@@ -54,26 +53,73 @@
 - 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video)
 - Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 对他的了解不多，看起来更多和"健康","长寿"相关。并不是只关注"健身"。
 - 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video)
-- Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video)
+- Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 目前2024年在美国开健身房。
 - 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 适合跟练。
 - 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video)
 - 叔贵: [B站](https://space.bilibili.com/1531707/video)
 - 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
+- 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video), [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做过健身教学，但可能因为流量不好，现在转型竖屏+更生活类的内容了。
+- Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
+- 昊然健身: [B站](https://space.bilibili.com/399888740/video) 已停止更新。
+- FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 视频大多是3-5分钟。
 
 ## 高质量的单个视频
 - [B站版《健身新手的训练完全手册》™](https://www.bilibili.com/video/BV1Hk4y187jF/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 
+
+
+## 抖音-竖屏内容
+- 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003)
+- 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg)
+- 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8)
+- 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi)  
 
 
 <!-- 
 ## 知名人物
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
 
-## 抖音的竖屏内容
-- 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003)
-
-### 本列表不收录搞笑,抽象内容，例子:
+### 本列表不收录搞笑,抽象,生活类,有争议,以及其他与健身教学完全无关的内容，例子:
 - 马哥巨离谱: [B站](https://space.bilibili.com/298054634/video) 转型到拍短剧了。
-- [吴彦祖秃顶版](https://space.bilibili.com/411379495/video) 堡家门。
+- 吴彦祖秃顶版: [B站](https://space.bilibili.com/411379495/video) 堡家门。
 - 常熟阿诺
 - 街健呆木头
+- 麦蔻: [抖音](https://www.douyin.com/user/MS4wLjABAAAABEWvGuCuE0dm3SkJ4ypAif3LdeUZkJxyxqj9vph51vs70kEZVzSbPwTYG77fTU3L)
+- 李亚强
+- 鹿晨辉
+- PT健身华哥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAsXNghwdTOenKchYb-LdYmoB5ouq9WB1AYKyDyIZGmQ-QrJUZJPxHEgOI32plz-hI)
+- 昆图斯
+- 李维刚: [抖音](https://www.douyin.com/user/MS4wLjABAAAAVFKSxWhh1QJvhwhVJ8I97fGr94EPqXQCAauayzifMxE)
+- 周六野Zoey
+- 韩小四AprilHan [B站](https://space.bilibili.com/369750017/video)
+- 嘴哥 [抖音](https://www.douyin.com/user/MS4wLjABAAAAiB6GcfTolyVWY_xlrzOMsgnibS8SdNB3ATDKVCj4TV0)
 -->
+
+## 备注
+我知道"健身"和"Github"没有任何关系，我只是借助这个平台写点自己关心和喜欢的内容。  
+工作(写代码)是为了生活，生活远比工作重要。  
+希望大家能借助这些高质量的视频和图书，变得更加健康。  
+
+针对颈椎和腰椎的康复和预防类内容（我本人暂时没有这样的问题，但是我猜测久坐职业的人年龄大了多少会有点问题），我手头暂无资料，欢迎有经验的人分享并留个链接在这里。
+
+## 补充：我的健身目标与学习方式。
+
+1. 当前数据: 
+  * 身高 165cm 
+  * 体重 83kg。
+  * 体脂率 30%（我知道很多体脂秤测体脂率不太准确，但多少有一点点参考价值）
+2. 目标数据: 
+  * 体重 68kg
+  * 体脂率 20%
+3. 当前学习方式：买了一些书 + 看凯圣王的视频。  
+
+## 买了一些书
+![1](./img/overview.JPG)
+
+## 上
+![4](./img/part-3.JPG)
+
+## 中
+![3](./img/part-2.JPG)
+
+## 下
+![2](./img/part-1.JPG)
