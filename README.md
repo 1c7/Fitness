@@ -10,8 +10,8 @@
 ## 中文视频创作者
 排名不分先后。
 
-- 帅soserious: [B站](https://space.bilibili.com/66391032/video), [Youtube](https://www.youtube.com/@shuaisoserious/videos)
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 我个人喜欢看这个。
+- 帅soserious: [B站](https://space.bilibili.com/66391032/video), [Youtube](https://www.youtube.com/@shuaisoserious/videos)
 - 好人松松: [B站](https://space.bilibili.com/2078781964/video)
 - Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos)
 - 卓叔增重: [B站](https://space.bilibili.com/22423090/video)
@@ -59,6 +59,8 @@
 - Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
 - 昊然健身: [B站](https://space.bilibili.com/399888740/video) 已停止更新。
 - FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 视频大多是3-5分钟。
+- 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video)
+- 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。
 
 ## 高质量的单个视频
 - [B站版《健身新手的训练完全手册》™](https://www.bilibili.com/video/BV1Hk4y187jF/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 
@@ -77,8 +79,8 @@
 
 ### 本列表不收录搞笑,抽象,生活类,有争议,以及其他与健身教学完全无关的内容，例子:
 - 马哥巨离谱: [B站](https://space.bilibili.com/298054634/video) 转型到拍短剧了。
-- 吴彦祖秃顶版: [B站](https://space.bilibili.com/411379495/video) 堡家门。
-- 常熟阿诺
+- 吴彦祖秃顶版: [B站](https://space.bilibili.com/411379495/video) 人很有实力，但是整天拍吃汉堡的视频，可能50个视频里夹一个正经健身教学，信息密度太低，喜欢看乐子的可以关注，正经学习的不推荐。
+- 常熟阿诺: 不要花任何时间了解其人其事，浪费你的时间。
 - 街健呆木头
 - 麦蔻: [抖音](https://www.douyin.com/user/MS4wLjABAAAABEWvGuCuE0dm3SkJ4ypAif3LdeUZkJxyxqj9vph51vs70kEZVzSbPwTYG77fTU3L)
 - 李亚强
@@ -86,9 +88,10 @@
 - PT健身华哥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAsXNghwdTOenKchYb-LdYmoB5ouq9WB1AYKyDyIZGmQ-QrJUZJPxHEgOI32plz-hI)
 - 昆图斯
 - 李维刚: [抖音](https://www.douyin.com/user/MS4wLjABAAAAVFKSxWhh1QJvhwhVJ8I97fGr94EPqXQCAauayzifMxE)
-- 周六野Zoey
+- 周六野Zoey: 貌似此人有一定争议，具体细节我不清楚。
 - 韩小四AprilHan [B站](https://space.bilibili.com/369750017/video)
 - 嘴哥 [抖音](https://www.douyin.com/user/MS4wLjABAAAAiB6GcfTolyVWY_xlrzOMsgnibS8SdNB3ATDKVCj4TV0)
+- 鸽武缘
 -->
 
 ## 欢迎补充内容
