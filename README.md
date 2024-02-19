@@ -26,11 +26,13 @@
 - 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video)
 - ZBY力量举: [B站](https://space.bilibili.com/236094881/video)
 - 维亚德: [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44)
+- KymFit: [B站](https://space.bilibili.com/18143977/video)
+
 
 ## 英文视频创作者
 - CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video)
-- Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard)
-- ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx)
+- Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 质量很高。
+- ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350万粉丝。
 - eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos)
 - Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization)
 
@@ -46,7 +48,7 @@
 （待补充更多图书）
 
 
-### 以下视频创作者,难以分类,统一放这里。
+## 难以分类的视频创作者,统一放这里。
 
 - 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434)
 - 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video)
@@ -55,18 +57,23 @@
 - Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video)
 - 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 适合跟练。
 - 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video)
+- 叔贵: [B站](https://space.bilibili.com/1531707/video)
+- 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
 
 ## 高质量的单个视频
 - [B站版《健身新手的训练完全手册》™](https://www.bilibili.com/video/BV1Hk4y187jF/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 
 
 
-### 知名人物
+<!-- 
+## 知名人物
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
 
+## 抖音的竖屏内容
+- 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003)
 
-<!-- 
 ### 本列表不收录搞笑,抽象内容，例子:
 - 马哥巨离谱: [B站](https://space.bilibili.com/298054634/video) 转型到拍短剧了。
 - [吴彦祖秃顶版](https://space.bilibili.com/411379495/video) 堡家门。
 - 常熟阿诺
+- 街健呆木头
 -->
