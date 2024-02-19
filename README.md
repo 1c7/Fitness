@@ -61,6 +61,8 @@
 - FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 视频大多是3-5分钟。
 - 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video)
 - 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。
+- Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
+- 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video) 
 
 ## 高质量的单个视频
 - [B站版《健身新手的训练完全手册》™](https://www.bilibili.com/video/BV1Hk4y187jF/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 
@@ -71,7 +73,12 @@
 - 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg)
 - 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8)
 - 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi)  
-
+- 平云龙: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-rR3eZAlgTeF0auoIeEc6F5ZNSIm0A38whpWDZtez0w)
+- 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc)
+- 金士程: [抖音](https://www.douyin.com/user/MS4wLjABAAAA9tXy09iTw4cp8GNBT0HCwZ_-rbHOrlQlxhw5FZKHrSw)
+- 席鑫: [抖音](https://www.douyin.com/user/MS4wLjABAAAAqJahTvivbb6IiAXo2ZVzpLzULH7X3weZX0ob1hncD5Y)
+- 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。
+- 吕小军: [抖音](https://www.douyin.com/user/MS4wLjABAAAAh72VGGPFMtwgcU3OWtyt9cphvbel04BUkTwC_usP1yw)
 
 <!-- 
 ## 知名人物
@@ -83,8 +90,8 @@
 - 常熟阿诺: 不要花任何时间了解其人其事，浪费你的时间。
 - 街健呆木头
 - 麦蔻: [抖音](https://www.douyin.com/user/MS4wLjABAAAABEWvGuCuE0dm3SkJ4ypAif3LdeUZkJxyxqj9vph51vs70kEZVzSbPwTYG77fTU3L)
-- 李亚强
-- 鹿晨辉
+- 李亚强: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcwX9HB3fKZSL7xfRP2MhH4zsk_QADgPGLXM4GeY_S4Q)
+- 鹿晨辉: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_eO0pf-jsN-J_AYRcbgAyWsOO5STIziSFlBPyJIusjo)
 - PT健身华哥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAsXNghwdTOenKchYb-LdYmoB5ouq9WB1AYKyDyIZGmQ-QrJUZJPxHEgOI32plz-hI)
 - 昆图斯
 - 李维刚: [抖音](https://www.douyin.com/user/MS4wLjABAAAAVFKSxWhh1QJvhwhVJ8I97fGr94EPqXQCAauayzifMxE)
