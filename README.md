@@ -1,13 +1,10 @@
 # 高质量的健身内容(视频与图书)
 
-## 本列表对读者有什么用
+## 对读者有什么用？
 列出了国内外的高质量健身相关内容。帮助学习健身知识。  
 
-## 本内容面向人群
-刚接触健身的新手。
-
-## 欢迎提交内容
-可以开`issue`或`pull request`。 
+## 面向人群
+健身新手/健身爱好者。  
 
 
 ## 中文视频创作者
@@ -93,3 +90,6 @@
 - 韩小四AprilHan [B站](https://space.bilibili.com/369750017/video)
 - 嘴哥 [抖音](https://www.douyin.com/user/MS4wLjABAAAAiB6GcfTolyVWY_xlrzOMsgnibS8SdNB3ATDKVCj4TV0)
 -->
+
+## 欢迎补充内容
+可以开 Github 的`issue`或`pull request`（建议先开 Issue 讨论一下）
