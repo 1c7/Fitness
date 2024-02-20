@@ -19,7 +19,7 @@
 - Erik埃里克: [B站](https://space.bilibili.com/23640791/video)
 - 健助师_小珂: [B站](https://space.bilibili.com/330325021/video)
 - 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video)
-- 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video)
+- 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 47万粉。
 - ZBY力量举: [B站](https://space.bilibili.com/236094881/video)
 - 维亚德: [B站](https://space.bilibili.com/1745356376/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44), 讲中文的法国人, 内容主要是竖屏短视频讲单个动作。
 - KymFit: [B站](https://space.bilibili.com/18143977/video)
@@ -28,6 +28,8 @@
 - MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video)
 - Steve不是美队: [B站](https://space.bilibili.com/2507562/video)
 - Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
+- 澳洲健身ALEX: [B站](https://space.bilibili.com/1681952786/video) 7万粉。
+- 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
 
 ### 体态矫正/康复
 - C戈体态矫正: [B站](https://space.bilibili.com/489117797/video)
@@ -41,14 +43,15 @@
 
 
 ## 英文视频创作者
-- CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video)
-- Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 质量很高。
-- ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350万关注。
+- CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46万粉。
+- 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16万粉。
+- Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
+- ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
 - eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos)
 - Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization)
-- Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100万关注
-- Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 345万关注
-- Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41万关注
+- Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
+- Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 345 万关注。
+- Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。
 
 
 ## 优秀的健身教学图书
@@ -68,23 +71,27 @@
 
 ## 难以分类的视频创作者,统一放这里。
 
-- 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434)
-- 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video)
+- 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，名气很大。
+- 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58万粉，生活类内容居多，教学类内容很少。
 - Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 对他的了解不多，看起来更多和"健康","长寿"相关。并不是只关注"健身"。
-- 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video)
-- Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 目前2024年在美国开健身房。
-- 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 适合跟练。
-- 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video)
-- 叔贵: [B站](https://space.bilibili.com/1531707/video)
+- 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
+- Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 6.5万粉。目前2024年在美国开健身房。
+- 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1186万粉。适合跟练。
+- 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 101万粉。
+- 叔贵: [B站](https://space.bilibili.com/1531707/video) 293万粉。
 - 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
-- 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video), [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做过健身教学，但可能因为流量不好，现在转型竖屏+更生活类的内容了。
+- 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video) 8万粉, [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做健身教学，可能因为流量不好，转型做竖屏+生活类内容。
 - Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
 - 昊然健身: [B站](https://space.bilibili.com/399888740/video) 已停止更新。
-- FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 视频大多是3-5分钟。
-- 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video)
-- 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。
-- Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
-- 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video) 
+- FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 13万粉。视频长度大多在 3 到 5 分钟。
+- 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。
+- 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。111万粉。
+- Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
+- 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
+- VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
+- 肌肉训练师Matt: [B站](https://space.bilibili.com/2022834030/video) 7万粉。
+- 乐森lucas: [B站](https://space.bilibili.com/255720482/video) 4万粉。
+
 
 ## 高质量的单个视频
 - [B站版《健身新手的训练完全手册》™](https://www.bilibili.com/video/BV1Hk4y187jF/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 
@@ -136,3 +143,6 @@
 
 ## 欢迎补充内容
 可以开 Github 的`issue`或`pull request`（建议先开 Issue 讨论一下）
+
+## 待办事项
+1. 内容还是太多了（难以选择），分成"第一梯队"和"其他"就足够了。
