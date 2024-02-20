@@ -23,23 +23,44 @@
 - ZBY力量举: [B站](https://space.bilibili.com/236094881/video)
 - 维亚德: [B站](https://space.bilibili.com/1745356376/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44), 讲中文的法国人, 内容主要是竖屏短视频讲单个动作。
 - KymFit: [B站](https://space.bilibili.com/18143977/video)
+- 猫叔慢跑: [B站](https://space.bilibili.com/13716885/video)
+- 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video)
+- MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video)
+- Steve不是美队: [B站](https://space.bilibili.com/2507562/video)
+
+
+### 体态矫正/康复
+- C戈体态矫正: [B站](https://space.bilibili.com/489117797/video)
+- C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video)
+- 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video)
+- 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video)
+- 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video)
+
+### 台湾地区视频创作者
+- 北木健身治療師 Kopi: [Youtube](https://www.youtube.com/@beiimu/videos)
 
 
 ## 英文视频创作者
 - CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video)
 - Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 质量很高。
-- ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350万粉丝。
+- ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350万关注。
 - eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos)
 - Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization)
+- Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100万关注
+- Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 345万关注
+- Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41万关注
+
 
 ## 优秀的健身教学图书
 - 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/)
 - 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
 - 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
+- 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
 - 《量化健身：原理解析》
 - 《量化健身：动作精讲》
 - 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 这书在抖音上推荐的很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。
 - 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
+- 《抗阻训练技巧》: [豆瓣](https://book.douban.com/subject/36519750/)
 
 （欢迎补充更多图书）
 
