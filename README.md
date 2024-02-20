@@ -10,9 +10,9 @@
 ## 中文视频创作者
 排名不分先后。
 
-- 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 我个人喜欢看这个。
-- 帅soserious: [B站](https://space.bilibili.com/66391032/video), [Youtube](https://www.youtube.com/@shuaisoserious/videos)
-- 好人松松: [B站](https://space.bilibili.com/2078781964/video)
+- 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) ⭐⭐⭐⭐⭐ 五星推荐。
+- 帅soserious: [B站](https://space.bilibili.com/66391032/video), [Youtube](https://www.youtube.com/@shuaisoserious/videos) 高质量。
+- 好人松松: [B站](https://space.bilibili.com/2078781964/video) 高质量。
 - Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos)
 - 卓叔增重: [B站](https://space.bilibili.com/22423090/video)
 - 闫帅奇: [B站](https://space.bilibili.com/434378423/video)
@@ -27,7 +27,7 @@
 - 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video)
 - MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video)
 - Steve不是美队: [B站](https://space.bilibili.com/2507562/video)
-
+- Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
 
 ### 体态矫正/康复
 - C戈体态矫正: [B站](https://space.bilibili.com/489117797/video)
@@ -61,6 +61,7 @@
 - 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 这书在抖音上推荐的很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。
 - 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
 - 《抗阻训练技巧》: [豆瓣](https://book.douban.com/subject/36519750/)
+- 《4分钟极速减脂》作者：刘恒
 
 （欢迎补充更多图书）
 
@@ -90,16 +91,27 @@
 
 
 ## 抖音-竖屏内容
+排名不分先后。  
+粉丝数量不代表内容质量，仅供参考。  
+
 - 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003)
 - 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg)
-- 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8)
-- 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi)  
+- 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8) 479万粉。
+- 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi) 110万粉。
 - 平云龙: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-rR3eZAlgTeF0auoIeEc6F5ZNSIm0A38whpWDZtez0w)
 - 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc)
 - 金士程: [抖音](https://www.douyin.com/user/MS4wLjABAAAA9tXy09iTw4cp8GNBT0HCwZ_-rbHOrlQlxhw5FZKHrSw)
-- 席鑫: [抖音](https://www.douyin.com/user/MS4wLjABAAAAqJahTvivbb6IiAXo2ZVzpLzULH7X3weZX0ob1hncD5Y)
-- 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。
+- 席鑫: [抖音](https://www.douyin.com/user/MS4wLjABAAAAqJahTvivbb6IiAXo2ZVzpLzULH7X3weZX0ob1hncD5Y) 188万粉。
+- 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。18万粉。
 - 吕小军: [抖音](https://www.douyin.com/user/MS4wLjABAAAAh72VGGPFMtwgcU3OWtyt9cphvbel04BUkTwC_usP1yw)
+- 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 105万粉。
+- 别往嘴里旋了，姐妹（王刚教练）: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
+- 杨哥是我: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_JhWqklK7F0f21-jarxqnwXKO3AqSIWlHYm1IJyEkdg?vid=7328108445528313125)
+- 爱健身的小帅: [抖音](https://www.douyin.com/user/MS4wLjABAAAAtBnzQj35lDIdY6CVHGDbWTXUBApvHqXh7DqEKV88C9fXRdLXRnJxtRLNxnEi6Gag) 3万粉。
+- 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 474万粉。
+- 爱健身💪阿祥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAkV2697wTZ5k_i7pWDK4RLshqmssimnKtaKLSJ6BeNlo) 196万粉。
+- 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
+
 
 <!-- 
 ## 知名人物
