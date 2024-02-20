@@ -18,7 +18,7 @@
 - 闫帅奇: [B站](https://space.bilibili.com/434378423/video)
 - Erik埃里克: [B站](https://space.bilibili.com/23640791/video)
 - 健助师_小珂: [B站](https://space.bilibili.com/330325021/video)
-- 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。
+- 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
 - 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 47万粉。
 - ZBY力量举: [B站](https://space.bilibili.com/236094881/video)
 - 维亚德: [B站](https://space.bilibili.com/1745356376/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44), 讲中文的法国人, 内容主要是竖屏短视频讲单个动作。
@@ -40,9 +40,10 @@
 - 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video)
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
 
-### 台湾地区视频创作者
+### 繁体中文的视频创作者
 - 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
 - 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
+- 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
 ## 英文视频创作者
 - Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
@@ -58,19 +59,38 @@
 - Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 194 万关注。
 
 
-## 优秀的健身教学图书
-- 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/)
+## 健身教学图书
+以下是我买过的书。
+
+- 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
 - 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
 - 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
 - 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
 - 《量化健身：原理解析》
 - 《量化健身：动作精讲》
-- 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 这书在抖音上推荐的很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。
+- 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。
 - 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
 - 《抗阻训练技巧》: [豆瓣](https://book.douban.com/subject/36519750/)
 - 《4分钟极速减脂》作者：刘恒
+- 《健身必须懂-极简健身生理学》作者：仰望尾迹云
+- 《健身三大项 深蹲 硬拉及卧推入门指南》 [豆瓣](https://book.douban.com/subject/35876501/)
+- 《运动减脂讲义》作者：减肥大叔 Sam [豆瓣](https://book.douban.com/subject/34992294/)
+- 《运动损伤预防解刨学》 [豆瓣](https://book.douban.com/subject/36507873/)
+- 《筋膜按摩拉伸疗法》[豆瓣](https://book.douban.com/subject/35610463/)
+- 《热身运动: 优化运动表现与延长运动生涯的热身训练系统》[豆瓣](https://book.douban.com/subject/35070553/)
+- 《功能性训练：提升运动表现的动作练习和方案设计》[豆瓣](https://book.douban.com/subject/27008592/)
+- 《功能性训练原理与经典动作解剖图谱》[豆瓣](https://book.douban.com/subject/35822077/)
+- 《美国国家体能协会：核心训练指南》 [豆瓣](https://book.douban.com/subject/34449457/)
+- 《体育运动中的功能性训练（第2版）》 [豆瓣](https://book.douban.com/subject/27126696/)
+- 《核心体能训练 释放核心潜能的动作练习和方案设计》 [豆瓣](https://book.douban.com/subject/34806566/)
+- 《练就自由:开启无限可能的人生》作者:刘畊宏 [豆瓣](https://book.douban.com/subject/36505135/) 里面教学健身的内容很少（指的是动作详解，训练计划，饮食），主要是刘畊宏讲自己的故事，包括红之前，红之后，重点是给阅读者运动的动力，去激励读者。
+- 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/) 法国人写的书。
+- 《高强度科学训练全书》[豆瓣](https://book.douban.com/subject/36687319/) 法国人写的书。
+- 《核心训练》 [豆瓣](https://book.douban.com/subject/27122880/)
+- 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
+- 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
 
-（欢迎补充更多图书）
+
 
 
 ## 难以分类的视频创作者,统一放这里。
@@ -130,9 +150,9 @@
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
 
 ### 本列表不收录搞笑,抽象,生活类,有争议,以及其他与健身教学完全无关的内容，例子:
-- 马哥巨离谱: [B站](https://space.bilibili.com/298054634/video) 转型到拍短剧了。
-- 吴彦祖秃顶版: [B站](https://space.bilibili.com/411379495/video) 人很有实力，但是整天拍吃汉堡的视频，可能50个视频里夹一个正经健身教学，信息密度太低，喜欢看乐子的可以关注，正经学习的不推荐。
-- 常熟阿诺: 不要花任何时间了解其人其事，浪费你的时间。
+- 马哥巨离谱: [B站](https://space.bilibili.com/298054634/video) 转型拍短剧。
+- 吴彦祖秃顶版: [B站](https://space.bilibili.com/411379495/video) 人有实力，但整天拍吃汉堡视频，可能50个视频里夹一个正经健身教学。
+- 常熟阿诺: 不要花时间了解，浪费时间。
 - 街健呆木头
 - 麦蔻: [抖音](https://www.douyin.com/user/MS4wLjABAAAABEWvGuCuE0dm3SkJ4ypAif3LdeUZkJxyxqj9vph51vs70kEZVzSbPwTYG77fTU3L)
 - 李亚强: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcwX9HB3fKZSL7xfRP2MhH4zsk_QADgPGLXM4GeY_S4Q)
