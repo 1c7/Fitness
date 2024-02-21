@@ -4,7 +4,7 @@
 学健身知识，看高质量的**教学**，节省时间，少走弯路。   
 帮助你更好的减脂/增肌。    
 
-## 中文视频创作者
+## 健身教学内容-视频创作者名单
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) ⭐⭐⭐⭐⭐ 五星推荐。
 - 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos)
 - 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。34万粉。
@@ -29,8 +29,8 @@
 - 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 29万粉。
 - UP健身: [B站](https://space.bilibili.com/129819878/video) 32万粉。都是外网视频的翻译。没有自己原创的内容。
 
-## 高质量的单个视频
-- [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56分钟。
+### 高质量的单个视频
+- [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
 
 ### 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
@@ -48,7 +48,7 @@
 - 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
 - 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
-## 英文视频创作者
+## 健身教学内容(英文的视频创作者)
 - Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
 - CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。
 - 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 630 万关注。
@@ -90,7 +90,9 @@
 - 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
 - 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
 
-## 难以分类的视频创作者。
+## 难以分类的健身相关视频创作者。
+难以分类是因为内容很杂（教学类内容占比低）统一放这里。
+
 - 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
 - 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58万粉，生活类内容居多，教学类内容很少。
 - Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 78万粉。更多和"健康","长寿"相关。
@@ -113,8 +115,7 @@
 - 乐森lucas: [B站](https://space.bilibili.com/255720482/video) 4万粉。
 
 ## 抖音-竖屏内容
-排名不分先后。  
-粉丝数量不代表内容质量，仅供参考。  
+粉丝数不代表质量高低，粉丝数仅供参考。  
 
 - 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003)
 - 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg)
