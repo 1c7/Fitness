@@ -11,16 +11,16 @@
 排名不分先后。
 
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) ⭐⭐⭐⭐⭐ 五星推荐。
-- 帅soserious: [B站](https://space.bilibili.com/66391032/video), [Youtube](https://www.youtube.com/@shuaisoserious/videos) 高质量。
-- 好人松松: [B站](https://space.bilibili.com/2078781964/video) 高质量。
+- 帅soserious: [B站](https://space.bilibili.com/66391032/video) 400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 高质量。
+- 好人松松: [B站](https://space.bilibili.com/2078781964/video) 高质量。34万粉。
 - Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos) 8万粉。
-- 卓叔增重: [B站](https://space.bilibili.com/22423090/video)
-- 闫帅奇: [B站](https://space.bilibili.com/434378423/video)
-- Erik埃里克: [B站](https://space.bilibili.com/23640791/video)
-- 健助师_小珂: [B站](https://space.bilibili.com/330325021/video)
+- 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 182万粉。
+- 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 217万粉。
+- Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 74万粉。
+- 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46万粉。
 - 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
 - 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 47万粉。
-- ZBY力量举: [B站](https://space.bilibili.com/236094881/video)
+- ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 10万粉。
 - 维亚德: [B站](https://space.bilibili.com/1745356376/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44), 讲中文的法国人, 内容主要是竖屏短视频讲单个动作。
 - KymFit: [B站](https://space.bilibili.com/18143977/video)
 - 猫叔慢跑: [B站](https://space.bilibili.com/13716885/video)
@@ -33,12 +33,13 @@
 
 ### 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
-- C戈体态矫正: [B站](https://space.bilibili.com/489117797/video)
-- C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video)
-- 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video)
-- 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video)
-- 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video)
+- C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 118万粉。
+- C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58万粉。
+- 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6万粉。
+- 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
+- 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 6万粉。
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
+- 张翔炜的运动康复: [B站](https://space.bilibili.com/221682694/video) 18万粉。
 
 ### 繁体中文的视频创作者
 - 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
@@ -90,9 +91,6 @@
 - 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
 - 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
 
-
-
-
 ## 难以分类的视频创作者,统一放这里。
 
 - 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
@@ -118,7 +116,7 @@
 
 
 ## 高质量的单个视频
-- [B站版《健身新手的训练完全手册》™](https://www.bilibili.com/video/BV1Hk4y187jF/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 
+- [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 
 
 
 ## 抖音-竖屏内容
