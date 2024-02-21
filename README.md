@@ -1,15 +1,9 @@
-# 高质量的健身内容(视频与图书)
+# 高质量的健身内容 (视频和图书)
 
 ## 对读者有什么用？
-列出了国内外的高质量健身相关内容。帮助学习健身知识。  
-
-## 面向人群
-健身新手/健身爱好者。  
-
+学健身知识，看高质量的**教学**。  
 
 ## 中文视频创作者
-排名不分先后。
-
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) ⭐⭐⭐⭐⭐ 五星推荐。
 - 帅soserious: [B站](https://space.bilibili.com/66391032/video) 400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 高质量。
 - 好人松松: [B站](https://space.bilibili.com/2078781964/video) 高质量。34万粉。
@@ -29,7 +23,10 @@
 - Steve不是美队: [B站](https://space.bilibili.com/2507562/video) 3万粉。
 - Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
 - 澳洲健身ALEX: [B站](https://space.bilibili.com/1681952786/video) 7万粉。
-
+- FitMen六六: [B站](https://space.bilibili.com/177989483/video) 20万粉。
+- 小波健身: [B站](https://space.bilibili.com/497257864/video) 62万粉。
+- 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 29万粉。
+- UP健身: [B站](https://space.bilibili.com/129819878/video) 32万粉。都是外网视频的翻译。没有自己原创的内容。
 
 ### 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
@@ -40,6 +37,7 @@
 - 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 6万粉。
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
 - 张翔炜的运动康复: [B站](https://space.bilibili.com/221682694/video) 18万粉。
+- 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 31万粉。
 
 ### 繁体中文的视频创作者
 - 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
@@ -142,6 +140,9 @@
 - 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
 - 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 8万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
 
+## 跟练类视频，照着做就行。
+- 草莓味鸡胸肉: [B站](https://space.bilibili.com/34044873/video) 194万粉丝。
+- i小小李: [B站](https://space.bilibili.com/588071111/video) 11万粉丝。
 
 <!-- 
 ## 知名人物
@@ -160,6 +161,7 @@
 - 李维刚: [抖音](https://www.douyin.com/user/MS4wLjABAAAAVFKSxWhh1QJvhwhVJ8I97fGr94EPqXQCAauayzifMxE)
 - 周六野Zoey: 貌似此人有一定争议，具体细节我不清楚。
 - 韩小四AprilHan [B站](https://space.bilibili.com/369750017/video)
+- 欧阳春晓Aurora
 - 嘴哥 [抖音](https://www.douyin.com/user/MS4wLjABAAAAiB6GcfTolyVWY_xlrzOMsgnibS8SdNB3ATDKVCj4TV0)
 - 鸽武缘
 -->
@@ -169,3 +171,4 @@
 
 ## 待办事项
 1. 内容还是太多了（难以选择），分成"第一梯队"和"其他"就足够了。
+2. 排序需要调整，并且需要删一些人。
