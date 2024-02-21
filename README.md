@@ -5,8 +5,8 @@
 
 ## 中文视频创作者
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) ⭐⭐⭐⭐⭐ 五星推荐。
-- 帅soserious: [B站](https://space.bilibili.com/66391032/video) 400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 高质量。
-- 好人松松: [B站](https://space.bilibili.com/2078781964/video) 高质量。34万粉。
+- 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 内容高质量。
+- 好人松松: [B站](https://space.bilibili.com/2078781964/video) 高质量长视频。34万粉。
 - Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos) 8万粉。
 - 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 182万粉。
 - 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 217万粉。
@@ -16,10 +16,10 @@
 - 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 47万粉。
 - ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 10万粉。
 - 维亚德: [B站](https://space.bilibili.com/1745356376/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44), 讲中文的法国人, 内容主要是竖屏短视频讲单个动作。
-- KymFit: [B站](https://space.bilibili.com/18143977/video)
-- 猫叔慢跑: [B站](https://space.bilibili.com/13716885/video)
-- 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video)
-- MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video)
+- KymFit: [B站](https://space.bilibili.com/18143977/video) 18万粉。
+- 猫叔慢跑: [B站](https://space.bilibili.com/13716885/video) 86万粉。
+- 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video) 11万粉。
+- MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video) 33万粉。
 - Steve不是美队: [B站](https://space.bilibili.com/2507562/video) 3万粉。
 - Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
 - 澳洲健身ALEX: [B站](https://space.bilibili.com/1681952786/video) 7万粉。
@@ -27,6 +27,9 @@
 - 小波健身: [B站](https://space.bilibili.com/497257864/video) 62万粉。
 - 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 29万粉。
 - UP健身: [B站](https://space.bilibili.com/129819878/video) 32万粉。都是外网视频的翻译。没有自己原创的内容。
+
+## 高质量的单个视频
+- [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56分钟。
 
 ### 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
@@ -57,10 +60,7 @@
 - CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
 - Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 194 万关注。
 
-
 ## 健身教学图书
-以下是我买过的书。
-
 - 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
 - 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
 - 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
@@ -89,8 +89,7 @@
 - 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
 - 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
 
-## 难以分类的视频创作者,统一放这里。
-
+## 难以分类的视频创作者。
 - 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
 - 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58万粉，生活类内容居多，教学类内容很少。
 - Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 78万粉。更多和"健康","长寿"相关。
@@ -111,11 +110,6 @@
 - VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
 - 肌肉训练师Matt: [B站](https://space.bilibili.com/2022834030/video) 7万粉。
 - 乐森lucas: [B站](https://space.bilibili.com/255720482/video) 4万粉。
-
-
-## 高质量的单个视频
-- [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 
-
 
 ## 抖音-竖屏内容
 排名不分先后。  
