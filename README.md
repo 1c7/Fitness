@@ -28,6 +28,8 @@
 - 小波健身: [B站](https://space.bilibili.com/497257864/video) 62万粉。
 - 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 29万粉。
 - UP健身: [B站](https://space.bilibili.com/129819878/video) 32万粉。都是外网视频的翻译。没有自己原创的内容。
+- 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig)
+
 
 ### 高质量的单个视频
 - [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
@@ -89,6 +91,7 @@
 - 《核心训练》 [豆瓣](https://book.douban.com/subject/27122880/)
 - 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
 - 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
+- 《重返巅峰-力量训练者伤后功能重建与能力发展》[豆瓣](https://book.douban.com/subject/36644813/)
 
 ## 难以分类的健身相关视频创作者。
 难以分类是因为内容很杂（教学类内容占比低）统一放这里。
@@ -135,6 +138,9 @@
 - 爱健身💪阿祥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAkV2697wTZ5k_i7pWDK4RLshqmssimnKtaKLSJ6BeNlo) 196万粉。
 - 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
 - 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 8万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
+- 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 2.8万粉。
+- 鹿晨辉的日常: [抖音](https://www.douyin.com/user/MS4wLjABAAAAte2x0QnSHOiOus_K7-6gtW0H6FQyTew1zcsuF7CO8cw?vid=7337250043428162879) 教学类内容占比百分之50。
+
 
 ## 跟练类视频，照着做就行。
 - 草莓味鸡胸肉: [B站](https://space.bilibili.com/34044873/video) 194万粉丝。
