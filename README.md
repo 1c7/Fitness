@@ -45,6 +45,7 @@
 - 张翔炜的运动康复: [B站](https://space.bilibili.com/221682694/video) 18万粉。
 - 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 31万粉。
 - 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3万粉。
+- 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 3500粉。
 
 ### 繁体中文的视频创作者
 - 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
