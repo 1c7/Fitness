@@ -43,9 +43,17 @@
 - 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 6万粉。
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
 - 张翔炜的运动康复: [B站](https://space.bilibili.com/221682694/video) 18万粉。
-- 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 31万粉。
+- 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 32万粉。
 - 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3万粉。
 - 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 3500粉。
+- 体能教练黄爆炸: [B站](https://space.bilibili.com/394037557/video) 2万粉。
+- 冉冉运动康复学院: [B站](https://space.bilibili.com/673687262) 1.9万粉。都是竖屏短视频。
+- 运动康复小七: [B站](https://space.bilibili.com/3493090232895764/video) 2.3万粉。
+- 加拿大康复治疗师Weina: [B站](https://space.bilibili.com/478577282/video) 6k 粉丝。
+- 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。
+- 康复治疗师王太林: [B站](https://space.bilibili.com/1776492822/video) 9.9 万粉。
+- Jason拉我一把: [B站](https://space.bilibili.com/2079003835/video) 3.8 万粉。
+
 
 ### 繁体中文的视频创作者
 - 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
@@ -63,7 +71,19 @@
 - Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 345 万关注。
 - Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。
 - CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
-- Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 194 万关注。
+- THENX: [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。
+- Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。
+- Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 242万关注。
+- Calisthenicmovement: [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。
+- FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
+- YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 71万位订阅者
+- Chris Bumstead: [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者
+- Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
+- Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
+- Barefoot Strength: [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者
+- Obi Vincent: [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。
+- FMS: [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。
+
 
 ## 健身教学图书
 - 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
