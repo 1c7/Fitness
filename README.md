@@ -53,6 +53,7 @@
 - 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。
 - 康复治疗师王太林: [B站](https://space.bilibili.com/1776492822/video) 9.9 万粉。
 - Jason拉我一把: [B站](https://space.bilibili.com/2079003835/video) 3.8 万粉。
+- 王Davii: [B站](https://space.bilibili.com/524299600/video) 1.8 万粉丝。
 
 
 ### 繁体中文的视频创作者
