@@ -90,6 +90,8 @@
 <details>
   <summary>点击展开</summary>
 
+备注: 我看中文内容的比例远超英文，以下英文视频创作者只是我简单搜索找出来的，需要有人帮忙挑选出真正的"高质量第一梯队"内容。
+
 - Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
 - CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。
 - 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 630 万关注。
@@ -117,15 +119,6 @@
 - Simeon Panda: [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。
 - Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 396万位订阅者。
 - Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75.4万位订阅者。
-
-
-### 英语的女性视频创作者
-- Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
-- Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
-- Chloe Ting: [Youtube](https://www.youtube.com/@ChloeTing/videos) 2500 万关注，女性。跟练。
-- Yoga With Adriene: [Youtube](https://www.youtube.com/@yogawithadriene/videos) 1250万关注，瑜伽。
-- Heather Robertson: [Youtube](https://www.youtube.com/@Heatherrobertsoncom) 244 万关注，跟练。
--  MadFit: [Youtube](https://www.youtube.com/@MadFit) 889万位订阅者，跟练。
 </details>
 
 ## 健身教学图书
@@ -219,6 +212,14 @@
 ## 展示成果类
 - 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。111万粉。
 
+
+### 英语的女性视频创作者（跟练和瑜伽类内容我觉得价值不大，先注释掉）
+- Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
+- Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
+- Chloe Ting: [Youtube](https://www.youtube.com/@ChloeTing/videos) 2500 万关注，女性。跟练。
+- Yoga With Adriene: [Youtube](https://www.youtube.com/@yogawithadriene/videos) 1250万关注，瑜伽。
+- Heather Robertson: [Youtube](https://www.youtube.com/@Heatherrobertsoncom) 244 万关注，跟练。
+- MadFit: [Youtube](https://www.youtube.com/@MadFit) 889万位订阅者，跟练。
 
 ## 欢迎补充内容
 可以开 Github 的`issue`或`pull request`（建议先开 Issue 讨论一下）
