@@ -129,6 +129,8 @@
 </details>
 
 ## 健身教学图书
+<details>
+  <summary>点击展开</summary>
 - 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
 - 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
 - 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
@@ -157,6 +159,7 @@
 - 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
 - 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
 - 《重返巅峰-力量训练者伤后功能重建与能力发展》[豆瓣](https://book.douban.com/subject/36644813/)
+</details>
 
 ## 难以分类的健身相关视频创作者。
 <details>
