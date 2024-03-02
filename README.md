@@ -1,10 +1,10 @@
 # 高质量的健身教学
 
 ## 对你有什么价值？
-学健身知识，看高质量的**教学**，节省时间，少走弯路。   
+学健身知识，看高质量的**教学**视频，节省时间。   
 帮助你更好的减脂/增肌。    
 
-## 健身教学内容-视频创作者名单
+## 教健身的视频创作者
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) ⭐⭐⭐⭐⭐ 五星推荐。
 - 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos)
 - 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。34万粉。
@@ -165,7 +165,8 @@
 ## 难以分类的健身视频创作者。
 <details>
   <summary>点击展开</summary>
-难以分类是因为内容很杂（教学类内容占比低）统一放这里。
+
+难以分类因为内容很杂（教学类内容占比低）统一放这里。
 
 - 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
 - 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58万粉，生活类内容居多，教学类内容很少。
@@ -217,7 +218,7 @@
 
 ## 展示成果类
 - 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。111万粉。
--->
+
 
 ## 欢迎补充内容
 可以开 Github 的`issue`或`pull request`（建议先开 Issue 讨论一下）
@@ -225,3 +226,4 @@
 ## 待办事项
 1. 内容还是太多了（难以选择），分成"第一梯队"和"其他"就足够了。
 2. 排序需要调整，并且需要删一些人。
+-->
