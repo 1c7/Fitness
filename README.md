@@ -29,9 +29,12 @@
 - 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 29万粉。
 - UP健身: [B站](https://space.bilibili.com/129819878/video) 32万粉。都是外网视频的翻译。没有自己原创的内容。
 - 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig)
-- 大胡子在踢球: [B站](https://space.bilibili.com/501643818/video) 9k粉丝。
-- 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22.5万粉。
+- 大胡子在踢球: [B站](https://space.bilibili.com/501643818/video) 9千粉丝。
+- 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉。
 - 姚晓龙Mike: [B站](https://space.bilibili.com/319196687/video) 1690粉。
+- 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 5万粉。
+- 热爱训练的阿辉: [B站](https://space.bilibili.com/12755872) 4万粉。
+- TrainerPlus: [B站](https://space.bilibili.com/359519613) 7千粉丝。很多长视频。
 
 ### 高质量的单个视频
 - [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
@@ -120,7 +123,8 @@
 - Anabolic Aliens: [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。
 - Simeon Panda: [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。
 - Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 396万位订阅者。
-- Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75.4万位订阅者。
+- Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。
+- Dr. Jacob Goodin: [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc)
 </details>
 
 ## 健身教学图书
