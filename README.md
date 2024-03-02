@@ -30,6 +30,7 @@
 - UP健身: [B站](https://space.bilibili.com/129819878/video) 32万粉。都是外网视频的翻译。没有自己原创的内容。
 - 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig)
 - 大胡子在踢球: [B站](https://space.bilibili.com/501643818/video) 9k粉丝。
+- 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22.5万粉。
 
 ### 高质量的单个视频
 - [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
