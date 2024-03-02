@@ -35,6 +35,7 @@
 - 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 5万粉。
 - 热爱训练的阿辉: [B站](https://space.bilibili.com/12755872) 4万粉。
 - TrainerPlus: [B站](https://space.bilibili.com/359519613) 7千粉丝。很多长视频。
+- 很黑的黑脱: [B站](https://space.bilibili.com/9603630/video) 1万粉。
 
 ### 高质量的单个视频
 - [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
@@ -233,4 +234,7 @@
 ## 待办事项
 1. 内容还是太多了（难以选择），分成"第一梯队"和"其他"就足够了。
 2. 排序需要调整，并且需要删一些人。
+
+## 长视频（我没看完,没法判断质量）
+- [运动基础科学-肌肉系统-Mike Tyler](https://www.bilibili.com/video/BV1j64y187pC)
 -->
