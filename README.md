@@ -61,7 +61,11 @@
 - 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
 - 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
-## 健身教学内容(英文的视频创作者)
+
+## 英文的视频创作者
+<details>
+  <summary>点击展开</summary>
+
 - Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
 - CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。
 - 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 630 万关注。
@@ -79,12 +83,26 @@
 - FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
 - YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 71万位订阅者
 - Chris Bumstead: [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者
-- Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
-- Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
 - Barefoot Strength: [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者
 - Obi Vincent: [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。
 - FMS: [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。
+- ScottHermanFitness: [Youtube](https://www.youtube.com/@ScottHermanFitness/videos) 280万关注。
+- FitnessBlender: [Youtube](https://www.youtube.com/@fitnessblender/videos) 662 万关注，跟练。
+- HASfit: [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。
+- Anabolic Aliens: [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。
+- Simeon Panda: [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。
+- Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 396万位订阅者。
+- Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75.4万位订阅者。
 
+
+### 英语的女性视频创作者
+- Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
+- Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
+- Chloe Ting: [Youtube](https://www.youtube.com/@ChloeTing/videos) 2500 万关注，女性。跟练。
+- Yoga With Adriene: [Youtube](https://www.youtube.com/@yogawithadriene/videos) 1250万关注，瑜伽。
+- Heather Robertson: [Youtube](https://www.youtube.com/@Heatherrobertsoncom) 244 万关注，跟练。
+-  MadFit: [Youtube](https://www.youtube.com/@MadFit) 889万位订阅者，跟练。
+</details>
 
 ## 健身教学图书
 - 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
@@ -130,10 +148,8 @@
 - 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
 - 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video) 8万粉, [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做健身教学，可能因为流量不好，转型做竖屏+生活类内容。
 - Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
-- 昊然健身: [B站](https://space.bilibili.com/399888740/video) 已停止更新。
 - FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 13万粉。视频长度大多在 3 到 5 分钟。
 - 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。
-- 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。111万粉。
 - Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
 - 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
 - VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
@@ -166,10 +182,6 @@
 - 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 功能性训练。
 
 
-## 跟练类视频，照着做就行。
-- 草莓味鸡胸肉: [B站](https://space.bilibili.com/34044873/video) 194万粉丝。
-- i小小李: [B站](https://space.bilibili.com/588071111/video) 11万粉丝。
-
 <!-- 
 ## 知名人物
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
@@ -190,6 +202,16 @@
 - 欧阳春晓Aurora
 - 嘴哥 [抖音](https://www.douyin.com/user/MS4wLjABAAAAiB6GcfTolyVWY_xlrzOMsgnibS8SdNB3ATDKVCj4TV0)
 - 鸽武缘
+
+## 跟练类视频，意义也不大，很容易找，不收录。
+- 草莓味鸡胸肉: [B站](https://space.bilibili.com/34044873/video) 194万粉丝。
+- i小小李: [B站](https://space.bilibili.com/588071111/video) 11万粉丝。
+
+## 停止更新的人
+- 昊然健身: [B站](https://space.bilibili.com/399888740/video) 已停止更新。
+
+## 展示成果类
+- 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。111万粉。
 -->
 
 ## 欢迎补充内容
