@@ -36,9 +36,7 @@
 - 热爱训练的阿辉: [B站](https://space.bilibili.com/12755872) 4万粉。
 - TrainerPlus: [B站](https://space.bilibili.com/359519613) 7千粉丝。很多长视频。
 - 很黑的黑脱: [B站](https://space.bilibili.com/9603630/video) 1万粉。
-
-### 高质量的单个视频
-- [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
+- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 2.9 万粉。
 
 ### 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
@@ -59,8 +57,13 @@
 - 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。
 - 康复治疗师王太林: [B站](https://space.bilibili.com/1776492822/video) 9.9 万粉。
 - Jason拉我一把: [B站](https://space.bilibili.com/2079003835/video) 3.8 万粉。
-- 王Davii: [B站](https://space.bilibili.com/524299600/video) 1.8 万粉丝。
+- 王Davii: [B站](https://space.bilibili.com/524299600/video) 1.8万粉。
+- 孔博士工作室: [B站](https://space.bilibili.com/356634017/video) 27万粉。
+- 骨科康复kevin: [B站](https://space.bilibili.com/46309408/video) 1.9 万粉。
+- 运动康复找珍妮: [B站](https://space.bilibili.com/3537119572133929/video) 1.6万粉。
 
+### 高质量的单个视频
+- [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
 
 ### 繁体中文的视频创作者
 - 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
