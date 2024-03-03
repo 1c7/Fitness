@@ -5,7 +5,7 @@
 帮助你更好的减脂/增肌。    
 
 ## 教健身的视频创作者
-- 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) ⭐⭐⭐⭐⭐ 五星推荐。
+- 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 五星推荐。
 - 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos)
 - 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。34万粉。
 - Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos) 8万粉。
@@ -97,6 +97,7 @@
 - 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 6.4万粉。
 - 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 2.3 万粉。
 - 爱练腿的小蔡: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 2.7 万粉。
+- 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4.5 万粉。
 
 ## 英文的视频创作者
 <details>
