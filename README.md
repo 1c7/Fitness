@@ -168,6 +168,7 @@
 - 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
 - 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
 - 《重返巅峰-力量训练者伤后功能重建与能力发展》[豆瓣](https://book.douban.com/subject/36644813/)
+- 《腹部功能康复训练：腹部知觉唤醒与力量激活》
 </details>
 
 ## 难以分类的健身视频创作者。
@@ -197,7 +198,7 @@
 </details>
 
 ## 健身相关 App
-- [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908) 健身房教练向我推销（想卖课）时用大屏 iPad 打开这个 App 向我展示某块肌肉，我自己回家下载这个 App 用了下感觉不错，学习肌肉的名称和位置很方便。（非广告）
+- [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908) 学人体解剖，看肌肉分布（非广告，我自己在用）
 
 <!-- 
 ## 知名人物
