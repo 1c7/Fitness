@@ -99,9 +99,6 @@
 - 爱练腿的小蔡: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 2.7 万粉。
 - 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4.5 万粉。
 
-## 健身相关 App
-- [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908) 健身房教练向我推销（想卖课）时用大屏 iPad 打开这个 App 向我展示某块肌肉，我自己回家下载这个 App 用了下感觉不错，学习肌肉的名称和位置很方便。（非广告）
-
 ## 英文的视频创作者
 <details>
   <summary>点击展开</summary>
@@ -197,6 +194,9 @@
 - 肌肉训练师Matt: [B站](https://space.bilibili.com/2022834030/video) 7万粉。
 - 乐森lucas: [B站](https://space.bilibili.com/255720482/video) 4万粉。
 </details>
+
+## 健身相关 App
+- [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908) 健身房教练向我推销（想卖课）时用大屏 iPad 打开这个 App 向我展示某块肌肉，我自己回家下载这个 App 用了下感觉不错，学习肌肉的名称和位置很方便。（非广告）
 
 <!-- 
 ## 知名人物
