@@ -221,9 +221,12 @@
 - 嘴哥 [抖音](https://www.douyin.com/user/MS4wLjABAAAAiB6GcfTolyVWY_xlrzOMsgnibS8SdNB3ATDKVCj4TV0)
 - 鸽武缘
 
-## 跟练类视频，意义也不大，很容易找，不收录。
+## 跟练类视频，意义不大，容易找，不收录。
 - 草莓味鸡胸肉: [B站](https://space.bilibili.com/34044873/video) 194万粉丝。
 - i小小李: [B站](https://space.bilibili.com/588071111/video) 11万粉丝。
+- 莱美健身课程: [B站](https://space.bilibili.com/2000285929/video) 4 万粉。
+- Chris克里斯健身: [B站](https://space.bilibili.com/335886345/video)
+- 贫穷健身 https://space.bilibili.com/431528342/video
 
 ## 停止更新的人
 - 昊然健身: [B站](https://space.bilibili.com/399888740/video) 已停止更新。
@@ -249,4 +252,14 @@
 
 ## 长视频（我没看完,没法判断质量）
 - [运动基础科学-肌肉系统-Mike Tyler](https://www.bilibili.com/video/BV1j64y187pC)
+
+## 其他（还没仔细看视频内容，没法判别质量）
+- 李汎的健身日志 https://space.bilibili.com/605484316/video 竖屏。
+- Myprotein运动营养 https://space.bilibili.com/233667113/video 视频太短。
+- 胖胡在健身 https://space.bilibili.com/1203197504/video
+- 健身KK带你增肌 https://space.bilibili.com/602180779/video
+- 戴夫健身 https://space.bilibili.com/294666436/video
+- 豹哥健身 https://space.bilibili.com/269380821/video
+- 蔡梓强 https://space.bilibili.com/23172987/video
+
 -->
