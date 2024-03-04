@@ -38,6 +38,7 @@
 - 很黑的黑脱: [B站](https://space.bilibili.com/9603630/video) 1万粉。
 - 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 2.9 万粉。
 - 崔格图: [B站](https://space.bilibili.com/472369977/video) 4千粉。
+- 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
 
 ### 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
