@@ -46,7 +46,7 @@
 - C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58万粉。
 - 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6万粉。
 - 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
-- 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 6万粉。
+- 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 15万粉。
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
 - 张翔炜的运动康复: [B站](https://space.bilibili.com/221682694/video) 18万粉。
 - 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 32万粉。
@@ -72,9 +72,7 @@
 - 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
 - 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
-## 抖音-竖屏内容
-粉丝数不代表质量高低，粉丝数仅供参考。  
-
+## 抖音-竖屏内容  
 - 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003)
 - 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg)
 - 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8) 479万粉。
