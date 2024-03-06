@@ -137,6 +137,8 @@
 - Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。
 - Dr. Jacob Goodin: [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc)
 - musclemonsters: [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。
+- Dr. Gains: [Youtube](https://www.youtube.com/@DrGains/videos) 19万粉。
+- E3 Rehab: [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。
 </details>
 
 ## 健身教学图书
