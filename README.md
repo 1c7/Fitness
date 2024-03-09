@@ -98,7 +98,7 @@
 - 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 2.3 万粉。
 - 爱练腿的小蔡: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 2.7 万粉。
 - 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4.5 万粉。
-- 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 44万粉。
+- 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss)44万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。
 
 ## 英文的视频创作者
 <details>
@@ -137,6 +137,7 @@
 - musclemonsters: [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。
 - Dr. Gains: [Youtube](https://www.youtube.com/@DrGains/videos) 19万粉。
 - E3 Rehab: [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。
+- Joe Delaney: [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。
 </details>
 
 ## 健身教学图书
