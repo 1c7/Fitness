@@ -139,6 +139,7 @@
 - Dr. Gains: [Youtube](https://www.youtube.com/@DrGains/videos) 19万粉。
 - E3 Rehab: [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。
 - Joe Delaney: [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。
+- Conor Harris: [Youtube](https://www.youtube.com/@conorharris) 33万粉。
 </details>
 
 ## 健身教学图书
