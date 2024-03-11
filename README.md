@@ -67,6 +67,7 @@
 - 阿群: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 234万粉。
 - 神奇物理治疗师David: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-CPl8oxHlR9nuCovoNi5zy8BDkB-v8jGeI_N_zzL6rI?vid=7345023297832160566) 5万粉。德国人。
 - 运动康复找老孙: [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 255万粉。
+- 康复博士卫双囍: [B站](https://space.bilibili.com/3493086252501409/video) 8万粉。
 <!-- 
 - 康复学堂: [B站](https://space.bilibili.com/285757640/video) 3万粉。不是原创内容，基本都是翻译。
 - 明威老师运动康复: [B站](https://space.bilibili.com/206323949/video) 9万粉。 
@@ -110,6 +111,8 @@
 - 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 14万粉。
 - 熊小磊说健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAQWJK6nTMLyymJ_zqkROJcPjwSZj2NP5g34eOMuWIR-8) 15万粉。
 - 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 7万粉。
+- 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 17万粉。
+
 
 ## 英文的视频创作者
 <details>
