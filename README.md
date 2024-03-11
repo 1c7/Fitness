@@ -84,7 +84,7 @@
 - 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc)
 - 金士程: [抖音](https://www.douyin.com/user/MS4wLjABAAAA9tXy09iTw4cp8GNBT0HCwZ_-rbHOrlQlxhw5FZKHrSw)
 - 席鑫: [抖音](https://www.douyin.com/user/MS4wLjABAAAAqJahTvivbb6IiAXo2ZVzpLzULH7X3weZX0ob1hncD5Y) 188万粉。
-- 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。18万粉。
+- 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。21万粉。 [B站](https://space.bilibili.com/104375829/video) 5万粉。 练的很好。
 - 吕小军: [抖音](https://www.douyin.com/user/MS4wLjABAAAAh72VGGPFMtwgcU3OWtyt9cphvbel04BUkTwC_usP1yw)
 - 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 105万粉。
 - 别往嘴里旋了，姐妹（王刚教练）: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
@@ -276,4 +276,6 @@
 - 蔡梓强 https://space.bilibili.com/23172987/video
 - 剑眉同学: [抖音](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 这人出过一本书《健身百科全书》，但是抖音只是一直卖货和直播，没有太多教学内容。
 
+
+- 费教练健身教学: [抖音](https://www.douyin.com/user/MS4wLjABAAAAUL4yUQ05Td2YThc5lnTvgXbaviBBuZ8t8XV7vg0mHrU) 完完全全针对女性的教学视频。
 -->
