@@ -66,6 +66,7 @@
 - 运动康复找珍妮: [B站](https://space.bilibili.com/3537119572133929/video) 1.6万粉。
 - 阿群: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 234万粉。
 - 神奇物理治疗师David: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-CPl8oxHlR9nuCovoNi5zy8BDkB-v8jGeI_N_zzL6rI?vid=7345023297832160566) 5万粉。德国人。
+- 运动康复找老孙: [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 255万粉。
 <!-- 
 - 康复学堂: [B站](https://space.bilibili.com/285757640/video) 3万粉。不是原创内容，基本都是翻译。
 - 明威老师运动康复: [B站](https://space.bilibili.com/206323949/video) 9万粉。 
@@ -268,10 +269,6 @@
 ## 欢迎补充内容
 可以开 Github 的`issue`或`pull request`（建议先开 Issue 讨论一下）
 
-## 待办事项
-1. 内容还是太多了（难以选择），分成"第一梯队"和"其他"就足够了。
-2. 排序需要调整，并且需要删一些人。
-
 ## 长视频（我没看完,没法判断质量）
 - [运动基础科学-肌肉系统-Mike Tyler](https://www.bilibili.com/video/BV1j64y187pC)
 
@@ -289,4 +286,7 @@
 - 费教练健身教学: [抖音](https://www.douyin.com/user/MS4wLjABAAAAUL4yUQ05Td2YThc5lnTvgXbaviBBuZ8t8XV7vg0mHrU) 完完全全针对女性的教学视频。
 
 - 老王体能康复: [B站](https://space.bilibili.com/245589869/video) 3万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA8OnO4J_DotqCS-Cl7dg37gvGYokAFT4Xx8Us8nf_jow) 37万粉。抖音账号上推销产品的视频太多了。垃圾内容。
+
+## 下一步
+1. 高质量的"单个"视频，多看多收集。
 -->
