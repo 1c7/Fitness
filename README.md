@@ -64,6 +64,7 @@
 - 孔博士工作室: [B站](https://space.bilibili.com/356634017/video) 27万粉。
 - 骨科康复kevin: [B站](https://space.bilibili.com/46309408/video) 1.9 万粉。
 - 运动康复找珍妮: [B站](https://space.bilibili.com/3537119572133929/video) 1.6万粉。
+- 阿群: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 234万粉。
 
 ### 高质量的单个视频
 - [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
