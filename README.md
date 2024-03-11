@@ -36,7 +36,7 @@
 - 热爱训练的阿辉: [B站](https://space.bilibili.com/12755872) 4万粉。
 - TrainerPlus: [B站](https://space.bilibili.com/359519613) 7千粉丝。很多长视频。
 - 很黑的黑脱: [B站](https://space.bilibili.com/9603630/video) 1万粉。
-- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 2.9万粉。
+- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 2.9万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
 - 崔格图: [B站](https://space.bilibili.com/472369977/video) 4千粉。
 - 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
 - Kent说: [B站](https://space.bilibili.com/3493118863214614/video) 9千粉。
@@ -100,7 +100,9 @@
 - 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 2.3 万粉。
 - 爱练腿的小蔡: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 2.7 万粉。
 - 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4.5 万粉。
-- 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss)44万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。
+- 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 44万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。
+- 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 14万粉。
+- 熊小磊说健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAQWJK6nTMLyymJ_zqkROJcPjwSZj2NP5g34eOMuWIR-8) 15万粉。
 
 ## 英文的视频创作者
 <details>
@@ -123,7 +125,7 @@
 - Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 242万关注。
 - Calisthenicmovement: [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。
 - FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
-- YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 71万位订阅者
+- YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者
 - Chris Bumstead: [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者
 - Barefoot Strength: [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者
 - Obi Vincent: [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。
@@ -141,6 +143,7 @@
 - E3 Rehab: [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。
 - Joe Delaney: [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。
 - Conor Harris: [Youtube](https://www.youtube.com/@conorharris) 33万粉。
+- Paul Revelia: [Youtube](https://www.youtube.com/@PaulRevelia/videos) 55万粉。
 </details>
 
 ## 健身教学图书
@@ -242,13 +245,14 @@
 - 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。111万粉。
 
 
-### 英语的女性视频创作者（跟练和瑜伽类内容我觉得价值不大，先注释掉）
+### 英语的女性视频创作者（跟练和瑜伽类价值不大，先注释）
 - Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
 - Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
 - Chloe Ting: [Youtube](https://www.youtube.com/@ChloeTing/videos) 2500 万关注，女性。跟练。
 - Yoga With Adriene: [Youtube](https://www.youtube.com/@yogawithadriene/videos) 1250万关注，瑜伽。
 - Heather Robertson: [Youtube](https://www.youtube.com/@Heatherrobertsoncom) 244 万关注，跟练。
 - MadFit: [Youtube](https://www.youtube.com/@MadFit) 889万位订阅者，跟练。
+- https://www.youtube.com/@JessicaRichburg/videos
 
 ## 欢迎补充内容
 可以开 Github 的`issue`或`pull request`（建议先开 Issue 讨论一下）
