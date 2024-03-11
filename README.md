@@ -41,7 +41,7 @@
 - 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
 - Kent说: [B站](https://space.bilibili.com/3493118863214614/video) 9千粉。
 
-### 体态矫正/康复/稳定性/灵活性/功能性训练
+## 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
 - C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 118万粉。
 - C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58万粉。
@@ -77,11 +77,6 @@
 
 ### 高质量的单个视频
 - [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
-
-### 繁体中文的视频创作者
-- 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
-- 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
-- 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
 ## 抖音-竖屏内容  
 - 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003)
@@ -226,6 +221,11 @@
 
 ## 健身相关 App
 - [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908) 学人体解剖，看肌肉分布（非广告，我自己在用）
+
+### 繁体中文的视频创作者
+- 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
+- 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
+- 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
 <!-- 
 ## 知名人物
