@@ -8,7 +8,7 @@
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 五星推荐。
 - 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos)
 - 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。34万粉。
-- Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos) 8万粉。
+- Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos) 8万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14万粉。
 - 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 182万粉。
 - 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 217万粉。
 - Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 74万粉。
@@ -65,6 +65,7 @@
 - 骨科康复kevin: [B站](https://space.bilibili.com/46309408/video) 1.9 万粉。
 - 运动康复找珍妮: [B站](https://space.bilibili.com/3537119572133929/video) 1.6万粉。
 - 阿群: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 234万粉。
+- 神奇物理治疗师David: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-CPl8oxHlR9nuCovoNi5zy8BDkB-v8jGeI_N_zzL6rI?vid=7345023297832160566) 5万粉。德国人。
 
 ### 高质量的单个视频
 - [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
@@ -103,6 +104,7 @@
 - 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 44万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。
 - 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 14万粉。
 - 熊小磊说健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAQWJK6nTMLyymJ_zqkROJcPjwSZj2NP5g34eOMuWIR-8) 15万粉。
+- 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 7万粉。
 
 ## 英文的视频创作者
 <details>
@@ -272,5 +274,6 @@
 - 戴夫健身 https://space.bilibili.com/294666436/video
 - 豹哥健身 https://space.bilibili.com/269380821/video
 - 蔡梓强 https://space.bilibili.com/23172987/video
+- 剑眉同学: [抖音](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 这人出过一本书《健身百科全书》，但是抖音只是一直卖货和直播，没有太多教学内容。
 
 -->
