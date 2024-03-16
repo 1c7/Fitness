@@ -100,7 +100,7 @@
 - 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 2.8万粉。
 - 鹿晨辉的日常: [抖音](https://www.douyin.com/user/MS4wLjABAAAAte2x0QnSHOiOus_K7-6gtW0H6FQyTew1zcsuF7CO8cw?vid=7337250043428162879) 教学类内容占比百分之50。
 - 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 功能性训练。
-- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 6.4万粉。
+- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 7万粉。
 - 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 2.3 万粉。
 - 爱练腿的小蔡: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 2.7 万粉。
 - 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4.5 万粉。
@@ -109,7 +109,9 @@
 - 熊小磊说健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAQWJK6nTMLyymJ_zqkROJcPjwSZj2NP5g34eOMuWIR-8) 15万粉。
 - 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 7万粉。
 - 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 17万粉。
-
+<!-- 
+- 丹尼尔.王哥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAelpyQJAUNdwUH0g7Ohfg8MqZSm0RotSmjtQ8NjavXew?vid=7343805716584615206) 粉丝7万。
+ -->
 
 ## 英文的视频创作者
 <details>
@@ -118,18 +120,18 @@
 备注: 我看中文内容的比例远超英文，以下英文视频创作者只是我简单搜索找出来的，需要有人帮忙挑选出真正的"高质量第一梯队"内容。
 
 - Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
-- CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。
+- CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。Youtube 叫做 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 206万粉。
 - 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 630 万关注。
 - ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
 - eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。
 - Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。
 - Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
-- Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 345 万关注。
+- Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
 - Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。
 - CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
 - THENX: [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。
 - Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。
-- Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 242万关注。
+- Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 245万关注。
 - Calisthenicmovement: [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。
 - FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
 - YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者
@@ -142,7 +144,7 @@
 - HASfit: [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。
 - Anabolic Aliens: [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。
 - Simeon Panda: [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。
-- Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 396万位订阅者。
+- Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 398万位订阅者。
 - Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。
 - Dr. Jacob Goodin: [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc)
 - musclemonsters: [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。
@@ -151,6 +153,24 @@
 - Joe Delaney: [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。
 - Conor Harris: [Youtube](https://www.youtube.com/@conorharris) 33万粉。
 - Paul Revelia: [Youtube](https://www.youtube.com/@PaulRevelia/videos) 55万粉。
+- Alan Thrall: [Youtube](https://www.youtube.com/@AlanThrall) 85万粉。
+- OmarIsuf: [Youtube](https://www.youtube.com/@OmarIsuf/videos) 84万粉。
+- Calgary Barbell: [Youtube](https://www.youtube.com/@calgarybarbell/videos) 29万粉。
+- Mind Pump Show: [Youtube](https://www.youtube.com/channel/UCq0hKkwnW5Cw1wQqu455WrA) 44万粉。
+- VitruvianPhysique: [Youtube](https://www.youtube.com/channel/UCAcQW_4qZ12wNt3T0M9b-Vw) 57万粉。
+- Alex Leonidas: [Youtube](https://www.youtube.com/@AlexLeonidas/videos) 38万粉。
+- Sean Nalewanyj: [Youtube](https://www.youtube.com/@Sean_Nalewanyj/videos) 109万粉。
+- Jesse James West: [Youtube](https://www.youtube.com/@JesseJamesWest/videos) 387万粉。
+- mountaindog1: [Youtube](https://www.youtube.com/@mountaindog1/videos) 82万粉。
+- The Kneesovertoesguy: [Youtube](https://www.youtube.com/@TheKneesovertoesguy/videos) 142万粉。
+
+### 运动康复/损伤预防
+- `[P]rehab`: [Youtube](https://www.youtube.com/channel/UCZOrpZTHi21RZpnxXdlJbgQ) 32万粉。
+- Upright Health: [Youtube](https://www.youtube.com/@Uprighthealth/videos) 86万粉。
+- Bob & Brad: [Youtube](https://www.youtube.com/@BobandBrad/videos) 504万粉。
+
+### 其他
+- 动物流: [Youtube](https://www.youtube.com/@AnimalFlow/videos) 6万粉。
 </details>
 
 ## 健身教学图书
