@@ -50,7 +50,7 @@
 - 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 15万粉。
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
 - 张翔炜的运动康复: [B站](https://space.bilibili.com/221682694/video) 19万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 68万粉。
-- 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 32万粉。
+- 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 32万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
 - 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3万粉。
 - 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 3500粉。
 - 体能教练黄爆炸: [B站](https://space.bilibili.com/394037557/video) 2万粉。
