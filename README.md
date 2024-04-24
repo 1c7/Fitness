@@ -49,7 +49,7 @@
 - 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
 - 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 15万粉。
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
-- 张翔炜的运动康复: [B站](https://space.bilibili.com/221682694/video) 19万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 68万粉。
+- 张翔炜的运动康复(优秀): [B站](https://space.bilibili.com/221682694/video) 21万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 68万粉。
 - 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 32万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
 - 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3万粉。
 - 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 3500粉。
@@ -69,6 +69,9 @@
 - 运动康复找老孙: [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 255万粉。
 - 康复博士卫双囍: [B站](https://space.bilibili.com/3493086252501409/video) 8万粉。
 - 杭州运动康复: [B站](https://space.bilibili.com/3494350254246470/video) 2000粉。
+
+## 饮食/营养
+- 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉。
 
 <!-- 
 - 康复学堂: [B站](https://space.bilibili.com/285757640/video) 3万粉。不是原创内容，基本都是翻译。
@@ -97,7 +100,7 @@
 - 爱健身💪阿祥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAkV2697wTZ5k_i7pWDK4RLshqmssimnKtaKLSJ6BeNlo) 196万粉。
 - 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
 - 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 8万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
-- 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 2.8万粉。
+- 北京力量教练舒雨帆(优秀): [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 3万粉。
 - 鹿晨辉的日常: [抖音](https://www.douyin.com/user/MS4wLjABAAAAte2x0QnSHOiOus_K7-6gtW0H6FQyTew1zcsuF7CO8cw?vid=7337250043428162879) 教学类内容占比百分之50。
 - 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 功能性训练。
 - 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 7万粉。
