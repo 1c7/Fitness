@@ -69,9 +69,10 @@
 - 运动康复找老孙: [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 255万粉。
 - 康复博士卫双囍: [B站](https://space.bilibili.com/3493086252501409/video) 8万粉。
 - 杭州运动康复: [B站](https://space.bilibili.com/3494350254246470/video) 2000粉。
+- 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉。
 
 ## 饮食/营养
-- 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉。
+- 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 22万粉。
 
 <!-- 
 - 康复学堂: [B站](https://space.bilibili.com/285757640/video) 3万粉。不是原创内容，基本都是翻译。
