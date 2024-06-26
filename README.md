@@ -1,17 +1,16 @@
 # 高质量的健身教学
 
-## 对你有什么价值？
-学健身知识，看高质量的**教学**视频，节省时间。   
-帮助你更好的减脂/增肌。    
+## 对你的价值
+看高质量的**教学**视频学健身知识，节省时间，更好的减脂/增肌。    
 
 ## 教健身的视频创作者
 - 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 五星推荐。
-- 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos)
-- 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。34万粉。
-- Gandy: [B站](https://space.bilibili.com/378067652/video), [Youtube](https://www.youtube.com/@gandy2748/videos) 8万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14万粉。
-- 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 182万粉。
-- 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 217万粉。
-- Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 74万粉。
+- 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 141万粉
+- 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。38万粉。
+- Gandy: [B站](https://space.bilibili.com/378067652/video) 70万粉, [Youtube](https://www.youtube.com/@gandy2748/videos) 9万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14万粉。
+- 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 187万粉。
+- 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 237万粉。
+- Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 80万粉。
 - 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46万粉。
 - 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
 - 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 55万粉
@@ -227,7 +226,7 @@
 贵精不贵多。     
 
 ## 目标
-1. 这个列表会持续更新（增减数量/调整排序），最终每个类别下只有10-20个视频创作者，并单独列出前几名（比如前3，前5，前10），因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。
+列表会持续更新（增减数量/调整排序），最终每个类别下只有10-20个视频创作者，并单独列出前几名（比如前3，前5），因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。
 
 <!-- 
 ## 知名人物
