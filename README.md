@@ -42,14 +42,14 @@
 - Kent说: [B站](https://space.bilibili.com/3493118863214614/video) 9千粉。
 
 ## 体态矫正/康复/稳定性/灵活性/功能性训练
-- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 7万粉。
+- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 28万粉
+- 张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 22万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 76万粉。
 - C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 118万粉。
 - C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58万粉。
 - 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6万粉。
 - 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
-- 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 15万粉。
+- 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 116万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAcQl4uLUk1Tc19p2DHRcdeQEk-hXN28y_ecJgXa0J8Ag)
 - 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
-- 张翔炜的运动康复(优秀): [B站](https://space.bilibili.com/221682694/video) 22万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 72万粉。
 - 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 33万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
 - 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3万粉。
 - 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 3500粉。
@@ -89,7 +89,6 @@
 - 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8) 479万粉。
 - 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi) 110万粉。
 - 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc)
-- 金士程: [抖音](https://www.douyin.com/user/MS4wLjABAAAA9tXy09iTw4cp8GNBT0HCwZ_-rbHOrlQlxhw5FZKHrSw)
 - 席鑫: [抖音](https://www.douyin.com/user/MS4wLjABAAAAqJahTvivbb6IiAXo2ZVzpLzULH7X3weZX0ob1hncD5Y) 188万粉。
 - 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。21万粉。 [B站](https://space.bilibili.com/104375829/video) 5万粉。 练的很好。
 - 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 105万粉。
@@ -324,4 +323,7 @@
 
 ## 账号已注销。
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
+
+- 金士程: [抖音](https://www.douyin.com/user/MS4wLjABAAAA9tXy09iTw4cp8GNBT0HCwZ_-rbHOrlQlxhw5FZKHrSw)
+发的内容是真无聊。
 -->
