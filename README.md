@@ -32,7 +32,7 @@
 - 崔格图: [B站](https://space.bilibili.com/472369977/video) 4千粉。
 - 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
 
-## 体态矫正/康复/稳定性/灵活性/功能性训练
+## 体态矫正,运动康复,功能性训练
 - 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 28万粉
 - 张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 22万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 76万粉。
 - C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 120万粉
@@ -66,13 +66,8 @@
 ## 饮食/营养
 - 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 22万粉。
 
-<!-- 
-- 康复学堂: [B站](https://space.bilibili.com/285757640/video) 3万粉。不是原创内容，基本都是翻译。
-- 明威老师运动康复: [B站](https://space.bilibili.com/206323949/video) 9万粉。 
--->
-
 ## 高质量的单个视频
-- [《健身新手的**训练**完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
+- [《健身新手的**训练**完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 长度 56 分钟。
 
 ## 抖音-竖屏内容  
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 5万粉
@@ -227,9 +222,13 @@
 
 
 ## 备注
-这个列表带有我的个人主观，有很多"名人",和粉丝多的"网红"不在列表里。      
-列表的重点不是 "全面"（把所有人都列出来），而是 "教学内容质量高和数量较多"。      
+这个列表带有我的个人主观，有很多"名人"和粉丝多的"网红"不在列表里。      
+列表的重点不是 "全"（把所有人都列出来）而是 "教学质量高"。      
 贵精不贵多。     
+
+## 目标
+1. 这个列表会持续更新（增减数量/调整排序），最终每个类别下只有10-20个视频创作者，并单独列出前几名（比如前3，前5，前10），因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。
+
 <!-- 
 ## 知名人物
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
@@ -364,5 +363,8 @@
 - 姚晓龙Mike: [B站](https://space.bilibili.com/319196687/video) 1690粉。
 - Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
 
-到最后，一个门类里只留10个人差不多了，对读者来说，选择太多了不好选。或者把最好（"好"是比较主观的）10个排在最前面。
+
+<!-- 
+- 康复学堂: [B站](https://space.bilibili.com/285757640/video) 3万粉。不是原创内容，基本都是翻译。
+- 明威老师运动康复: [B站](https://space.bilibili.com/206323949/video) 9万粉。 
 -->
