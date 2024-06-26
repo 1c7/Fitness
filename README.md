@@ -42,7 +42,7 @@
 - Kent说: [B站](https://space.bilibili.com/3493118863214614/video) 9千粉。
 
 ## 体态矫正/康复/稳定性/灵活性/功能性训练
-- 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
+- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 7万粉。
 - C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 118万粉。
 - C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58万粉。
 - 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6万粉。
@@ -102,7 +102,6 @@
 - 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 8万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
 - 鹿晨辉的日常: [抖音](https://www.douyin.com/user/MS4wLjABAAAAte2x0QnSHOiOus_K7-6gtW0H6FQyTew1zcsuF7CO8cw?vid=7337250043428162879) 教学类内容占比百分之50。
 - 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 功能性训练。
-- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 7万粉。
 - 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 2.3 万粉。
 - 爱练腿的小蔡: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 2.7 万粉。
 - 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4.5 万粉。
@@ -321,4 +320,8 @@
 
 ## 下一步
 1. 高质量的"单个"视频，多看多收集。
+
+
+## 账号已注销。
+- 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
 -->
