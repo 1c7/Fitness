@@ -85,30 +85,18 @@
 ## 抖音-竖屏内容  
 - 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 5万粉
 - 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16万粉。
-- 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg)
-- 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8) 479万粉。
-- 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi) 110万粉。
-- 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc)
-- 席鑫: [抖音](https://www.douyin.com/user/MS4wLjABAAAAqJahTvivbb6IiAXo2ZVzpLzULH7X3weZX0ob1hncD5Y) 188万粉。
-- 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。21万粉。 [B站](https://space.bilibili.com/104375829/video) 5万粉。 练的很好。
-- 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 105万粉。
-- 别往嘴里旋了，姐妹（王刚教练）: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
-- 杨哥是我: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_JhWqklK7F0f21-jarxqnwXKO3AqSIWlHYm1IJyEkdg?vid=7328108445528313125)
-- 爱健身的小帅: [抖音](https://www.douyin.com/user/MS4wLjABAAAAtBnzQj35lDIdY6CVHGDbWTXUBApvHqXh7DqEKV88C9fXRdLXRnJxtRLNxnEi6Gag) 3万粉。
-- 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 474万粉。
-- 爱健身💪阿祥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAkV2697wTZ5k_i7pWDK4RLshqmssimnKtaKLSJ6BeNlo) 196万粉。
+- 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc) 47万粉
+- 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 107万粉。
+- 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
+- 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 512万粉。
 - 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
 - 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 14万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
-- 鹿晨辉的日常: [抖音](https://www.douyin.com/user/MS4wLjABAAAAte2x0QnSHOiOus_K7-6gtW0H6FQyTew1zcsuF7CO8cw?vid=7337250043428162879) 教学类内容占比百分之50。
-- 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 功能性训练。
-- 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 2.3 万粉。
-- 爱练腿的小蔡: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 2.7 万粉。
-- 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4.5 万粉。
+- 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 1万粉。功能性训练。
+- 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 9 万粉。
 - 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 47万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。李维刚弄的学校，抖音直播挺频繁的，干货也不少，卖399元的48课时课程，直播主要是给自己的学校招生。
-- 熊小磊说健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAQWJK6nTMLyymJ_zqkROJcPjwSZj2NP5g34eOMuWIR-8) 15万粉。
 - 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8万粉。
-- 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 17万粉。
-- 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003) 36万粉。
+- 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 19万粉。
+
 
 <!-- 
 - 吕小军: [抖音](https://www.douyin.com/user/MS4wLjABAAAAh72VGGPFMtwgcU3OWtyt9cphvbel04BUkTwC_usP1yw) 
@@ -240,8 +228,6 @@
 - Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
 - 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
 - VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
-- 肌肉训练师Matt: [B站](https://space.bilibili.com/2022834030/video) 7万粉。
-- 乐森lucas: [B站](https://space.bilibili.com/255720482/video) 4万粉。
 </details>
 
 ## 健身相关 App
@@ -320,4 +306,52 @@
 - 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 账号已注销。
 
 - 金士程: [抖音](https://www.douyin.com/user/MS4wLjABAAAA9tXy09iTw4cp8GNBT0HCwZ_-rbHOrlQlxhw5FZKHrSw)
+金士程更新的内容里，教学的东西占比太低，都是分享日常生活，什么去纽约比赛之类的。
+
+- 乐森lucas: [B站](https://space.bilibili.com/255720482/video) 
+内容质量没有我预期的高。最近更新了6期和头发相关的内容，我没兴趣。
+
+- 肌肉训练师Matt: [B站](https://space.bilibili.com/2022834030/video) 
+教学类内容太少，已经走网红路线了，各种奇奇怪怪的视频。
+
+- 教练王彦: [抖音](https://www.douyin.com/user/MS4wLjABAAAANL0wV0bWWjo_qI9FiSF5DYtumNI_Ru9DLg4C8yfWBX8?vid=7337203579708575003) 47万粉
+不喜欢这种风格，每一个视频都是 "国家队教练教你XXX"。
+
+- 熊小磊说健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAQWJK6nTMLyymJ_zqkROJcPjwSZj2NP5g34eOMuWIR-8) 15万粉。
+内容过于"日常"。
+
+- 周玉坤举重: [抖音](https://www.douyin.com/user/MS4wLjABAAAAujWSStYDJ73WL4AXX1Ueq_LMe_qCwt_gtKkSdPnLOYU?vid=7341396329853160739) 4万粉。
+只有背着杠铃深蹲这一个事情。
+
+- 蔡园🌱: [抖音](https://www.douyin.com/user/MS4wLjABAAAALGQpLgq3hS5UhY_0uS-Yjc_Ln-iQqdHw3WSkV-VGVEA?vid=7341773143289253156) 5 万粉。
+"日常"记录。
+
+- 鹿晨辉的日常: [抖音](https://www.douyin.com/user/MS4wLjABAAAAte2x0QnSHOiOus_K7-6gtW0H6FQyTew1zcsuF7CO8cw?vid=7337250043428162879) 14万粉。
+更新太慢。教学内容50%。
+
+- 爱健身💪阿祥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAkV2697wTZ5k_i7pWDK4RLshqmssimnKtaKLSJ6BeNlo) 196万粉。
+内容太过于 "网红风"，视频大多在20秒内。
+
+- 爱健身的小帅: [抖音](https://www.douyin.com/user/MS4wLjABAAAAtBnzQj35lDIdY6CVHGDbWTXUBApvHqXh7DqEKV88C9fXRdLXRnJxtRLNxnEi6Gag) 4万粉。
+带货内容太多。卖左旋，卖增肌粉。
+
+- 杨哥是我: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_JhWqklK7F0f21-jarxqnwXKO3AqSIWlHYm1IJyEkdg?vid=7328108445528313125) 2万粉
+内容看着还行，但是由于我没有看完至少80%的视频，所以还是不放在列表里了。
+
+- 鬼背小黑: [抖音](https://www.douyin.com/user/MS4wLjABAAAAlasluTSlkZF-RAQhHdeatNMItdynOTwxPh3KDJzcFmk) 黑人健身运动员。25万粉。 [B站](https://space.bilibili.com/104375829/video) 5万粉。 练的很好。
+"日常"内容太多，教学内容太少。
+
+- 席鑫: [抖音](https://www.douyin.com/user/MS4wLjABAAAAqJahTvivbb6IiAXo2ZVzpLzULH7X3weZX0ob1hncD5Y) 188万粉。
+"日常"内容太多，教学内容太少。
+
+- 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi) 126万粉
+我不喜欢这个造型和视频风格。但显然有126万人喜欢。
+
+- 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8) 479万粉。
+先从表里挪出来，等哪天看完至少60%的视频再决定。
+
+- 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg) 105万粉
+视频列表一眼望去教学类的内容较少。
+
+到最后，一个门类里只留10个人差不多了，对读者来说，选择太多了不好选。或者把最好（"好"是比较主观的）10个排在最前面。
 -->
