@@ -14,7 +14,7 @@
 - Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 74万粉。
 - 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46万粉。
 - 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
-- 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 47万粉。
+- 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 55万粉
 - ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 10万粉。
 - 维亚德: [B站](https://space.bilibili.com/1745356376/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44), 法国人, 内容多是竖屏短视频。
 - KymFit: [B站](https://space.bilibili.com/18143977/video) 18万粉。
@@ -22,24 +22,15 @@
 - 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video) 11万粉。
 - MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video) 33万粉。
 - Steve不是美队: [B站](https://space.bilibili.com/2507562/video) 3万粉。
-- Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
-- 澳洲健身ALEX: [B站](https://space.bilibili.com/1681952786/video) 7万粉。
+- 澳洲健身ALEX: [B站](https://space.bilibili.com/1681952786/video) 9万粉。
 - FitMen六六: [B站](https://space.bilibili.com/177989483/video) 20万粉。
-- 小波健身: [B站](https://space.bilibili.com/497257864/video) 62万粉。
-- 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 29万粉。
-- UP健身: [B站](https://space.bilibili.com/129819878/video) 32万粉。都是外网视频的翻译。没有自己原创的内容。
-- 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video) 1万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig) 2400粉。
-- 大胡子在踢球: [B站](https://space.bilibili.com/501643818/video) 9千粉丝。
-- 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉。
-- 姚晓龙Mike: [B站](https://space.bilibili.com/319196687/video) 1690粉。
-- 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 5万粉。
-- 热爱训练的阿辉: [B站](https://space.bilibili.com/12755872) 4万粉。
-- TrainerPlus: [B站](https://space.bilibili.com/359519613) 7千粉丝。很多长视频。
-- 很黑的黑脱: [B站](https://space.bilibili.com/9603630/video) 1万粉。
-- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 2.9万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
+- 小波健身: [B站](https://space.bilibili.com/497257864/video) 63万粉。
+- 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 31万粉。
+- UP健身: [B站](https://space.bilibili.com/129819878/video) 35万粉。都是外网视频的翻译。没有自己原创的内容。
+- 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video) 2万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig) 4万粉
+- 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 10万粉
 - 崔格图: [B站](https://space.bilibili.com/472369977/video) 4千粉。
 - 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
-- Kent说: [B站](https://space.bilibili.com/3493118863214614/video) 9千粉。
 
 ## 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 28万粉
@@ -70,6 +61,7 @@
 - 康复博士卫双囍: [B站](https://space.bilibili.com/3493086252501409/video) 8万粉。
 - 杭州运动康复: [B站](https://space.bilibili.com/3494350254246470/video) 2000粉。
 - 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
+- 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉。
 
 ## 饮食/营养
 - 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 22万粉。
@@ -234,7 +226,10 @@
 - [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908)：学人体解剖，看肌肉分布（非广告，我自己在用）
 
 
-
+## 备注
+这个列表带有我的个人主观，有很多"名人",和粉丝多的"网红"不在列表里。      
+列表的重点不是 "全面"（把所有人都列出来），而是 "教学内容质量高和数量较多"。      
+贵精不贵多。     
 <!-- 
 ## 知名人物
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
@@ -357,6 +352,17 @@
 - 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
 
+## "日常"内容太多，教学内容太少。
+- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
+- 热爱训练的阿辉: [B站](https://space.bilibili.com/12755872) 4万粉。
+- 大胡子在踢球: [B站](https://space.bilibili.com/501643818/video) 9千粉丝。
+
+## 精简列表，以下的这些人等我之后仔细看了再决定是否加入列表
+- Kent说: [B站](https://space.bilibili.com/3493118863214614/video) 1万粉
+- 很黑的黑脱: [B站](https://space.bilibili.com/9603630/video) 1万粉。
+- TrainerPlus: [B站](https://space.bilibili.com/359519613) 7千粉丝。很多长视频。
+- 姚晓龙Mike: [B站](https://space.bilibili.com/319196687/video) 1690粉。
+- Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
 
 到最后，一个门类里只留10个人差不多了，对读者来说，选择太多了不好选。或者把最好（"好"是比较主观的）10个排在最前面。
 -->
