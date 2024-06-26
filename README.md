@@ -44,7 +44,7 @@
 ## 体态矫正/康复/稳定性/灵活性/功能性训练
 - 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 28万粉
 - 张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 22万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 76万粉。
-- C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 118万粉。
+- C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 120万粉
 - C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58万粉。
 - 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6万粉。
 - 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
@@ -83,8 +83,8 @@
 - [《健身新手的**训练**完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) (好人松松) 56分钟。
 
 ## 抖音-竖屏内容  
-- 北京力量教练舒雨帆(优秀): [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 3万粉。
-- 简单健(优秀): [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 15万粉。
+- 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 5万粉
+- 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16万粉。
 - 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg)
 - 尼基塔: [抖音](https://www.douyin.com/user/MS4wLjABAAAA0y6GHgR3h5Qc7LsdoENBds3YrNlpdHCxCrHprorloC8) 479万粉。
 - 暴躁野哥讲健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAi9ofAl28XjZis_DX9EHXzUcmFzQNxw-mkYdUlxrvwqo-jQ4CS2vLn67MGvJrWCJi) 110万粉。
@@ -98,7 +98,7 @@
 - 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 474万粉。
 - 爱健身💪阿祥: [抖音](https://www.douyin.com/user/MS4wLjABAAAAkV2697wTZ5k_i7pWDK4RLshqmssimnKtaKLSJ6BeNlo) 196万粉。
 - 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
-- 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 8万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
+- 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 14万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
 - 鹿晨辉的日常: [抖音](https://www.douyin.com/user/MS4wLjABAAAAte2x0QnSHOiOus_K7-6gtW0H6FQyTew1zcsuF7CO8cw?vid=7337250043428162879) 教学类内容占比百分之50。
 - 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 功能性训练。
 - 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 2.3 万粉。
@@ -317,13 +317,7 @@
 
 - 老王体能康复: [B站](https://space.bilibili.com/245589869/video) 3万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA8OnO4J_DotqCS-Cl7dg37gvGYokAFT4Xx8Us8nf_jow) 37万粉。抖音账号上推销产品的视频太多了。垃圾内容。
 
-## 下一步
-1. 高质量的"单个"视频，多看多收集。
-
-
-## 账号已注销。
-- 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 1万粉。
+- 大海运动训练: [B站](https://space.bilibili.com/3461582677871005/video) 账号已注销。
 
 - 金士程: [抖音](https://www.douyin.com/user/MS4wLjABAAAA9tXy09iTw4cp8GNBT0HCwZ_-rbHOrlQlxhw5FZKHrSw)
-发的内容是真无聊。
 -->
