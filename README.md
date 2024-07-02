@@ -45,7 +45,7 @@
 - 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 47万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。李维刚弄的学校，抖音直播挺频繁的，干货也不少，卖399元的48课时课程，直播主要是给自己的学校招生。
 - 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8万粉。
 - 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 19万粉。
-- 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 101万粉。我只看了他一个视频，扫了一眼主页看起来不错。
+- 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 101万粉。我只看了他一个视频，扫了一眼主页看起来不错。"饮食"类内容比较多。
 
 
 ## 体态矫正,运动康复,功能性训练
@@ -215,12 +215,14 @@
 
 
 ## 备注
-这个列表带有我的个人主观，有很多"名人"和粉丝多的"网红"不在列表里。      
-列表的重点不是 "全"（把所有人都列出来）而是 "教学质量高"。      
+这个列表带有我的个人主观，有很多"名人"和"网红"不在列表里。      
+重点不是 "全"（把所有人都列出来）而是 "教学视频多，教学质量普遍较高"。      
 贵精不贵多。     
 
 ## 目标
-列表会持续更新（增减数量/调整排序），最终每个类别下只有10-20个视频创作者，并单独列出前几名（比如前3，前5），因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。
+列表会持续更新（增减数量/调整排序），   
+最终每个类别下只有10-20个视频创作者，并单独列出前几名（比如前3，前5），   
+因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。
 
 <!-- 
 ## 知名人物
