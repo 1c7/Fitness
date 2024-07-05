@@ -46,6 +46,7 @@
 - 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8万粉。
 - 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 19万粉。
 - 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 101万粉。我只看了他一个视频，扫了一眼主页看起来不错。"饮食"类内容比较多。
+- 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 20万粉。我只看了他 1 个跟练视频，扫了一眼主页视频列表。
 
 
 ## 体态矫正,运动康复,功能性训练
