@@ -39,7 +39,7 @@
 - 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
 - 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 512万粉。
 - 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
-- 呙俐: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 14万粉。视频内容多是在垫子上训练灵活性，核心，稳定性。
+- 呙俐: [B站](https://space.bilibili.com/549367210/video) 2 万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 14万粉。视频多是在垫子上训练灵活性，核心，稳定性。
 - 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 1万粉。功能性训练。
 - 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 9 万粉。
 - 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 47万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。李维刚弄的学校，抖音直播挺频繁的，干货也不少，卖399元的48课时课程，直播主要是给自己的学校招生。
@@ -47,7 +47,7 @@
 - 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 19万粉。
 - 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 101万粉。我只看了他一个视频，扫了一眼主页看起来不错。"饮食"类内容比较多。
 - 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 20万粉。我只看了他 1 个跟练视频，扫了一眼主页视频列表。
-
+- 叶师傅呢: [B站](https://space.bilibili.com/111584767) 3 万粉
 
 ## 体态矫正,运动康复,功能性训练
 - 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 28万粉
@@ -80,6 +80,11 @@
 - 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
 - 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
 - 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
+
+<!-- 
+- 啾c物理治疗师: [B站](https://space.bilibili.com/1707886949) 5万粉
+太嗲了，女性嗲里嗲气的念词风格。
+-->
 
 
 ## 饮食/营养
