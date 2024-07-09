@@ -48,10 +48,11 @@
 - 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 101万粉。我只看了他一个视频，扫了一眼主页看起来不错。"饮食"类内容比较多。
 - 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 20万粉。我只看了他 1 个跟练视频，扫了一眼主页视频列表。
 - 叶师傅呢: [B站](https://space.bilibili.com/111584767) 3 万粉
+- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 32万粉
 
-## 体态矫正,运动康复,功能性训练
-- 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 28万粉
-- 张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 22万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 76万粉。
+
+## 体态矫正,运动康复
+- 张翔炜的运动康复/张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 25万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 77万粉。
 - C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 120万粉
 - C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58万粉。
 - 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6万粉。
@@ -80,11 +81,6 @@
 - 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
 - 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
 - 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
-
-<!-- 
-- 啾c物理治疗师: [B站](https://space.bilibili.com/1707886949) 5万粉
-太嗲了，女性嗲里嗲气的念词风格。
--->
 
 
 ## 饮食/营养
@@ -233,10 +229,9 @@
 因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。
 
 <!-- 
-## 知名人物
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
 
-### 本列表不收录搞笑,抽象,生活类,有争议,以及其他与健身教学完全无关的内容，例子:
+### 本列表不收录搞笑,抽象,生活类,有争议,其他与健身教学无关的内容，如:
 - 马哥巨离谱: [B站](https://space.bilibili.com/298054634/video) 转型拍短剧。
 - 吴彦祖秃顶版: [B站](https://space.bilibili.com/411379495/video) 人有实力，但整天拍吃汉堡视频，可能50个视频里夹一个正经健身教学。
 - 常熟阿诺: 不要花时间了解，浪费时间。
@@ -375,4 +370,7 @@
 
 - 平云龙: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-rR3eZAlgTeF0auoIeEc6F5ZNSIm0A38whpWDZtez0w)
 生活类内容偏多，教学类内容暂时没看到。平时没事就拉二胡。
+
+- 啾c物理治疗师: [B站](https://space.bilibili.com/1707886949) 5万粉
+太嗲了，女性嗲里嗲气的念词风格。
 -->
