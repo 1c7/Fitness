@@ -81,6 +81,7 @@
 - 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
 - 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
 - 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
+- 美式整脊曹老师: [B站](https://space.bilibili.com/20340681/video) 26万粉
 
 
 ## 饮食/营养
@@ -223,10 +224,10 @@
 重点不是 "全"（把所有人都列出来）而是 "教学视频多，教学质量普遍较高"。      
 贵精不贵多。     
 
-## 目标
+<!-- ## 目标
 列表会持续更新（增减数量/调整排序），   
 最终每个类别下只有10-20个视频创作者，并单独列出前几名（比如前3，前5），   
-因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。
+因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。 -->
 
 <!-- 
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
