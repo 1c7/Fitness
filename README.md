@@ -89,6 +89,7 @@
 
 ## 高质量的单个视频
 - [《健身新手的**训练**完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 长度 56 分钟。
+- [肩峰撞击|自己处理的小方法，可以尝试一下](bilibili.com/video/BV1oe411o7PB)
 
 
 ## 英文的视频创作者
