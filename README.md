@@ -3,8 +3,16 @@
 ## 对你的价值
 高效学健身，健身先健脑，帮你减脂增肌。    
 
-## 教健身的视频创作者
+## 高质量的单个视频
+1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟
+1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 
+<!-- 
+## 我自己比较喜欢的视频（不一定适合你）
+
+-->
+
+## 健身教学视频创作者
 1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 五星推荐。
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 141万粉
 1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。38万粉。
@@ -22,12 +30,9 @@
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 5万粉
 1. 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16万粉。
 1. 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 107万粉。
-1. 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
 1. 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 512万粉。
 1. 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 19万粉。
 1. 呙俐: [B站](https://space.bilibili.com/549367210/video) 2 万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 14万粉。视频多是在垫子上训练灵活性，核心，稳定性。
-1. 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 1万粉。功能性训练。
-1. 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 9 万粉。
 1. 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 47万粉, [B站](https://space.bilibili.com/3537115906312736) 10万粉。李维刚弄的学校，抖音直播挺频繁的，干货也不少，卖399元的48课时课程，直播主要是给自己的学校招生。
 1. 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8万粉。
 1. 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 19万粉。
@@ -39,25 +44,22 @@
 <details>
   <summary>更多</summary>
 
+1. 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
 1. 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc) 47万粉
 1. 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 10万粉
-1. MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video) 39 万粉
+1. MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video) 39 万粉，视频背景音乐的音量过大，麦克风有爆麦的听感，不太喜欢。[例子](https://www.bilibili.com/video/BV1Yi421a7yG/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video) 12 万粉
 1. 维亚德: [B站](https://space.bilibili.com/1745356376/video) 53万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44) 112万粉, 法国人, 内容多是竖屏短视频。
 1. KymFit: [B站](https://space.bilibili.com/18143977/video) 18万粉。
-1. 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video) 2万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig) 4万粉。不太喜欢这种剪辑风格，很难讲为什么。
 1. Steve不是美队: [B站](https://space.bilibili.com/2507562/video) 3 万粉
 1. 猫叔慢跑: [B站](https://space.bilibili.com/13716885/video) 90 万粉
 1. 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
-1. 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 55万粉。动作教学比较少，营养学，补剂，其他方面比较多。
-</details> 
+1. 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 9 万粉。
+</details>
 
 ## 体态矫正,运动康复
 1. 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 33万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
 1. 张翔炜的运动康复/张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 25万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 77万粉。
-
----
-
 1. C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 122 万粉
 1. C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58 万粉
 1. 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
@@ -104,11 +106,6 @@
 
 ## 饮食/营养
 1. 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 22万粉。
-
-## 高质量的单个视频
-1. [《健身新手的**训练**完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟
-1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
-
 
 ## 英文的视频创作者
 <details>
@@ -356,7 +353,7 @@
 先从表里挪出来，等哪天看完至少60%的视频再决定。
 
 - 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg) 105万粉
-视频列表一眼望去教学类的内容较少。
+视频列表一眼望去教学类内容较少，卖货视频比较多。
 
 
 ## 繁体中文的视频创作者
@@ -398,4 +395,10 @@
 
 1. 王Davii: [B站](https://space.bilibili.com/524299600/video) 2 万粉
 生活记录类内容比较多。似乎是国家队的？（无法分辨）
+
+1. 北美运动学博士Bruce_PhD: [B站](https://space.bilibili.com/1387592680/video) 64 万粉。动作教学少，营养学/补剂/其他内容比较多，50% 的视频都有广告，卖南非醉茄，深海鱼油（这些产品的有效性存疑，这人的视频可信度存疑），喜欢做健身圈乐子人内容，比如阿诺，以及用专业知识分析打药的人的视频（原神体育生）
+
+1. 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video) 2万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig) 4万粉。不喜欢这种剪辑风格。
+
+1. 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 1万粉。功能性训练。
 -->
