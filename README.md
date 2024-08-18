@@ -8,7 +8,7 @@
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 
 <!-- 
-## 我自己比较喜欢的视频（不一定适合你）
+## 我喜欢的视频（不一定适合你。所以先放在注释里）
 
 -->
 
@@ -167,6 +167,33 @@
 1. 动物流: [Youtube](https://www.youtube.com/@AnimalFlow/videos) 6万粉。
 </details>
 
+## 难以分类的健身视频创作者
+<details>
+  <summary>点击展开</summary>
+
+难以分类因为内容很杂（教学类内容占比低）统一放这里。
+
+1. 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
+1. 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58 万粉，生活类内容多，教学类内容少
+1. Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 109 万粉，内容是"别死"，全力追求延长寿命，外网名人。
+1. 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
+1. Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 6.5万粉。目前2024年在美国开健身房。
+1. 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1186万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 980万粉。
+1. 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 101万粉。
+1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 293万粉。
+1. 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
+1. 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video) 8万粉, [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做健身教学，可能因为流量不好，转型做竖屏+生活类内容。
+1. Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
+1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 13万粉。视频长度大多在 3 到 5 分钟。
+1. 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。
+1. Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
+1. 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
+1. VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
+</details>
+
+## 健身相关 App
+- [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908)：学人体解剖，看肌肉分布（非广告，我自己在用）
+
 ## 健身图书
 <details>
   <summary>点击展开</summary>
@@ -174,10 +201,13 @@
 1. 《重返巅峰-力量训练者伤后功能重建与能力发展》[豆瓣](https://book.douban.com/subject/36644813/)：推荐。
 1. 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
 1. 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
-1. 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
-1. 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
 1. 《量化健身：原理解析》
 1. 《量化健身：动作精讲》
+
+---
+
+1. 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
+1. 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
 1. 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。此书作者 [剑眉同学](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 在抖音挺活跃。
 1. 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
 1. 《抗阻训练技巧》: [豆瓣](https://book.douban.com/subject/36519750/)
@@ -207,41 +237,11 @@
 1. 《基于生物力学的纠正性训练 TBMM-CES运动康复体态矫正指南》
 </details>
 
-## 难以分类的健身视频创作者
-<details>
-  <summary>点击展开</summary>
-
-难以分类因为内容很杂（教学类内容占比低）统一放这里。
-
-1. 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
-1. 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58万粉，生活类内容居多，教学类内容很少。
-1. Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 78万粉。更多和"健康","长寿"相关。
-1. 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
-1. Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 6.5万粉。目前2024年在美国开健身房。
-1. 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1186万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 980万粉。
-1. 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 101万粉。
-1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 293万粉。
-1. 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
-1. 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video) 8万粉, [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做健身教学，可能因为流量不好，转型做竖屏+生活类内容。
-1. Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
-1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 13万粉。视频长度大多在 3 到 5 分钟。
-1. 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。
-1. Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
-1. 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
-1. VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
-</details>
-
-## 健身相关 App
-- [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908)：学人体解剖，看肌肉分布（非广告，我自己在用）
-
 ## 备注
 此列表带有我个人主观，所以有很多"名人"和"网红"不在表里。   
 标准是 "教学类视频多，质量普遍较高"。      
+排序比较主观，希望这些视频创作者本人看到此表不要介意。  
 
-<!-- ## 目标
-列表会持续更新（增减数量/调整排序），   
-最终每个类别下只有10-20个视频创作者，并单独列出前几名（比如前3，前5），   
-因为数量足够少才方便选择，如果一个类别下有30-50个，读者会很难选择。 -->
 
 <!-- 
 - 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
