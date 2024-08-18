@@ -16,6 +16,9 @@
 1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 五星推荐。
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 141万粉
 1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。38万粉。
+
+---
+
 1. Gandy: [B站](https://space.bilibili.com/378067652/video) 70万粉, [Youtube](https://www.youtube.com/@gandy2748/videos) 9万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14万粉。
 1. 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 189万粉
 1. 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 237万粉。
@@ -23,10 +26,8 @@
 1. 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46万粉。
 1. 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
 1. ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 11 万粉
-1. ALEX健身频道: [B站](https://space.bilibili.com/1681952786/video) 9万粉。
-1. FitMen六六: [B站](https://space.bilibili.com/177989483/video) 20万粉。
+1. ALEX健身频道: [B站](https://space.bilibili.com/1681952786/video) 11 万粉
 1. 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 31万粉。
-1. UP健身: [B站](https://space.bilibili.com/129819878/video) 35万粉。都是外网视频的翻译。没有自己原创的内容。
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 5万粉
 1. 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16万粉。
 1. 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 107万粉。
@@ -55,6 +56,7 @@
 1. 猫叔慢跑: [B站](https://space.bilibili.com/13716885/video) 90 万粉
 1. 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
 1. 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 9 万粉。
+1. UP健身: [B站](https://space.bilibili.com/129819878/video) 36 万粉，都是外网视频翻译。没有原创内容。
 </details>
 
 ## 体态矫正,运动康复
@@ -401,4 +403,7 @@
 1. 力量矩阵: [B站](https://space.bilibili.com/3537105504438769/video) 2万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAE7GWFdBaDMe74OuZcIxpPhBRn7KD38hIDYRCAgre6SPqi6EFUepSdJUjgT5cmTig) 4万粉。不喜欢这种剪辑风格。
 
 1. 小飞one: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMYiOholzz0uMrFLeRzG39AZxRK-edY4sn4nETraKR1g?vid=7340266696709639424) 1万粉。功能性训练。
+
+1. FitMen六六: [B站](https://space.bilibili.com/177989483/video) 20万粉。
+已停更。
 -->
