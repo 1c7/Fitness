@@ -61,7 +61,6 @@
 1. 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 116万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAcQl4uLUk1Tc19p2DHRcdeQEk-hXN28y_ecJgXa0J8Ag)
 1. 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
 1. 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 33万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
-1. 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3万粉。
 1. 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 3500粉。
 1. 体能教练黄爆炸: [B站](https://space.bilibili.com/394037557/video) 2万粉。
 1. 冉冉运动康复学院: [B站](https://space.bilibili.com/673687262) 1.9万粉。都是竖屏短视频。
@@ -69,7 +68,6 @@
 1. 加拿大康复治疗师Weina: [B站](https://space.bilibili.com/478577282/video) 6k 粉丝。
 1. 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。
 1. 康复治疗师王太林: [B站](https://space.bilibili.com/1776492822/video) 9.9 万粉。
-1. Jason拉我一把: [B站](https://space.bilibili.com/2079003835/video) 3.8 万粉。
 1. 王Davii: [B站](https://space.bilibili.com/524299600/video) 1.8万粉。
 1. 孔博士工作室: [B站](https://space.bilibili.com/356634017/video) 27万粉。
 1. 骨科康复kevin: [B站](https://space.bilibili.com/46309408/video) 1.9 万粉。
@@ -86,6 +84,8 @@
 <details>
   <summary>更多</summary>
 
+1. Jason拉我一把: [B站](https://space.bilibili.com/2079003835/video) 4 万粉。
+1. 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3万粉。
 1. 周旋Randy: [B站](https://space.bilibili.com/330360355/video) 3 万粉
 1. 美式整脊曹老师: [B站](https://space.bilibili.com/20340681/video) 26万粉
 </details>
@@ -102,122 +102,122 @@
 <details>
   <summary>点击展开</summary>
 
-- Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
-- CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。Youtube 叫做 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 206万粉。
-- 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 630 万关注。
-- ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
-- eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。
-- Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。
-- Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
-- Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
-- Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。
-- CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
-- THENX: [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。
-- Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。
-- Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 245万关注。
-- Calisthenicmovement: [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。
-- FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
-- YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者
-- Chris Bumstead: [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者
-- Barefoot Strength: [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者
-- Obi Vincent: [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。
-- FMS: [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。
-- ScottHermanFitness: [Youtube](https://www.youtube.com/@ScottHermanFitness/videos) 280万关注。
-- FitnessBlender: [Youtube](https://www.youtube.com/@fitnessblender/videos) 662 万关注，跟练。
-- HASfit: [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。
-- Anabolic Aliens: [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。
-- Simeon Panda: [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。
-- Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 398万位订阅者。
-- Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。
-- Dr. Jacob Goodin: [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc)
-- musclemonsters: [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。
-- Dr. Gains: [Youtube](https://www.youtube.com/@DrGains/videos) 19万粉。
-- E3 Rehab: [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。
-- Joe Delaney: [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。
-- Conor Harris: [Youtube](https://www.youtube.com/@conorharris) 33万粉。
-- Paul Revelia: [Youtube](https://www.youtube.com/@PaulRevelia/videos) 55万粉。
-- Alan Thrall: [Youtube](https://www.youtube.com/@AlanThrall) 85万粉。
-- OmarIsuf: [Youtube](https://www.youtube.com/@OmarIsuf/videos) 84万粉。
-- Calgary Barbell: [Youtube](https://www.youtube.com/@calgarybarbell/videos) 29万粉。
-- Mind Pump Show: [Youtube](https://www.youtube.com/channel/UCq0hKkwnW5Cw1wQqu455WrA) 44万粉。
-- VitruvianPhysique: [Youtube](https://www.youtube.com/channel/UCAcQW_4qZ12wNt3T0M9b-Vw) 57万粉。
-- Alex Leonidas: [Youtube](https://www.youtube.com/@AlexLeonidas/videos) 38万粉。
-- Sean Nalewanyj: [Youtube](https://www.youtube.com/@Sean_Nalewanyj/videos) 109万粉。
-- Jesse James West: [Youtube](https://www.youtube.com/@JesseJamesWest/videos) 387万粉。
-- mountaindog1: [Youtube](https://www.youtube.com/@mountaindog1/videos) 82万粉。
-- The Kneesovertoesguy: [Youtube](https://www.youtube.com/@TheKneesovertoesguy/videos) 142万粉。
+1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
+1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。Youtube 叫做 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 206万粉。
+1. 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 630 万关注。
+1. ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
+1. eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。
+1. Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。
+1. Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
+1. Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
+1. Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。
+1. CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
+1. THENX: [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。
+1. Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。
+1. Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 245万关注。
+1. Calisthenicmovement: [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。
+1. FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
+1. YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者
+1. Chris Bumstead: [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者
+1. Barefoot Strength: [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者
+1. Obi Vincent: [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。
+1. FMS: [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。
+1. ScottHermanFitness: [Youtube](https://www.youtube.com/@ScottHermanFitness/videos) 280万关注。
+1. FitnessBlender: [Youtube](https://www.youtube.com/@fitnessblender/videos) 662 万关注，跟练。
+1. HASfit: [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。
+1. Anabolic Aliens: [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。
+1. Simeon Panda: [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。
+1. Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 398万位订阅者。
+1. Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。
+1. Dr. Jacob Goodin: [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc)
+1. musclemonsters: [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。
+1. Dr. Gains: [Youtube](https://www.youtube.com/@DrGains/videos) 19万粉。
+1. E3 Rehab: [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。
+1. Joe Delaney: [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。
+1. Conor Harris: [Youtube](https://www.youtube.com/@conorharris) 33万粉。
+1. Paul Revelia: [Youtube](https://www.youtube.com/@PaulRevelia/videos) 55万粉。
+1. Alan Thrall: [Youtube](https://www.youtube.com/@AlanThrall) 85万粉。
+1. OmarIsuf: [Youtube](https://www.youtube.com/@OmarIsuf/videos) 84万粉。
+1. Calgary Barbell: [Youtube](https://www.youtube.com/@calgarybarbell/videos) 29万粉。
+1. Mind Pump Show: [Youtube](https://www.youtube.com/channel/UCq0hKkwnW5Cw1wQqu455WrA) 44万粉。
+1. VitruvianPhysique: [Youtube](https://www.youtube.com/channel/UCAcQW_4qZ12wNt3T0M9b-Vw) 57万粉。
+1. Alex Leonidas: [Youtube](https://www.youtube.com/@AlexLeonidas/videos) 38万粉。
+1. Sean Nalewanyj: [Youtube](https://www.youtube.com/@Sean_Nalewanyj/videos) 109万粉。
+1. Jesse James West: [Youtube](https://www.youtube.com/@JesseJamesWest/videos) 387万粉。
+1. mountaindog1: [Youtube](https://www.youtube.com/@mountaindog1/videos) 82万粉。
+1. The Kneesovertoesguy: [Youtube](https://www.youtube.com/@TheKneesovertoesguy/videos) 142万粉。
 
 ### 运动康复/损伤预防
-- `[P]rehab`: [Youtube](https://www.youtube.com/channel/UCZOrpZTHi21RZpnxXdlJbgQ) 32万粉。
-- Upright Health: [Youtube](https://www.youtube.com/@Uprighthealth/videos) 86万粉。
-- Bob & Brad: [Youtube](https://www.youtube.com/@BobandBrad/videos) 504万粉。
+1. `[P]rehab`: [Youtube](https://www.youtube.com/channel/UCZOrpZTHi21RZpnxXdlJbgQ) 32万粉。
+1. Upright Health: [Youtube](https://www.youtube.com/@Uprighthealth/videos) 86万粉。
+1. Bob & Brad: [Youtube](https://www.youtube.com/@BobandBrad/videos) 504万粉。
 
 ### 其他
-- 动物流: [Youtube](https://www.youtube.com/@AnimalFlow/videos) 6万粉。
+1. 动物流: [Youtube](https://www.youtube.com/@AnimalFlow/videos) 6万粉。
 </details>
 
-## 健身教学图书
+## 健身图书
 <details>
   <summary>点击展开</summary>
 
-- 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
-- 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
-- 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
-- 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
-- 《量化健身：原理解析》
-- 《量化健身：动作精讲》
-- 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。
-- 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
-- 《抗阻训练技巧》: [豆瓣](https://book.douban.com/subject/36519750/)
-- 《4分钟极速减脂》作者：刘恒
-- 《健身必须懂-极简健身生理学》作者：仰望尾迹云
-- 《健身三大项 深蹲 硬拉及卧推入门指南》 [豆瓣](https://book.douban.com/subject/35876501/)
-- 《运动减脂讲义》作者：减肥大叔 Sam [豆瓣](https://book.douban.com/subject/34992294/)
-- 《运动损伤预防解刨学》 [豆瓣](https://book.douban.com/subject/36507873/)
-- 《筋膜按摩拉伸疗法》[豆瓣](https://book.douban.com/subject/35610463/)
-- 《热身运动: 优化运动表现与延长运动生涯的热身训练系统》[豆瓣](https://book.douban.com/subject/35070553/)
-- 《功能性训练：提升运动表现的动作练习和方案设计》[豆瓣](https://book.douban.com/subject/27008592/)
-- 《功能性训练原理与经典动作解剖图谱》[豆瓣](https://book.douban.com/subject/35822077/)
-- 《美国国家体能协会：核心训练指南》 [豆瓣](https://book.douban.com/subject/34449457/)
-- 《体育运动中的功能性训练（第2版）》 [豆瓣](https://book.douban.com/subject/27126696/)
-- 《核心体能训练 释放核心潜能的动作练习和方案设计》 [豆瓣](https://book.douban.com/subject/34806566/)
-- 《练就自由:开启无限可能的人生》作者:刘畊宏 [豆瓣](https://book.douban.com/subject/36505135/) 里面教学健身的内容很少（指的是动作详解，训练计划，饮食），主要是刘畊宏讲自己的故事，包括红之前，红之后，重点是给阅读者运动的动力，去激励读者。
-- 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/) 法国人写的书。
-- 《高强度科学训练全书》[豆瓣](https://book.douban.com/subject/36687319/) 法国人写的书。
-- 《核心训练》 [豆瓣](https://book.douban.com/subject/27122880/)
-- 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
-- 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
-- 《重返巅峰-力量训练者伤后功能重建与能力发展》[豆瓣](https://book.douban.com/subject/36644813/)
-- 《腹部功能康复训练：腹部知觉唤醒与力量激活》
-- 《膝关节功能强化训练》
-- 《腰部功能强化训练》
-- 《肩关节功能强化训练》
-- 《运动损伤解剖书》
-- 《基于生物力学的纠正性训练 TBMM-CES运动康复体态矫正指南》
+1. 《重返巅峰-力量训练者伤后功能重建与能力发展》[豆瓣](https://book.douban.com/subject/36644813/)：推荐。
+1. 《健身路线图》: [豆瓣](https://book.douban.com/subject/36193374/) 高质量，推荐。
+1. 《写给健身者的运动解剖学》: [豆瓣](https://book.douban.com/subject/36383532/)
+1. 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
+1. 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
+1. 《量化健身：原理解析》
+1. 《量化健身：动作精讲》
+1. 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。此书作者 [剑眉同学](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 在抖音挺活跃。
+1. 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
+1. 《抗阻训练技巧》: [豆瓣](https://book.douban.com/subject/36519750/)
+1. 《4分钟极速减脂》作者：刘恒
+1. 《健身必须懂-极简健身生理学》作者：仰望尾迹云
+1. 《健身三大项 深蹲 硬拉及卧推入门指南》 [豆瓣](https://book.douban.com/subject/35876501/)
+1. 《运动减脂讲义》作者：减肥大叔 Sam [豆瓣](https://book.douban.com/subject/34992294/)
+1. 《运动损伤预防解刨学》 [豆瓣](https://book.douban.com/subject/36507873/)
+1. 《筋膜按摩拉伸疗法》[豆瓣](https://book.douban.com/subject/35610463/)
+1. 《热身运动: 优化运动表现与延长运动生涯的热身训练系统》[豆瓣](https://book.douban.com/subject/35070553/)
+1. 《功能性训练：提升运动表现的动作练习和方案设计》[豆瓣](https://book.douban.com/subject/27008592/)
+1. 《功能性训练原理与经典动作解剖图谱》[豆瓣](https://book.douban.com/subject/35822077/)
+1. 《美国国家体能协会：核心训练指南》 [豆瓣](https://book.douban.com/subject/34449457/)
+1. 《体育运动中的功能性训练（第2版）》 [豆瓣](https://book.douban.com/subject/27126696/)
+1. 《核心体能训练 释放核心潜能的动作练习和方案设计》 [豆瓣](https://book.douban.com/subject/34806566/)
+1. 《练就自由:开启无限可能的人生》作者:刘畊宏 [豆瓣](https://book.douban.com/subject/36505135/) 里面教学健身的内容很少（指的是动作详解，训练计划，饮食），主要是刘畊宏讲自己的故事，包括红之前，红之后，重点是给阅读者运动的动力，去激励读者。
+1. 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/) 法国人写的书。
+1. 《高强度科学训练全书》[豆瓣](https://book.douban.com/subject/36687319/) 法国人写的书。
+1. 《核心训练》 [豆瓣](https://book.douban.com/subject/27122880/)
+1. 《拉伸训练彩色图谱》[豆瓣](https://book.douban.com/subject/26663554/)
+1. 《无器械力量训练彩色图谱》 [豆瓣](https://book.douban.com/subject/35350151/)
+1. 《腹部功能康复训练：腹部知觉唤醒与力量激活》
+1. 《膝关节功能强化训练》
+1. 《腰部功能强化训练》
+1. 《肩关节功能强化训练》
+1. 《运动损伤解剖书》
+1. 《基于生物力学的纠正性训练 TBMM-CES运动康复体态矫正指南》
 </details>
 
-## 难以分类的健身视频创作者。
+## 难以分类的健身视频创作者
 <details>
   <summary>点击展开</summary>
 
 难以分类因为内容很杂（教学类内容占比低）统一放这里。
 
-- 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
-- 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58万粉，生活类内容居多，教学类内容很少。
-- Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 78万粉。更多和"健康","长寿"相关。
-- 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
-- Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 6.5万粉。目前2024年在美国开健身房。
-- 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1186万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 980万粉。
-- 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 101万粉。
-- 叔贵: [B站](https://space.bilibili.com/1531707/video) 293万粉。
-- 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
-- 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video) 8万粉, [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做健身教学，可能因为流量不好，转型做竖屏+生活类内容。
-- Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
-- FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 13万粉。视频长度大多在 3 到 5 分钟。
-- 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。
-- Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
-- 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
-- VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
+1. 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
+1. 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58万粉，生活类内容居多，教学类内容很少。
+1. Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 78万粉。更多和"健康","长寿"相关。
+1. 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
+1. Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 6.5万粉。目前2024年在美国开健身房。
+1. 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1186万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 980万粉。
+1. 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 101万粉。
+1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 293万粉。
+1. 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
+1. 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video) 8万粉, [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做健身教学，可能因为流量不好，转型做竖屏+生活类内容。
+1. Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
+1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 13万粉。视频长度大多在 3 到 5 分钟。
+1. 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。
+1. Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
+1. 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
+1. VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
 </details>
 
 ## 健身相关 App
@@ -225,9 +225,8 @@
 
 
 ## 备注
-这个列表带有我的个人主观，有很多"名人"和"网红"不在列表里。      
-重点不是 "全"（把所有人都列出来）而是 "教学视频多，教学质量普遍较高"。      
-贵精不贵多。     
+此列表带有我个人主观，所以有很多"名人"和"网红"不在表里。   
+标准是 "教学类视频多，质量普遍较高"。      
 
 <!-- ## 目标
 列表会持续更新（增减数量/调整排序），   
