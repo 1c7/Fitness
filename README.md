@@ -10,7 +10,7 @@
 - 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 141万粉
 - 好人松松: [B站](https://space.bilibili.com/2078781964/video) 长视频。38万粉。
 - Gandy: [B站](https://space.bilibili.com/378067652/video) 70万粉, [Youtube](https://www.youtube.com/@gandy2748/videos) 9万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14万粉。
-- 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 187万粉。
+- 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 189万粉
 - 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 237万粉。
 - Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 80万粉。
 - 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46万粉。
@@ -49,7 +49,12 @@
 - 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 20万粉。我只看了他 1 个跟练视频，扫了一眼主页视频列表。
 - 叶师傅呢: [B站](https://space.bilibili.com/111584767) 3 万粉
 - 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 32万粉
-- 周旋Randy: [B站](https://space.bilibili.com/330360355/video) 3 万粉
+
+<!-- 
+<details>
+  <summary>更多</summary>
+</details> 
+-->
 
 ## 体态矫正,运动康复
 - 张翔炜的运动康复/张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 25万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 77万粉。
@@ -81,8 +86,13 @@
 - 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
 - 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
 - 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
-- 美式整脊曹老师: [B站](https://space.bilibili.com/20340681/video) 26万粉
 
+<details>
+  <summary>更多</summary>
+
+- 周旋Randy: [B站](https://space.bilibili.com/330360355/video) 3 万粉
+- 美式整脊曹老师: [B站](https://space.bilibili.com/20340681/video) 26万粉
+</details>
 
 ## 饮食/营养
 - 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 22万粉。
