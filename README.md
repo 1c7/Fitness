@@ -19,15 +19,6 @@
 
 ---
 
-1. Gandy: [B站](https://space.bilibili.com/378067652/video) 70万粉, [Youtube](https://www.youtube.com/@gandy2748/videos) 9万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14万粉。
-1. 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 189万粉
-1. 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 237万粉。
-1. Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 80万粉。
-1. 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46万粉。
-1. 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
-1. ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 11 万粉
-1. ALEX健身频道: [B站](https://space.bilibili.com/1681952786/video) 11 万粉
-1. 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 31万粉。
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 5万粉
 1. 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16万粉。
 1. 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 107万粉。
@@ -43,8 +34,21 @@
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 32万粉
 
 <details>
-  <summary>更多</summary>
+  <summary>第二批</summary>
 
+1. ALEX健身频道: [B站](https://space.bilibili.com/1681952786/video) 11 万粉
+</details>
+
+<details>
+  <summary>第三批</summary>
+
+1. ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 11 万粉
+1. 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46 万粉
+1. Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 80 万粉
+1. 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 237 万粉
+1. 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 189 万粉，视频标题里"瘦子"2个字出现频率高。内容更新频率低。
+1. Gandy: [B站](https://space.bilibili.com/378067652/video) 71万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14 万粉。
+1. 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
 1. 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
 1. 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc) 47万粉
 1. 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 10万粉
@@ -406,4 +410,7 @@
 
 1. FitMen六六: [B站](https://space.bilibili.com/177989483/video) 20万粉。
 已停更。
+
+1. 健身小柯蚪: [B站](https://space.bilibili.com/483214463/video) 31万粉。
+30分钟跟练视频。
 -->
