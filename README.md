@@ -10,6 +10,7 @@
 <!-- 
 ## 我喜欢的视频（不一定适合你。所以先放在注释里）
 
+## 把知识分成一个个块，每个块有学习时长，比如学习动作需要多少小时。认识主要肌肉要多少小时。学习常见体态和康复问题要多少小时。
 -->
 
 ## 健身教学视频创作者
@@ -44,7 +45,7 @@
 1. 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 237 万粉
 1. 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 189 万粉，视频标题里"瘦子"2个字出现频率高。内容更新频率低。
 1. Gandy: [B站](https://space.bilibili.com/378067652/video) 71万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14 万粉。
-1. 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/)
+1. 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/) B站视频内容大多以营养学和生理学为主，比如香蕉，蛋白质，肌酸等。
 1. 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
 1. 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc) 47万粉
 1. 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 10万粉
@@ -99,9 +100,9 @@
 1. 美式整脊曹老师: [B站](https://space.bilibili.com/20340681/video) 26万粉
 </details>
 
-## 体态,康复相关的常见关键词
+## 体态,康复关键词
 1. 肱骨前移
-1. 圆肩驼背
+1. 圆肩,驼背
 1. 肩峰撞击
 1. 骨盆前倾/后倾
 1. 肩袖肌群（需要训练）
@@ -240,6 +241,9 @@
 1. 《基于生物力学的纠正性训练 TBMM-CES运动康复体态矫正指南》
 </details>
 
+## 收费课程
+1. 体德健身教练培训 在抖音上卖的 399 元课程《健身进阶必修课：系统学会健身 训练效果翻倍》(在海豚知道小程序进行购买和观看视频)
+
 ## 备注
 此列表带有我个人主观，所以有很多"名人"和"网红"不在表里。   
 标准是 "教学类视频多，质量普遍较高"。      
@@ -366,9 +370,6 @@
 - 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
 - 楷教練：[Youtube](https://www.youtube.com/@Kai-coach.singer/videos)
 
-
-## "日常"内容太多，教学内容太少。
-- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
 - 热爱训练的阿辉: [B站](https://space.bilibili.com/12755872) 4万粉。
 - 大胡子在踢球: [B站](https://space.bilibili.com/501643818/video) 9千粉丝。
 
@@ -414,4 +415,9 @@
 30分钟跟练视频。
 
 1. 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 22 万粉
+
+
+- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
+  - [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
+  - [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 -->
