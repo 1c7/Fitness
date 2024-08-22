@@ -6,6 +6,7 @@
 ## 高质量的单个视频
 1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
+1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
 
 <!-- 
 ## 我喜欢的视频（不一定适合你。所以先放在注释里）
@@ -88,6 +89,7 @@
 1. 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
 1. 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
 1. 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
+1. TBT逍遥: [B站](https://space.bilibili.com/44978529)
 
 <details>
   <summary>更多</summary>
