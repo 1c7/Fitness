@@ -28,6 +28,7 @@
 <details>
   <summary>第二批</summary>
 
+1. 蹲300的1涵: [B站](https://space.bilibili.com/1702288791/video) 自我介绍：前国家队体能教练、省队教练、军事体能外聘教练、北体大体能专业研究生、力量举全国冠军。深蹲300的健身博主干货分享～拓德时代上镜选手
 1. 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 20 万粉。功能性训练。
 1. 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 20 万粉
 1. ALEX健身频道: [B站](https://space.bilibili.com/1681952786/video) 11 万粉
