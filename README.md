@@ -4,7 +4,7 @@
 高效学健身，健身先健脑，帮你减脂增肌。    
 
 ## 高质量的单个视频
-1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟
+1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟，好人松松
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
 
@@ -241,6 +241,7 @@
 1. 《肩关节功能强化训练》
 1. 《运动损伤解剖书》
 1. 《基于生物力学的纠正性训练 TBMM-CES运动康复体态矫正指南》
+1. 《如何设计健身计划 - 从碎片化知识到训练体系的构建》 2024年8月出版，作者：舒雨帆 [豆瓣](https://book.douban.com/subject/37012860/)，[作者抖音：北京力量教练舒雨帆](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW)
 </details>
 
 ## 收费课程
@@ -422,4 +423,5 @@
 - 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
   - [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
   - [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+  - [“沉浸式”的《背部训练计划》](https://www.bilibili.com/video/BV1Pc411D77g)
 -->
