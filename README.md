@@ -3,8 +3,9 @@
 ## 对你的价值
 高效学健身，健身先健脑，帮你减脂增肌。    
 
+## 高质量的单个视频
 <details>
-  <summary><h2>高质量的单个视频（点击展开）</h2></summary>
+  <summary>点击展开</summary>
 
 1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟，好人松松
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
@@ -18,12 +19,6 @@
 
 </details>
 
-<!-- 
-## 我喜欢的视频（不一定适合你。所以先放在注释里）
-
-## 把知识分成一个个块，每个块有学习时长，比如学习动作需要多少小时。认识主要肌肉要多少小时。学习常见体态和康复问题要多少小时。
--->
-
 ## 健身教学视频创作者
 1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 五星推荐。
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 141万粉
@@ -33,7 +28,7 @@
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
 
 <details>
-  <summary>第二批</summary>
+  <summary>第二批（点击展开）</summary>
 
 1. 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
   * [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -51,7 +46,7 @@
 </details>
 
 <details>
-  <summary>第三批</summary>
+  <summary>第三批（点击展开）</summary>
 
 1. ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 11 万粉
 1. 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46 万粉
@@ -435,4 +430,10 @@
 
 1. 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 22 万粉
 
+-->
+
+<!-- 
+## 我喜欢的视频（不一定适合你。所以先放在注释里）
+
+## 把知识分成一个个块，每个块有学习时长，比如学习动作需要多少小时。认识主要肌肉要多少小时。学习常见体态和康复问题要多少小时。
 -->
