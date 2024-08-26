@@ -10,6 +10,10 @@
 1. [肩袖肌群里，最容易受伤的是冈上肌, 介绍一个测试冈上肌肌腱的方法](https://v.douyin.com/ihRhUfh2/)
 1. [大圆肌为什么不属于肩袖肌群](https://v.douyin.com/ihRBNjjj/)
 1. [【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石](https://www.bilibili.com/video/BV1qv4y1t7BE/?spm_id_from=333.788.recommend_more_video.12&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [早晨做这4件事帮你快速起床!](https://www.bilibili.com/video/BV1o54y1v7Qq/?vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+
 
 <!-- 
 ## 我喜欢的视频（不一定适合你。所以先放在注释里）
@@ -21,13 +25,18 @@
 1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 五星推荐。
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 141万粉
 1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉。
-1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉
+1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
 1. 叶师傅呢: [B站](https://space.bilibili.com/111584767) 4 万粉
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
 
 <details>
   <summary>第二批</summary>
 
+1. 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
+  1. [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
+  1. [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+  1. [“沉浸式”的《背部训练计划》](https://www.bilibili.com/video/BV1Pc411D77g)
+  1. [大圆、背阔找不到感觉？练背总是手臂先力竭？背展肱二头肌造型非常奇怪？健身房没有“大剪刀”器械？本期视频帮你解决这些问题！](https://www.bilibili.com/video/BV1fE421375P/?spm_id_from=333.788&vd_source=b62a010489c78c6b1355911db71527bc)
 1. 蹲300的1涵: [B站](https://space.bilibili.com/1702288791/video) 自我介绍：前国家队体能教练、省队教练、军事体能外聘教练、北体大体能专业研究生、力量举全国冠军。深蹲300的健身博主干货分享～拓德时代上镜选手
 1. 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 20 万粉。功能性训练。
 1. 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 20 万粉
@@ -420,9 +429,4 @@
 
 1. 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 22 万粉
 
-
-- 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
-  - [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
-  - [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
-  - [“沉浸式”的《背部训练计划》](https://www.bilibili.com/video/BV1Pc411D77g)
 -->
