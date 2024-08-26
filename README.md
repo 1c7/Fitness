@@ -7,6 +7,9 @@
 1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟，好人松松
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
+1. [肩袖肌群里，最容易受伤的是冈上肌, 介绍一个测试冈上肌肌腱的方法](https://v.douyin.com/ihRhUfh2/)
+1. [大圆肌为什么不属于肩袖肌群](https://v.douyin.com/ihRBNjjj/)
+1. [【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石](https://www.bilibili.com/video/BV1qv4y1t7BE/?spm_id_from=333.788.recommend_more_video.12&vd_source=b62a010489c78c6b1355911db71527bc)
 
 <!-- 
 ## 我喜欢的视频（不一定适合你。所以先放在注释里）
