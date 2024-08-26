@@ -123,20 +123,23 @@
 1. 头前倾
 
 ## 饮食/营养
-1. 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 13万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 22万粉。
+1. 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 20 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 23 万粉。
 
 ## 英文的视频创作者
 <details>
   <summary>点击展开</summary>
 
-1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。422 万关注。
-1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 46 万粉。Youtube 叫做 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 206万粉。
-1. 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 16 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 630 万关注。
+1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。544 万关注。
+1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 60 万粉。Youtube 叫 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 212 万粉。
+1. 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 17 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 671 万关注。（有菲律宾血统的加拿大人， [来源：他自己发的 Instagram Post](https://www.instagram.com/jeremyethier/p/CO0mMUUL6Yn/)）
 1. ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
+1. Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
+
+---
+
 1. eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。
 1. Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。
 1. Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
-1. Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
 1. Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。
 1. CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
 1. THENX: [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。
