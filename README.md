@@ -3,7 +3,9 @@
 ## 对你的价值
 高效学健身，健身先健脑，帮你减脂增肌。    
 
-## 高质量的单个视频
+<details>
+  <summary><h2>高质量的单个视频（点击展开）</h2></summary>
+
 1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟，好人松松
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
@@ -14,6 +16,7 @@
 1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 
+</details>
 
 <!-- 
 ## 我喜欢的视频（不一定适合你。所以先放在注释里）
