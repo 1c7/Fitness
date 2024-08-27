@@ -21,8 +21,8 @@
 
 ## 健身教学视频创作者
 1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
-1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) B站400万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 141万粉
-1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉。
+1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
+1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
 1. 叶师傅呢: [B站](https://space.bilibili.com/111584767) 4 万粉
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
@@ -30,6 +30,8 @@
 <details>
   <summary>第二批（点击展开）</summary>
 
+1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 14 万粉。视频长度大多在 3 到 5 分钟。
+1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 292 万粉
 1. 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
   * [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
   * [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -184,29 +186,22 @@
 1. 动物流: [Youtube](https://www.youtube.com/@AnimalFlow/videos) 6万粉。
 </details>
 
-## 难以分类的健身视频创作者
-<details>
-  <summary>点击展开</summary>
-
-难以分类因为内容很杂（教学类内容占比低）统一放这里。
-
-1. 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
-1. 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58 万粉，生活类内容多，教学类内容少
-1. Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 109 万粉，内容是"别死"，全力追求延长寿命，外网名人。
-1. 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
-1. Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 6.5万粉。目前2024年在美国开健身房。
-1. 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1186万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 980万粉。
-1. 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 101万粉。
-1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 293万粉。
-1. 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
+<!--
 1. 万毒王在悉尼: [B站](https://space.bilibili.com/594893550/video) 8万粉, [Youtube](https://www.youtube.com/@wanduwang/videos) 早期做健身教学，可能因为流量不好，转型做竖屏+生活类内容。
-1. Jordan_Yeoh: [B站](https://space.bilibili.com/1367637650?spm_id_from=333.337.search-card.all.click) 跟练。
-1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 13万粉。视频长度大多在 3 到 5 分钟。
-1. 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。
+
+1. 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 10万粉。跑步内容为主。
+1. 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
+1. 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 101万粉。
+1. 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1186万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 980万粉。
+1. Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 6.5万粉。目前2024年在美国开健身房。
+1. 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
+1. Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 109 万粉，内容是"别死"，全力追求延长寿命，外网名人。
+1. 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58 万粉，生活类内容多，教学类内容少
+1. 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
 1. Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
 1. 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
 1. VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
-</details>
+-->
 
 ## 健身相关 App
 - [3Dbody解剖](https://apps.apple.com/cn/app/3dbody%E8%A7%A3%E5%89%96/id1003630908)：学人体解剖，看肌肉分布（非广告，我自己在用）
@@ -225,7 +220,7 @@
 
 1. 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
 1. 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
-1. 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，实际买了之后觉得整体还行，一个小缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。此书作者 [剑眉同学](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 在抖音挺活跃。
+1. 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，买了之后觉得整体还行，一个缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。此书作者 [剑眉同学](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 在抖音挺活跃。
 1. 《身体灵活性科学训练全书》 [豆瓣](https://book.douban.com/subject/35534561/)
 1. 《抗阻训练技巧》: [豆瓣](https://book.douban.com/subject/36519750/)
 1. 《4分钟极速减脂》作者：刘恒
