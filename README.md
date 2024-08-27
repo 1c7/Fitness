@@ -45,6 +45,8 @@
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
 1. 叶师傅呢: [B站](https://space.bilibili.com/111584767) 4 万粉
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
+1. Eden健身一噔噔: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMbcY3JbIhkLh_FriwMDdOpzNi6n_7hfIxPs4umLG09I?vid=7407814160320302387) 1 万粉
+
 
 <details>
   <summary>第二批（点击展开）</summary>
@@ -94,8 +96,12 @@
 </details>
 
 ## 体态矫正,运动康复
+
+### 高质量
 1. 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 33万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
 1. 张翔炜的运动康复/张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 26 万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 78 万粉
+
+### 下面这些我还没仔细看
 1. C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 122 万粉
 1. C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58 万粉
 1. 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
