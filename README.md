@@ -3,6 +3,13 @@
 ## 对你的价值
 帮你减脂增肌更高效，用尽可能短的时间达成目的，健身先健脑，少走弯路，预防受伤。
 
+<!-- 
+## 使用指南
+1. 第一步：明确自己的目的（增肌/减脂/康复/运动表现/其他）
+2. 第二步：简单翻一翻下方这些视频创作者，看哪些人的内容适合你。
+3. 学习，训练，
+-->
+
 ## 高质量的单个视频
 <details>
   <summary>点击展开</summary>
@@ -248,6 +255,9 @@
 1. 《运动损伤解剖书》
 1. 《基于生物力学的纠正性训练 TBMM-CES运动康复体态矫正指南》
 1. 《如何设计健身计划 - 从碎片化知识到训练体系的构建》 2024年8月出版，作者：舒雨帆 [豆瓣](https://book.douban.com/subject/37012860/)，[作者抖音：北京力量教练舒雨帆](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW)
+
+![1](./img/overview.JPG)
+
 </details>
 
 ## 收费课程
