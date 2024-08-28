@@ -24,6 +24,8 @@
 1. [早晨做这4件事帮你快速起床!](https://www.bilibili.com/video/BV1o54y1v7Qq/?vd_source=b62a010489c78c6b1355911db71527bc)
 1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩胛下肌](https://v.douyin.com/ih2DTmb4/)
+1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 运动康复类
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -55,6 +57,7 @@
 <details>
   <summary>第二批（点击展开）</summary>
 
+1. Super大叔：[抖音](https://www.douyin.com/user/MS4wLjABAAAAVyS4HD8vZtCDRHeLdgvmRYhTQ-WI3T6na9ek0C4o8hw) 153 万粉
 1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 14 万粉。视频长度大多在 3 到 5 分钟。
 1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 292 万粉
 1. 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
@@ -97,6 +100,7 @@
 1. 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 107万粉。
 1. 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 530 万粉。
 1. 呙俐: [B站](https://space.bilibili.com/549367210/video) 4 万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 22 万粉。视频多是在垫子上训练灵活性，核心，稳定性。
+1. 东东爱健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAxdgEZ5GTlJuH468LA1XQOZqVI7bEWFENauM1DN8AXhU) 134 万粉
 </details>
 
 ## 体态矫正,运动康复
@@ -133,6 +137,7 @@
 1. 运动康复小七: [B站](https://space.bilibili.com/3493090232895764/video) 北体大运动康复专业｜国家队康复师｜北医三北大一运动医学科，2 万粉
 1. 冉冉运动康复学院: [B站](https://space.bilibili.com/673687262) 前国家队队医成立，致力于将专属奥运冠军的运动康复技术与标准传授给每一位学员，1万粉
 1. 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 9 千粉
+1. WBV康复健身 曹明老师: [抖音](https://www.douyin.com/user/MS4wLjABAAAAiILkFDY55AWMJXOXWlJDOYdCeMOS4YYrYrFYpHi3cXxa8hDSYX6JaJvaIXu31dm1?vid=7407093472764693770)
 <!-- 1. 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。 -->
 <!-- 1. 杭州运动康复: [B站](https://space.bilibili.com/3494350254246470/video) 2000粉。 -->
 </details>
