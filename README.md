@@ -101,44 +101,40 @@
 
 ## 体态矫正,运动康复
 
-### 高质量
 1. 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 33万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
 1. 张翔炜的运动康复/张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 26 万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 78 万粉
-
-### 下面这些我还没仔细看
 1. C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 122 万粉
 1. C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58 万粉
-1. 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 4万粉。
-1. 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 116万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAcQl4uLUk1Tc19p2DHRcdeQEk-hXN28y_ecJgXa0J8Ag)
-1. 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 7万粉。
-1. 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 3500粉。
-1. 体能教练黄爆炸: [B站](https://space.bilibili.com/394037557/video) 2万粉。
-1. 冉冉运动康复学院: [B站](https://space.bilibili.com/673687262) 1.9万粉。都是竖屏短视频。
-1. 运动康复小七: [B站](https://space.bilibili.com/3493090232895764/video) 2.3万粉。
-1. 加拿大康复治疗师Weina: [B站](https://space.bilibili.com/478577282/video) 6k 粉丝。
-1. 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。
-1. 康复治疗师王太林: [B站](https://space.bilibili.com/1776492822/video) 9.9 万粉。
-1. 骨科康复kevin: [B站](https://space.bilibili.com/46309408/video) 1.9 万粉。
-1. 运动康复找珍妮: [B站](https://space.bilibili.com/3537119572133929/video) 1.6万粉。
-1. 阿群: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 234万粉。
-1. 神奇物理治疗师David: [抖音](https://www.douyin.com/user/MS4wLjABAAAA-CPl8oxHlR9nuCovoNi5zy8BDkB-v8jGeI_N_zzL6rI?vid=7345023297832160566) 5万粉。德国人。
-1. 运动康复找老孙: [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 255万粉。
-1. 康复博士卫双囍: [B站](https://space.bilibili.com/3493086252501409/video) 8万粉。
-1. 杭州运动康复: [B站](https://space.bilibili.com/3494350254246470/video) 2000粉。
-1. 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
-1. 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
-1. 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
-1. TBT逍遥: [B站](https://space.bilibili.com/44978529)
+1. 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 5 万粉
+1. 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 164 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAcQl4uLUk1Tc19p2DHRcdeQEk-hXN28y_ecJgXa0J8Ag) 43 万粉
+1. 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 北京体育大学博士 原国家队体能教练 全网两百万粉丝矫正案例过万，8 万粉
+1. 体能教练黄爆炸: [B站](https://space.bilibili.com/394037557/video) 中国冬季项目国家队体能教练 北京体育大学运动人体科学硕士 美国体能协会CSCS职业体能教练 美国斯巴达SGX一级教练，2 万粉。
 
 <details>
   <summary>更多（点击展开）</summary>
 
+1. 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
+1. 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
+1. 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
+1. TBT逍遥: [B站](https://space.bilibili.com/44978529)
+1. 加拿大康复治疗师Weina: [B站](https://space.bilibili.com/478577282/video) 6 千粉
 1. 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6 万粉
 1. 孔博士工作室: [B站](https://space.bilibili.com/356634017/video) 67 万粉
 1. Jason拉我一把: [B站](https://space.bilibili.com/2079003835/video) 4 万粉
 1. 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3 万粉
 1. 周旋Randy: [B站](https://space.bilibili.com/330360355/video) 3 万粉
 1. 美式整脊曹老师: [B站](https://space.bilibili.com/20340681/video) 26万粉
+1. 康复博士卫双囍: [B站](https://space.bilibili.com/3493086252501409/video) 9 万粉
+1. 运动康复找老孙: [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 256 万粉
+1. 阿群: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 运动训练学硕士🎓 分享日常和康复训练经验，293 万粉
+1. 运动康复找小桐: [B站](https://space.bilibili.com/3537119572133929/video) 北体大运动康复专业，1 万粉。
+1. 骨科康复kevin: [B站](https://space.bilibili.com/46309408/video) 北京体育大学毕业 专精骨科术前术后康复、运动损伤及慢性疼痛 PRI/SFMA/Mulligan/CSCS ，2 万粉
+1. 康复治疗师王太林: [B站](https://space.bilibili.com/1776492822/video) 10 万粉。
+1. 运动康复小七: [B站](https://space.bilibili.com/3493090232895764/video) 北体大运动康复专业｜国家队康复师｜北医三北大一运动医学科，2 万粉
+1. 冉冉运动康复学院: [B站](https://space.bilibili.com/673687262) 前国家队队医成立，致力于将专属奥运冠军的运动康复技术与标准传授给每一位学员，1万粉
+1. 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 9 千粉
+<!-- 1. 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。 -->
+<!-- 1. 杭州运动康复: [B站](https://space.bilibili.com/3494350254246470/video) 2000粉。 -->
 </details>
 
 ## 体态和康复的常见关键词
