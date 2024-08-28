@@ -34,6 +34,8 @@
 1. [肩袖肌群里，最容易受伤的是冈上肌, 介绍一个测试冈上肌肌腱的方法](https://v.douyin.com/ihRhUfh2/)
 1. [肩关节疼痛如何康复？](https://www.bilibili.com/video/BV1mC4y1W7Kn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. :+1: [肩袖肌群](https://v.douyin.com/ih2LHLny)
+1. :+1: [【康复师带读】肩关节运动、肩峰撞击、肩关节不稳基础肌动学](https://www.bilibili.com/video/BV1jrWaeBECB/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩胛骨的运动实际发生在胸前？肩关节复合体肌动学领读](https://www.bilibili.com/video/BV1ff421v7yW/?vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 热身
 1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/?spm_id_from=333.788.recommend_more_video.3&vd_source=b62a010489c78c6b1355911db71527bc)
