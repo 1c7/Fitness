@@ -36,6 +36,10 @@
 1. :+1: [肩袖肌群](https://v.douyin.com/ih2LHLny)
 1. :+1: [【康复师带读】肩关节运动、肩峰撞击、肩关节不稳基础肌动学](https://www.bilibili.com/video/BV1jrWaeBECB/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩胛骨的运动实际发生在胸前？肩关节复合体肌动学领读](https://www.bilibili.com/video/BV1ff421v7yW/?vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【一网打尽】3分钟教你肩关节疼痛自测方法](https://www.bilibili.com/video/BV1na4y1f7JJ/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【实用】肩关节疼痛自测指南（肩袖损伤/肩峰撞击/盂唇损伤等）完整版](https://www.bilibili.com/video/BV1834y1c7PE/?spm_id_from=333.788.recommend_more_video.4&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩膀如何康复训练？](https://www.bilibili.com/video/BV14142187K3/?spm_id_from=333.788.recommend_more_video.2&vd_source=b62a010489c78c6b1355911db71527bc)
+
 
 ### 热身
 1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/?spm_id_from=333.788.recommend_more_video.3&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -47,9 +51,9 @@
 </details>
 
 ## 健身教学视频创作者
-1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
+1. :+1: 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
-1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉
+1. :+1: 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
 1. 叶师傅呢: [B站](https://space.bilibili.com/111584767) 4 万粉
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
@@ -161,11 +165,11 @@
 <details>
   <summary>点击展开</summary>
 
-1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。544 万关注。
+1. :+1: Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。544 万关注。
 1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 60 万粉。Youtube 叫 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 212 万粉。
 1. 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 17 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 671 万关注。（有菲律宾血统的加拿大人， [来源：他自己发的 Instagram Post](https://www.instagram.com/jeremyethier/p/CO0mMUUL6Yn/)）
 1. ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
-1. Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
+1. :+1: Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
 
 ---
 
@@ -250,6 +254,7 @@
 
 ---
 
+1. 《如何设计健身计划 - 从碎片化知识到训练体系的构建》 2024年8月出版，作者：舒雨帆 [豆瓣](https://book.douban.com/subject/37012860/)，[作者抖音：北京力量教练舒雨帆](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW)
 1. 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
 1. 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
 1. 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，买了之后觉得整体还行，一个缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。此书作者 [剑眉同学](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 在抖音挺活跃。
@@ -279,7 +284,6 @@
 1. 《肩关节功能强化训练》
 1. 《运动损伤解剖书》
 1. 《基于生物力学的纠正性训练 TBMM-CES运动康复体态矫正指南》
-1. 《如何设计健身计划 - 从碎片化知识到训练体系的构建》 2024年8月出版，作者：舒雨帆 [豆瓣](https://book.douban.com/subject/37012860/)，[作者抖音：北京力量教练舒雨帆](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW)
 
 ![1](./img/overview.JPG)
 
