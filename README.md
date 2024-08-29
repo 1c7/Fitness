@@ -39,7 +39,9 @@
 1. [【一网打尽】3分钟教你肩关节疼痛自测方法](https://www.bilibili.com/video/BV1na4y1f7JJ/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [【实用】肩关节疼痛自测指南（肩袖损伤/肩峰撞击/盂唇损伤等）完整版](https://www.bilibili.com/video/BV1834y1c7PE/?spm_id_from=333.788.recommend_more_video.4&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩膀如何康复训练？](https://www.bilibili.com/video/BV14142187K3/?spm_id_from=333.788.recommend_more_video.2&vd_source=b62a010489c78c6b1355911db71527bc)
-
+1. [松解肩胛下肌](https://v.douyin.com/ihrepJ9W/)
+1. [【每日一肌】肩胛下肌——肩后剧痛、冻结肩久治不愈的“绝招”！（完整字幕版）](https://www.bilibili.com/video/BV1cy4y1p7hG/?spm_id_from=trigger_reload&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩袖肌群3D动画详解](https://v.douyin.com/ihrdRxhC/)
 
 ### 热身
 1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/?spm_id_from=333.788.recommend_more_video.3&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -113,6 +115,7 @@
 
 1. 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 33万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
 1. 张翔炜的运动康复/张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 26 万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 78 万粉
+1. 王德麟: [B站](https://space.bilibili.com/522006194?spm_id_from=333.337.0.0), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjFiHDfNSZpytnvTqOJjS-oQGjCvLH8_AM3xMulXtqtwwMLCzyVmyuOalc6y6-YR6)
 1. C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 122 万粉
 1. C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58 万粉
 1. 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 5 万粉
