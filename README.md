@@ -33,8 +33,8 @@
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
 1. [肩袖肌群里，最容易受伤的是冈上肌, 介绍一个测试冈上肌肌腱的方法](https://v.douyin.com/ihRhUfh2/)
 1. [肩关节疼痛如何康复？](https://www.bilibili.com/video/BV1mC4y1W7Kn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
-1. :+1: [肩袖肌群](https://v.douyin.com/ih2LHLny)
-1. :+1: [【康复师带读】肩关节运动、肩峰撞击、肩关节不稳基础肌动学](https://www.bilibili.com/video/BV1jrWaeBECB/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩袖肌群](https://v.douyin.com/ih2LHLny)
+1. [【康复师带读】肩关节运动、肩峰撞击、肩关节不稳基础肌动学](https://www.bilibili.com/video/BV1jrWaeBECB/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩胛骨的运动实际发生在胸前？肩关节复合体肌动学领读](https://www.bilibili.com/video/BV1ff421v7yW/?vd_source=b62a010489c78c6b1355911db71527bc)
 1. [【一网打尽】3分钟教你肩关节疼痛自测方法](https://www.bilibili.com/video/BV1na4y1f7JJ/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [【实用】肩关节疼痛自测指南（肩袖损伤/肩峰撞击/盂唇损伤等）完整版](https://www.bilibili.com/video/BV1834y1c7PE/?spm_id_from=333.788.recommend_more_video.4&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -51,9 +51,9 @@
 </details>
 
 ## 健身教学视频创作者
-1. :+1: 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
+1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
-1. :+1: 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉
+1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
 1. 叶师傅呢: [B站](https://space.bilibili.com/111584767) 4 万粉
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
@@ -165,11 +165,11 @@
 <details>
   <summary>点击展开</summary>
 
-1. :+1: Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。544 万关注。
+1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。544 万关注。
 1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 60 万粉。Youtube 叫 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 212 万粉。
 1. 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 17 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 671 万关注。（有菲律宾血统的加拿大人， [来源：他自己发的 Instagram Post](https://www.instagram.com/jeremyethier/p/CO0mMUUL6Yn/)）
 1. ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
-1. :+1: Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
+1. Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
 
 ---
 
