@@ -11,8 +11,8 @@
 个人建议：购买 泡沫轴 和 筋膜球 给自己做肌肉放松。   
 
 <!-- 
-缺了一个大类别：如何备餐，如何安排饮食。这个才是最核心的，现在列表里都是教你做动作而已。
- -->
+缺了一个大类别：如何备餐，如何安排饮食。这才是最核心的，现在都是教动作。
+-->
 
 ## 高质量的单个视频
 <details>
@@ -25,7 +25,7 @@
 1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩胛下肌](https://v.douyin.com/ih2DTmb4/)
-1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
+
 
 ### 运动康复类
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -50,6 +50,10 @@
 ### 拉伸和放松
 1. [放松胸椎和背阔肌，用泡沫轴，翻书动作，以及鸟犬式](https://www.bilibili.com/video/BV1Kr4y1m77o/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 
+### 核心训练
+1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
+
 </details>
 
 ## 健身教学视频创作者
@@ -65,6 +69,8 @@
 <details>
   <summary>第二批（点击展开）</summary>
 
+1. 想上奥赛的闫首鸣和陪伴他的刘奕彤: [抖音](https://www.douyin.com/user/MS4wLjABAAAABU_Sckj-3pPPj9CVvysc1inf2K0bvi7nc9Mt61R6UFD1uvNBSf53Tv2xj0FFfCBc)
+  1. [对握高拉](https://v.douyin.com/ihrfmtJm/)
 1. Super大叔：[抖音](https://www.douyin.com/user/MS4wLjABAAAAVyS4HD8vZtCDRHeLdgvmRYhTQ-WI3T6na9ek0C4o8hw) 153 万粉
 1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 14 万粉。视频长度大多在 3 到 5 分钟。
 1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 292 万粉
@@ -467,6 +473,8 @@
 
 1. 梅林FIT: [B站](https://space.bilibili.com/1613054467/video) 22 万粉
 
+1. Super小武: [B站](https://space.bilibili.com/326941119/video)：街健教程都在“投稿”分类啦! 好吃好用在橱窗~
+  1. [让健美圈看看纯街健能练出多恶心的肌肉🤪](https://www.bilibili.com/video/BV1em42137Aw/?spm_id_from=333.788.recommend_more_video.6&vd_source=b62a010489c78c6b1355911db71527bc)
 -->
 
 <!-- 
