@@ -25,7 +25,7 @@
 1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩胛下肌](https://v.douyin.com/ih2DTmb4/)
-
+1. [七大基础动作模式概述，并介绍垂直推](https://www.bilibili.com/video/BV1SZs7eWEDV/?spm_id_from=333.1007.tianma.8-2-24.click&vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 运动康复类
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -96,7 +96,7 @@
 1. 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16 万粉
 1. 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8 万粉
 1. 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 109 万粉。"健康饮食"类内容多
-1. 健一CUBE: [B站](https://space.bilibili.com/380448118) 2 万粉
+1. 健一CUBE: [B站](https://space.bilibili.com/380448118) 2 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main) 6 万粉
 </details>
 
 <details>
