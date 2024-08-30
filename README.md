@@ -96,6 +96,7 @@
 1. 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16 万粉
 1. 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8 万粉
 1. 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 109 万粉。"健康饮食"类内容多
+1. 健一CUBE: [B站](https://space.bilibili.com/380448118) 2 万粉
 </details>
 
 <details>
