@@ -27,6 +27,7 @@
 1. [肩胛下肌](https://v.douyin.com/ih2DTmb4/)
 1. [七大基础动作模式概述，并介绍垂直推](https://www.bilibili.com/video/BV1SZs7eWEDV/?spm_id_from=333.1007.tianma.8-2-24.click&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩关节失衡如何康复训练？](https://www.bilibili.com/video/BV13N4y1h7mG/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [单腿站立](https://v.douyin.com/ihDtC13x/)
 
 ### 肩关节,肩袖肌群
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -65,7 +66,7 @@
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
 1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
-1. 叶师傅呢: [B站](https://space.bilibili.com/111584767) 4 万粉
+1. 叶师傅: [B站](https://space.bilibili.com/111584767) 4 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAlWWg_kP_VBhF1dJmuquaNMLrDfsIB61orJg9C_SopGQ?from_tab_name=main&vid=7394025477578542347)
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
 1. Eden健身一噔噔: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMbcY3JbIhkLh_FriwMDdOpzNi6n_7hfIxPs4umLG09I?vid=7407814160320302387) 1 万粉
 
