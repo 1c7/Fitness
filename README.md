@@ -26,8 +26,9 @@
 1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩胛下肌](https://v.douyin.com/ih2DTmb4/)
 1. [七大基础动作模式概述，并介绍垂直推](https://www.bilibili.com/video/BV1SZs7eWEDV/?spm_id_from=333.1007.tianma.8-2-24.click&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩关节失衡如何康复训练？](https://www.bilibili.com/video/BV13N4y1h7mG/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 
-### 运动康复类
+### 肩关节,肩袖肌群
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
@@ -53,6 +54,9 @@
 ### 核心训练
 1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
+
+### 深蹲
+1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
 
 </details>
 
@@ -125,6 +129,7 @@
 1. 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 530 万粉。
 1. 呙俐: [B站](https://space.bilibili.com/549367210/video) 4 万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 22 万粉。视频多是在垫子上训练灵活性，核心，稳定性。
 1. 东东爱健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAxdgEZ5GTlJuH468LA1XQOZqVI7bEWFENauM1DN8AXhU) 134 万粉
+1. 蛋壳健康APP: [B站](https://www.bilibili.com/video/BV1rCH5exErT/?spm_id_from=333.1007.tianma.5-1-14.click&vd_source=b62a010489c78c6b1355911db71527bc)
 </details>
 
 ## 体态矫正,运动康复
