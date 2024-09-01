@@ -111,7 +111,7 @@
 1. ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 11 万粉
 1. 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46 万粉
 1. Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 80 万粉
-1. 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 237 万粉
+1. 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 242 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAd3cuWUapaa1RlDXsRAgV3C2phPRmypHASG4hSZY62RI?from_tab_name=main) 27 万粉
 1. 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 189 万粉，视频标题里"瘦子"2个字出现频率高。内容更新频率低。
 1. Gandy: [B站](https://space.bilibili.com/378067652/video) 71万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14 万粉。
 1. 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/) B站视频内容大多以营养学和生理学为主，比如香蕉，蛋白质，肌酸等。
@@ -132,6 +132,7 @@
 1. 呙俐: [B站](https://space.bilibili.com/549367210/video) 4 万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 22 万粉。视频多是在垫子上训练灵活性，核心，稳定性。
 1. 东东爱健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAxdgEZ5GTlJuH468LA1XQOZqVI7bEWFENauM1DN8AXhU) 134 万粉
 1. 蛋壳健康APP: [B站](https://www.bilibili.com/video/BV1rCH5exErT/?spm_id_from=333.1007.tianma.5-1-14.click&vd_source=b62a010489c78c6b1355911db71527bc)
+1. Matt: [抖音](https://www.douyin.com/user/MS4wLjABAAAAf2crcjEvOXZf-tyN0oXfrm0EzQYH7Fw6Fjtpvcyb9iA?from_tab_name=main&vid=7392161455916731658) 33 万粉
 </details>
 
 ## 体态矫正,运动康复
