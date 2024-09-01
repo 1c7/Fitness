@@ -28,6 +28,7 @@
 1. [七大基础动作模式概述，并介绍垂直推](https://www.bilibili.com/video/BV1SZs7eWEDV/?spm_id_from=333.1007.tianma.8-2-24.click&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩关节失衡如何康复训练？](https://www.bilibili.com/video/BV13N4y1h7mG/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [单腿站立](https://v.douyin.com/ihDtC13x/)
+1. [X型腿详解](https://www.bilibili.com/video/BV1at421P7g4/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 肩关节,肩袖肌群
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -280,6 +281,7 @@
 ---
 
 1. 《如何设计健身计划 - 从碎片化知识到训练体系的构建》 2024年8月出版，作者：舒雨帆 [豆瓣](https://book.douban.com/subject/37012860/)，[作者抖音：北京力量教练舒雨帆](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW)
+1. 《基础肌动学: 第四版》: [豆瓣](https://book.douban.com/subject/36893912/)
 1. 《力量训练解剖全书》: [豆瓣](https://book.douban.com/subject/35619733/)
 1. 《拉伸训练解剖全书》: [豆瓣](https://book.douban.com/subject/36539840/)
 1. 《健身百科全书》: [豆瓣](https://book.douban.com/subject/36581433/) 抖音推荐这书的人很多，买了之后觉得整体还行，一个缺点是讲解刨时，图文搭配的不好，文字旁边的黑白素描肌肉图用处不大。此书作者 [剑眉同学](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 在抖音挺活跃。
