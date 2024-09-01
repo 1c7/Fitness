@@ -56,6 +56,7 @@
 ### 核心训练
 1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 深蹲
 1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
@@ -103,6 +104,7 @@
 1. 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8 万粉
 1. 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 109 万粉。"健康饮食"类内容多
 1. 健一CUBE: [B站](https://space.bilibili.com/380448118) 2 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main) 6 万粉
+1. 老爷爷就是老爷爷: [B站](https://space.bilibili.com/20802136/video)
 </details>
 
 <details>
