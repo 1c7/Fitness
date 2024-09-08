@@ -19,6 +19,8 @@
   <summary>点击展开</summary>
 
 1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟，好人松松
+1. [《健身新手的减肥减脂完全手册》](https://www.bilibili.com/video/BV1AM411r7z3/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 54 分钟，好人松松
+1. [【生活化减脂减肥】从理论到案例 就吃食堂外卖✅](https://www.bilibili.com/video/BV1794y1a7y4/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 47 分钟，好人松松
 1. [大圆肌为什么不属于肩袖肌群](https://v.douyin.com/ihRBNjjj/)
 1. [【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石](https://www.bilibili.com/video/BV1qv4y1t7BE/?spm_id_from=333.788.recommend_more_video.12&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [早晨做这4件事帮你快速起床!](https://www.bilibili.com/video/BV1o54y1v7Qq/?vd_source=b62a010489c78c6b1355911db71527bc)
@@ -105,6 +107,7 @@
 1. 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 109 万粉。"健康饮食"类内容多
 1. 健一CUBE: [B站](https://space.bilibili.com/380448118) 2 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main) 6 万粉
 1. 老爷爷就是老爷爷: [B站](https://space.bilibili.com/20802136/video)
+1. HE运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAhAh2_qDrPg_veciT7XgG1TqDGdlLTIVnbzDeHNehjFOuAkfpTRweWzGnh-ZqkYkN) 北京体育大学 体能训练博士在读
 </details>
 
 <details>
@@ -329,12 +332,11 @@
 
 
 <!-- 
-- 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
+本列表不收录备赛日常,顶尖运动员日常分享,搞笑/抽象,生活类,有争议,以及其他和健身教学无关内容，比如：
 
-### 本列表不收录搞笑,抽象,生活类,有争议,其他与健身教学无关的内容，如:
+- 陈康: [抖音](https://www.douyin.com/user/MS4wLjABAAAAB9pbYfq9pm6yX_CYkyHyaneW5ST9bCbtHomL0RJK2T0)
 - 马哥巨离谱: [B站](https://space.bilibili.com/298054634/video) 转型拍短剧。
 - 吴彦祖秃顶版: [B站](https://space.bilibili.com/411379495/video) 人有实力，但整天拍吃汉堡视频，可能50个视频里夹一个正经健身教学。
-- 常熟阿诺: 不要花时间了解，浪费时间。
 - 街健呆木头
 - 麦蔻: [抖音](https://www.douyin.com/user/MS4wLjABAAAABEWvGuCuE0dm3SkJ4ypAif3LdeUZkJxyxqj9vph51vs70kEZVzSbPwTYG77fTU3L)
 - 李亚强: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcwX9HB3fKZSL7xfRP2MhH4zsk_QADgPGLXM4GeY_S4Q)
@@ -348,14 +350,14 @@
 - 嘴哥 [抖音](https://www.douyin.com/user/MS4wLjABAAAAiB6GcfTolyVWY_xlrzOMsgnibS8SdNB3ATDKVCj4TV0)
 - 鸽武缘
 
-## 跟练类视频，意义不大，容易找，不收录。
+## 跟练类视频，意义不大
 - 草莓味鸡胸肉: [B站](https://space.bilibili.com/34044873/video) 194万粉丝。
 - i小小李: [B站](https://space.bilibili.com/588071111/video) 11万粉丝。
 - 莱美健身课程: [B站](https://space.bilibili.com/2000285929/video) 4 万粉。
 - Chris克里斯健身: [B站](https://space.bilibili.com/335886345/video)
 - 贫穷健身 https://space.bilibili.com/431528342/video
 
-## 停止更新的人
+## 停止更新
 - 昊然健身: [B站](https://space.bilibili.com/399888740/video) 已停止更新。
 
 ## 展示成果类
