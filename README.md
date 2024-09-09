@@ -20,7 +20,7 @@
 
 1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟，好人松松
 1. [《健身新手的减肥减脂完全手册》](https://www.bilibili.com/video/BV1AM411r7z3/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 54 分钟，好人松松
-1. [【生活化减脂减肥】从理论到案例 就吃食堂外卖✅](https://www.bilibili.com/video/BV1794y1a7y4/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 47 分钟，好人松松
+1. [【生活化减脂减肥】从理论到案例 就吃食堂外卖](https://www.bilibili.com/video/BV1794y1a7y4/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 47 分钟，好人松松
 1. [大圆肌为什么不属于肩袖肌群](https://v.douyin.com/ihRBNjjj/)
 1. [【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石](https://www.bilibili.com/video/BV1qv4y1t7BE/?spm_id_from=333.788.recommend_more_video.12&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [早晨做这4件事帮你快速起床!](https://www.bilibili.com/video/BV1o54y1v7Qq/?vd_source=b62a010489c78c6b1355911db71527bc)
@@ -31,6 +31,7 @@
 1. [肩关节失衡如何康复训练？](https://www.bilibili.com/video/BV13N4y1h7mG/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [单腿站立](https://v.douyin.com/ihDtC13x/)
 1. [X型腿详解](https://www.bilibili.com/video/BV1at421P7g4/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [外旋肌肉可以每天练，避免动作变形还能改善体态](https://v.douyin.com/ih359QD1/)
 
 ### 肩关节,肩袖肌群
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
