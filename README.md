@@ -32,6 +32,8 @@
 1. [单腿站立](https://v.douyin.com/ihDtC13x/)
 1. [X型腿详解](https://www.bilibili.com/video/BV1at421P7g4/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [外旋肌肉可以每天练，避免动作变形还能改善体态](https://v.douyin.com/ih359QD1/)
+1. [为什么肩外旋是你不可忽视的一环，推荐给你三个加强它的训练，助你拥有健康强壮的肩部](https://v.douyin.com/ih3mTU3n/)
+1. [单腿站立 60 秒，闭眼单腿站立，](https://www.bilibili.com/video/BV1EM4ietEB5/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 肩关节,肩袖肌群
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -69,10 +71,10 @@
 ## 健身教学视频创作者
 1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
-1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 40 万粉
+1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 41 万粉
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
 1. 叶师傅: [B站](https://space.bilibili.com/111584767) 4 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAlWWg_kP_VBhF1dJmuquaNMLrDfsIB61orJg9C_SopGQ?from_tab_name=main&vid=7394025477578542347)
-1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 48 万粉
+1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 51 万粉
 1. Eden健身一噔噔: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMbcY3JbIhkLh_FriwMDdOpzNi6n_7hfIxPs4umLG09I?vid=7407814160320302387) 1 万粉
 
 
