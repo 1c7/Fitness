@@ -83,12 +83,10 @@
 1. 健一: [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main&vid=7439427679356570919) 7 万粉，[B站](https://space.bilibili.com/380448118) 2 万粉
 1. 想上奥赛的闫首鸣和陪伴他的刘奕彤: [抖音](https://www.douyin.com/user/MS4wLjABAAAABU_Sckj-3pPPj9CVvysc1inf2K0bvi7nc9Mt61R6UFD1uvNBSf53Tv2xj0FFfCBc)
   * [对握高拉](https://v.douyin.com/ihrfmtJm/)
-
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
 1. Super大叔：[抖音](https://www.douyin.com/user/MS4wLjABAAAAVyS4HD8vZtCDRHeLdgvmRYhTQ-WI3T6na9ek0C4o8hw) 153 万粉
 1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 14 万粉。视频长度大多在 3 到 5 分钟。
 1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 292 万粉
-
 1. 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
   * [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
   * [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -195,14 +193,15 @@
 <details>
   <summary>点击展开</summary>
 
-1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 高质量。544 万关注。
-1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 60 万粉。Youtube 叫 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 212 万粉。
+1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 613 万关注，质量很高，国内有不少搬运翻译。
+1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 69 万粉。Youtube 叫 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 219 万粉。
 1. 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 17 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 671 万关注。（有菲律宾血统的加拿大人， [来源：他自己发的 Instagram Post](https://www.instagram.com/jeremyethier/p/CO0mMUUL6Yn/)）
 1. ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
 1. Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
 
 ---
 
+1. Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 316万关注，这人做的视频有点意思，比如去世界上最昂贵的健身房，尝试健身网红的训练计划，全部都是 Fitness/Gym 主题的内容。
 1. eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。
 1. Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。
 1. Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
@@ -210,7 +209,6 @@
 1. CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
 1. THENX: [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。
 1. Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。
-1. Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 245万关注。
 1. Calisthenicmovement: [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。
 1. FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
 1. YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者
@@ -320,8 +318,10 @@
 
 </details>
 
-## 收费课程
-1. 体德健身教练培训 在抖音上卖的 399 元课程《健身进阶必修课：系统学会健身 训练效果翻倍》(在海豚知道小程序进行购买和观看视频)
+## 我自己购买过的付费课程
+1. 399 元，"体德健身教练培训" 的 《健身进阶必修课：系统学会健身 训练效果翻倍》我在抖音买的，每次观看需要去"海豚知道"抖音小程序或者电脑网页版。
+2. 268 元，[3D体态纠正（上肢.脊柱）私教带练](https://www.bilibili.com/cheese/play/ep1252859?csource=private_moments_share_classdetail&spm_id_from=333.1365.list.card_courses.click) 在 B 站购买并观看。
+3. 498 元，拓得时代，一年级训练营。（在微信里扫码购买后，在小鹅通学员版里观看）
 
 ## 备注
 此列表带有我个人主观，所以有很多"名人"和"网红"不在表里。   
