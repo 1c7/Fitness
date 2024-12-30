@@ -65,6 +65,9 @@
 
 ### 深蹲
 1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
+ 
+### 臀部
+1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
 
 </details>
 
