@@ -58,10 +58,13 @@
 
 ### 深蹲
 1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
-
+ 
 ### 其他类别
 1. [梅奥诊所腰痛训练方案（第三期）——进阶训练](https://v.douyin.com/iydXQEQo)
 
+
+### 臀部
+1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
 
 </details>
 
