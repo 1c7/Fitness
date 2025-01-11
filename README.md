@@ -7,7 +7,7 @@
 1. 第一步：明确自己的目的（增肌/减脂/康复/运动表现/其他目的）
 2. 第二步：看下方的视频创作者，看哪些内容适合你。看十几个视频，学会了就开始训练。
 
-## 高质量的单个视频
+## 单个视频
 <details>
   <summary>点击展开</summary>
 
@@ -51,7 +51,7 @@
 ### 拉伸和放松
 1. [放松胸椎和背阔肌，用泡沫轴，翻书动作，以及鸟犬式](https://www.bilibili.com/video/BV1Kr4y1m77o/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
 
-### 核心训练
+### 核心
 1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -59,18 +59,18 @@
 ### 深蹲
 1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
  
-### 其他类别
+### 其他
 1. [梅奥诊所腰痛训练方案（第三期）——进阶训练](https://v.douyin.com/iydXQEQo)
-
 
 ### 臀部
 1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
 2. [【臀中肌】躯干侧向最重要的稳定肌](https://www.bilibili.com/video/BV1AuCVY4E3n/?spm_id_from=333.1007.tianma.9-3-33.click&vd_source=b62a010489c78c6b1355911db71527bc)
+3. [【杠铃臀桥】下肢、核心绝不可错过的经典动作！](https://www.bilibili.com/video/BV1YF4m1T7KS/?spm_id_from=333.1387.upload.video_card.click&vd_source=b62a010489c78c6b1355911db71527bc)
 
 
 </details>
 
-## 健身教学视频创作者
+## 视频创作者
 1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
 1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 41 万粉
 1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
