@@ -12,18 +12,18 @@
   <summary>点击展开</summary>
 
 1. [《健身新手的训练完全手册》](https://www.bilibili.com/video/BV1Hk4y187jF) 56 分钟，好人松松
-1. [《健身新手的减肥减脂完全手册》](https://www.bilibili.com/video/BV1AM411r7z3/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 54 分钟，好人松松
-1. [【生活化减脂减肥】从理论到案例 就吃食堂外卖](https://www.bilibili.com/video/BV1794y1a7y4/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc) 47 分钟，好人松松
+1. [《健身新手的减肥减脂完全手册》](https://www.bilibili.com/video/BV1AM411r7z3/) 54 分钟，好人松松
+1. [【生活化减脂减肥】从理论到案例 就吃食堂外卖](https://www.bilibili.com/video/BV1794y1a7y4/) 47 分钟，好人松松
 1. [大圆肌为什么不属于肩袖肌群](https://v.douyin.com/ihRBNjjj/)
-1. [【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石](https://www.bilibili.com/video/BV1qv4y1t7BE/?spm_id_from=333.788.recommend_more_video.12&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石](https://www.bilibili.com/video/BV1qv4y1t7BE)
 1. [早晨做这4件事帮你快速起床!](https://www.bilibili.com/video/BV1o54y1v7Qq/?vd_source=b62a010489c78c6b1355911db71527bc)
-1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
-1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/)
+1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/)
 1. [肩胛下肌](https://v.douyin.com/ih2DTmb4/)
-1. [七大基础动作模式概述，并介绍垂直推](https://www.bilibili.com/video/BV1SZs7eWEDV/?spm_id_from=333.1007.tianma.8-2-24.click&vd_source=b62a010489c78c6b1355911db71527bc)
-1. [肩关节失衡如何康复训练？](https://www.bilibili.com/video/BV13N4y1h7mG/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [七大基础动作模式概述，并介绍垂直推](https://www.bilibili.com/video/BV1SZs7eWEDV)
+1. [肩关节失衡如何康复训练？](https://www.bilibili.com/video/BV13N4y1h7mG/)
 1. [单腿站立](https://v.douyin.com/ihDtC13x/)
-1. [X型腿详解](https://www.bilibili.com/video/BV1at421P7g4/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [X型腿详解](https://www.bilibili.com/video/BV1at421P7g4)
 1. [外旋肌肉可以每天练，避免动作变形还能改善体态](https://v.douyin.com/ih359QD1/)
 1. [为什么肩外旋是你不可忽视的一环，推荐给你三个加强它的训练，助你拥有健康强壮的肩部](https://v.douyin.com/ih3mTU3n/)
 1. [单腿站立 60 秒，闭眼单腿站立，](https://www.bilibili.com/video/BV1EM4ietEB5/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -33,12 +33,12 @@
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
 1. [肩袖肌群里，最容易受伤的是冈上肌, 介绍一个测试冈上肌肌腱的方法](https://v.douyin.com/ihRhUfh2/)
-1. [肩关节疼痛如何康复？](https://www.bilibili.com/video/BV1mC4y1W7Kn/?spm_id_from=333.788.recommend_more_video.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩关节疼痛如何康复？](https://www.bilibili.com/video/BV1mC4y1W7Kn/)
 1. [肩袖肌群](https://v.douyin.com/ih2LHLny)
-1. [【康复师带读】肩关节运动、肩峰撞击、肩关节不稳基础肌动学](https://www.bilibili.com/video/BV1jrWaeBECB/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【康复师带读】肩关节运动、肩峰撞击、肩关节不稳基础肌动学](https://www.bilibili.com/video/BV1jrWaeBECB/)
 1. [肩胛骨的运动实际发生在胸前？肩关节复合体肌动学领读](https://www.bilibili.com/video/BV1ff421v7yW/?vd_source=b62a010489c78c6b1355911db71527bc)
-1. [【一网打尽】3分钟教你肩关节疼痛自测方法](https://www.bilibili.com/video/BV1na4y1f7JJ/?spm_id_from=333.788.recommend_more_video.5&vd_source=b62a010489c78c6b1355911db71527bc)
-1. [【实用】肩关节疼痛自测指南（肩袖损伤/肩峰撞击/盂唇损伤等）完整版](https://www.bilibili.com/video/BV1834y1c7PE/?spm_id_from=333.788.recommend_more_video.4&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【一网打尽】3分钟教你肩关节疼痛自测方法](https://www.bilibili.com/video/BV1na4y1f7JJ)
+1. [【实用】肩关节疼痛自测指南（肩袖损伤/肩峰撞击/盂唇损伤等）完整版](https://www.bilibili.com/video/BV1834y1c7PE/)
 1. [肩膀如何康复训练？](https://www.bilibili.com/video/BV14142187K3/?spm_id_from=333.788.recommend_more_video.2&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [松解肩胛下肌](https://v.douyin.com/ihrepJ9W/)
 1. [【每日一肌】肩胛下肌——肩后剧痛、冻结肩久治不愈的“绝招”！（完整字幕版）](https://www.bilibili.com/video/BV1cy4y1p7hG/?spm_id_from=trigger_reload&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -49,12 +49,12 @@
 1. [99%的人运动前不做却很重要的动态热身？](https://www.bilibili.com/video/BV1Rt421N7K5/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc) 推荐。
 
 ### 拉伸和放松
-1. [放松胸椎和背阔肌，用泡沫轴，翻书动作，以及鸟犬式](https://www.bilibili.com/video/BV1Kr4y1m77o/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [放松胸椎和背阔肌，用泡沫轴，翻书动作，以及鸟犬式](https://www.bilibili.com/video/BV1Kr4y1m77o/)
 
 ### 核心
 1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
-1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/)
 
 ### 深蹲
 1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
@@ -64,9 +64,9 @@
 
 ### 臀部
 1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
-2. [【臀中肌】躯干侧向最重要的稳定肌](https://www.bilibili.com/video/BV1AuCVY4E3n/?spm_id_from=333.1007.tianma.9-3-33.click&vd_source=b62a010489c78c6b1355911db71527bc)
-3. [【杠铃臀桥】下肢、核心绝不可错过的经典动作！](https://www.bilibili.com/video/BV1YF4m1T7KS/?spm_id_from=333.1387.upload.video_card.click&vd_source=b62a010489c78c6b1355911db71527bc)
-
+2. [【臀中肌】躯干侧向最重要的稳定肌](https://www.bilibili.com/video/BV1AuCVY4E3n)
+3. [【杠铃臀桥】下肢、核心绝不可错过的经典动作！](https://www.bilibili.com/video/BV1YF4m1T7KS)
+1. [【健身理论课】是男人，更应该练臀](https://www.bilibili.com/video/BV1Fi4y1s7tH)
 
 </details>
 
@@ -91,7 +91,7 @@
 1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 292 万粉
 1. 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
   * [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
-  * [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+  * [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/)
   * [“沉浸式”的《背部训练计划》](https://www.bilibili.com/video/BV1Pc411D77g)
   * [大圆、背阔找不到感觉？练背总是手臂先力竭？背展肱二头肌造型非常奇怪？健身房没有“大剪刀”器械？本期视频帮你解决这些问题！](https://www.bilibili.com/video/BV1fE421375P/?spm_id_from=333.788&vd_source=b62a010489c78c6b1355911db71527bc)
 
@@ -120,7 +120,7 @@
 1. 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
 1. 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc) 47万粉
 1. 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 10万粉
-1. MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video) 39 万粉，视频背景音乐的音量过大，麦克风有爆麦的听感，不太喜欢。[例子](https://www.bilibili.com/video/BV1Yi421a7yG/?spm_id_from=333.999.0.0&vd_source=b62a010489c78c6b1355911db71527bc)
+1. MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video) 39 万粉，视频背景音乐的音量过大，麦克风有爆麦的听感，不太喜欢。[例子](https://www.bilibili.com/video/BV1Yi421a7yG/)
 1. 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video) 12 万粉
 1. 维亚德: [B站](https://space.bilibili.com/1745356376/video) 53万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44) 112万粉, 法国人, 内容多是竖屏短视频。
 1. KymFit: [B站](https://space.bilibili.com/18143977/video) 18万粉。
