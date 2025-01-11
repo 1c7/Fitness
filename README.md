@@ -64,11 +64,14 @@
 1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
 1. [保加利亚蹲—构建强壮、稳定、挺翘的下肢](https://www.bilibili.com/video/BV1tF4m137Xd/?spm_id_from=333.788.recommend_more_video.2&vd_source=b62a010489c78c6b1355911db71527bc)
 
-### 臀部
+### 练臀
 1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
 2. [【臀中肌】躯干侧向最重要的稳定肌](https://www.bilibili.com/video/BV1AuCVY4E3n)
 3. [【杠铃臀桥】下肢、核心绝不可错过的经典动作！](https://www.bilibili.com/video/BV1YF4m1T7KS)
 1. [【健身理论课】是男人，更应该练臀](https://www.bilibili.com/video/BV1Fi4y1s7tH)
+
+### 练胸
+1. [哑铃卧推教程](https://v.douyin.com/iyGLt4ur/)
 
 </details>
 
