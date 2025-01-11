@@ -65,6 +65,8 @@
 
 ### 臀部
 1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
+2. [【臀中肌】躯干侧向最重要的稳定肌](https://www.bilibili.com/video/BV1AuCVY4E3n/?spm_id_from=333.1007.tianma.9-3-33.click&vd_source=b62a010489c78c6b1355911db71527bc)
+
 
 </details>
 
@@ -181,10 +183,9 @@
 1. 圆肩,驼背
 1. 肩峰撞击
 1. 骨盆前倾/后倾
-1. 肩袖肌群（需要训练）
+1. 肩袖肌群（冈上肌、冈下肌、肩胛下肌和小圆肌）
 1. 翼状肩胛
-1. 肩袖损伤
-1. 头前倾
+1. 头前倾，富贵包
 
 ## 饮食/营养
 1. 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 20 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 23 万粉。
