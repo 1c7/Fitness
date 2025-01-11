@@ -56,12 +56,13 @@
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/)
 
-### 深蹲
-1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
- 
 ### 其他
 1. [梅奥诊所腰痛训练方案（第三期）——进阶训练](https://v.douyin.com/iydXQEQo)
+
+### 下肢
 1. [【下肢训练底层逻辑】不会练下肢的B友，请进！](https://www.bilibili.com/video/BV1oi421o7KJ)
+1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
+1. [保加利亚蹲—构建强壮、稳定、挺翘的下肢](https://www.bilibili.com/video/BV1tF4m137Xd/?spm_id_from=333.788.recommend_more_video.2&vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 臀部
 1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
@@ -83,7 +84,7 @@
 <details>
   <summary>（点击展开）第二批</summary>
 
-1. 健一: [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main&vid=7439427679356570919) 7 万粉，[B站](https://space.bilibili.com/380448118) 2 万粉
+### 健一: [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main&vid=7439427679356570919) 7 万粉，[B站](https://space.bilibili.com/380448118) 2 万粉
 1. 想上奥赛的闫首鸣和陪伴他的刘奕彤: [抖音](https://www.douyin.com/user/MS4wLjABAAAABU_Sckj-3pPPj9CVvysc1inf2K0bvi7nc9Mt61R6UFD1uvNBSf53Tv2xj0FFfCBc)
   * [对握高拉](https://v.douyin.com/ihrfmtJm/)
 1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
