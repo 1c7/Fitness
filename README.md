@@ -58,6 +58,7 @@
 
 ### 其他
 1. [梅奥诊所腰痛训练方案（第三期）——进阶训练](https://v.douyin.com/iydXQEQo)
+1. [用木棍纠正单腿硬拉易犯的错误动作](https://www.douyin.com/video/7460151111542902025?modeFrom=)
 
 ### 下肢
 1. [【下肢训练底层逻辑】不会练下肢的B友，请进！](https://www.bilibili.com/video/BV1oi421o7KJ)
