@@ -48,9 +48,6 @@
 1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/?spm_id_from=333.788.recommend_more_video.3&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [99%的人运动前不做却很重要的动态热身？](https://www.bilibili.com/video/BV1Rt421N7K5/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc) 推荐。
 
-### 拉伸和放松
-1. [放松胸椎和背阔肌，用泡沫轴，翻书动作，以及鸟犬式](https://www.bilibili.com/video/BV1Kr4y1m77o/)
-
 ### 核心
 1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
@@ -59,6 +56,8 @@
 ### 其他
 1. [梅奥诊所腰痛训练方案（第三期）——进阶训练](https://v.douyin.com/iydXQEQo)
 1. [用木棍纠正单腿硬拉易犯的错误动作](https://www.douyin.com/video/7460151111542902025?modeFrom=)
+1. [如何在家拉伸髋关节？](https://www.douyin.com/video/7460516850099653946?modeFrom=)
+1. [放松胸椎和背阔肌，用泡沫轴，翻书动作，以及鸟犬式](https://www.bilibili.com/video/BV1Kr4y1m77o/)
 
 ### 下肢
 1. [【下肢训练底层逻辑】不会练下肢的B友，请进！](https://www.bilibili.com/video/BV1oi421o7KJ)
