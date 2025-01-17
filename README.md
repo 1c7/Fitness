@@ -73,6 +73,9 @@
 ### 练胸
 1. [哑铃卧推教程](https://v.douyin.com/iyGLt4ur/)
 
+### 泡沫轴
+1. [【全网最细】泡沫轴使用方法](https://www.bilibili.com/video/BV19E421w7Up/)
+
 </details>
 
 ## 视频创作者
