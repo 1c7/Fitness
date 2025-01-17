@@ -57,7 +57,7 @@
 1. [梅奥诊所腰痛训练方案（第三期）——进阶训练](https://v.douyin.com/iydXQEQo)
 1. [用木棍纠正单腿硬拉易犯的错误动作](https://www.douyin.com/video/7460151111542902025?modeFrom=)
 1. [如何在家拉伸髋关节？](https://www.douyin.com/video/7460516850099653946?modeFrom=)
-1. [放松胸椎和背阔肌，用泡沫轴，翻书动作，以及鸟犬式](https://www.bilibili.com/video/BV1Kr4y1m77o/)
+1. [腰部太紧张？一定不要忽略这块肌肉的拉伸](https://www.bilibili.com/video/BV1Kr4y1m77o/)：用泡沫轴放松胸椎，背阔肌，翻书动作，鸟犬式
 
 ### 下肢
 1. [【下肢训练底层逻辑】不会练下肢的B友，请进！](https://www.bilibili.com/video/BV1oi421o7KJ)
