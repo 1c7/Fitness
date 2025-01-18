@@ -157,6 +157,7 @@
 1. 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 164 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAcQl4uLUk1Tc19p2DHRcdeQEk-hXN28y_ecJgXa0J8Ag) 43 万粉
 1. 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 北京体育大学博士 原国家队体能教练 全网两百万粉丝矫正案例过万，8 万粉
 1. 体能教练黄爆炸: [B站](https://space.bilibili.com/394037557/video) 中国冬季项目国家队体能教练 北京体育大学运动人体科学硕士 美国体能协会CSCS职业体能教练 美国斯巴达SGX一级教练，2 万粉。
+1. 运动康复翁博士: [B站](https://space.bilibili.com/227030965/upload/video)：北体大运动医学博士，康复治疗师，森诺运动康复连锁创始人，北京杭州9家门店
 
 <details>
   <summary>更多（点击展开）</summary>
