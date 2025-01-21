@@ -52,6 +52,7 @@
 1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/)
+1. [完整核心训练的类型和动作都在这，适合健身爱好者，专项运动员和一些伤痛人群。总有一款适合你](https://www.bilibili.com/video/BV1714y1b72K)
 
 ### 其他
 1. [梅奥诊所腰痛训练方案（第三期）——进阶训练](https://v.douyin.com/iydXQEQo)
