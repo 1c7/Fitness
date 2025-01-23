@@ -77,6 +77,9 @@
 ### 泡沫轴
 1. [【全网最细】泡沫轴使用方法](https://www.bilibili.com/video/BV19E421w7Up/)
 
+### 前锯肌
+1. [【前锯肌】得前锯肌者得肩胛骨，得肩胛骨者得天下](bilibili.com/video/BV18z421q7hN)
+
 </details>
 
 ## 视频创作者
