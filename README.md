@@ -59,6 +59,7 @@
 1. [用木棍纠正单腿硬拉易犯的错误动作](https://www.douyin.com/video/7460151111542902025?modeFrom=)
 1. [如何在家拉伸髋关节？](https://www.douyin.com/video/7460516850099653946?modeFrom=)
 1. [腰部太紧张？一定不要忽略这块肌肉的拉伸](https://www.bilibili.com/video/BV1Kr4y1m77o/)：用泡沫轴放松胸椎，背阔肌，翻书动作，鸟犬式
+1. [每次下肢训练前，一定要充分放松髂腰肌](https://v.douyin.com/ifa9J2XY/)
 
 ### 下肢
 1. [【下肢训练底层逻辑】不会练下肢的B友，请进！](https://www.bilibili.com/video/BV1oi421o7KJ)
@@ -73,6 +74,7 @@
 
 ### 练胸
 1. [哑铃卧推教程](https://v.douyin.com/iyGLt4ur/)
+1. [用舒教练这两个动作技巧，找到卧推动作正确做法](https://v.douyin.com/ifMaxMRx/)
 
 ### 泡沫轴
 1. [【全网最细】泡沫轴使用方法](https://www.bilibili.com/video/BV19E421w7Up/)
