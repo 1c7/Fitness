@@ -1,11 +1,11 @@
 # 高质量健身教学
 
 ## 本内容对你的价值
-减脂增肌更高效，用尽可能短的时间达成目的，健身先健脑，少走弯路，预防受伤。
+减脂增肌更高效，事半功倍，健身先健脑，少走弯路，预防受伤，绝大部分事情已经有前人趟过了，不需要自己摸索。
 
 ## 如何使用本列表？（使用指南）
-1. 第一步：明确自己的目的（增肌/减脂/康复/运动表现/其他目的）
-2. 第二步：看下方的视频创作者，看哪些内容适合你。看十几个视频，学会了就开始训练。
+1. 第一步：明确自己的目的（增肌/减脂/康复/运动表现/其他）
+2. 第二步：在下列的视频创作者中，找到适合你的内容。看得差不多就可以开始训练了。
 
 ## 单个视频
 <details>
@@ -28,7 +28,7 @@
 1. [为什么肩外旋是你不可忽视的一环，推荐给你三个加强它的训练，助你拥有健康强壮的肩部](https://v.douyin.com/ih3mTU3n/)
 1. [单腿站立 60 秒，闭眼单腿站立，](https://www.bilibili.com/video/BV1EM4ietEB5/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b62a010489c78c6b1355911db71527bc)
 
-### 肩关节,肩袖肌群
+### 肩关节与肩袖肌群
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
@@ -44,11 +44,11 @@
 1. [【每日一肌】肩胛下肌——肩后剧痛、冻结肩久治不愈的“绝招”！（完整字幕版）](https://www.bilibili.com/video/BV1cy4y1p7hG/?spm_id_from=trigger_reload&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩袖肌群3D动画详解](https://v.douyin.com/ihrdRxhC/)
 
-### 热身
+### 训练前热身
 1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/?spm_id_from=333.788.recommend_more_video.3&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [99%的人运动前不做却很重要的动态热身？](https://www.bilibili.com/video/BV1Rt421N7K5/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc) 推荐。
 
-### 核心
+### 核心（从膈肌到盆底肌）
 1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/)
