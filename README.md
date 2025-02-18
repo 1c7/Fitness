@@ -91,7 +91,7 @@
 1. 叶师傅: [B站](https://space.bilibili.com/111584767) 4 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAlWWg_kP_VBhF1dJmuquaNMLrDfsIB61orJg9C_SopGQ?from_tab_name=main&vid=7394025477578542347)
 1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 51 万粉
 1. Eden健身一噔噔: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMbcY3JbIhkLh_FriwMDdOpzNi6n_7hfIxPs4umLG09I?vid=7407814160320302387) 1 万粉
-
+1. 小魏的运动领域: [抖音](https://www.douyin.com/user/MS4wLjABAAAAb9yPHJdrbKMJ9OAxnB-rwGX1lX0SiHWdU66JXvb8ZuGp_kvZAPTxlgm2_kFYH1Z_?from_tab_name=main&vid=7472701223657819444)
 
 <details>
   <summary>（点击展开）第二批</summary>
