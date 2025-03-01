@@ -29,6 +29,7 @@
 1. [单腿站立 60 秒，闭眼单腿站立，](https://www.bilibili.com/video/BV1EM4ietEB5/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b62a010489c78c6b1355911db71527bc)
 
 ### 肩关节与肩袖肌群
+1. [肩峰撞击，肩部不适的基础处理](https://v.douyin.com/i5B3rpKA/)
 1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
