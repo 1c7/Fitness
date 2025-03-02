@@ -83,6 +83,10 @@
 ### 前锯肌
 1. [【前锯肌】得前锯肌者得肩胛骨，得肩胛骨者得天下](bilibili.com/video/BV18z421q7hN)
 
+
+### 不会分类
+1. [脖子活动受限不舒服的来](https://v.douyin.com/i5DVkkex/)
+
 </details>
 
 ## 视频创作者
