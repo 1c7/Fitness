@@ -78,13 +78,13 @@
 1. [用舒教练这两个动作技巧，找到卧推动作正确做法](https://v.douyin.com/ifMaxMRx/)
 
 ### 背
-1. [用引体练出强壮背部](bilibili.com/video/BV17S9UYGExu/)
+1. [用引体练出强壮背部](https://bilibili.com/video/BV17S9UYGExu/)
 
 ### 泡沫轴
 1. [【全网最细】泡沫轴使用方法](https://www.bilibili.com/video/BV19E421w7Up/)
 
 ### 前锯肌
-1. [【前锯肌】得前锯肌者得肩胛骨，得肩胛骨者得天下](bilibili.com/video/BV18z421q7hN)
+1. [【前锯肌】得前锯肌者得肩胛骨，得肩胛骨者得天下](https://bilibili.com/video/BV18z421q7hN)
 
 ### 不会分类
 1. [脖子活动受限不舒服的来](https://v.douyin.com/i5DVkkex/)
@@ -354,8 +354,8 @@
 - 成人肥胖食养指南（2024年版）
 
 视频：  
-- [如不遏制，5年后我国成人超重肥胖率将超70%](bilibili.com/video/BV1ejQwYhE3v/)：视频长度 3 分钟，提到了 成人肥胖食养指南（2024年版）
-- [减肥80%靠饮食20%靠运动](bilibili.com/video/BV1ZZ421a7aF)：视频长度 1 分钟
+- [如不遏制，5年后我国成人超重肥胖率将超70%](https://bilibili.com/video/BV1ejQwYhE3v/)：视频长度 3 分钟，提到了 成人肥胖食养指南（2024年版）
+- [减肥80%靠饮食20%靠运动](https://bilibili.com/video/BV1ZZ421a7aF)：视频长度 1 分钟
 
 
 ## 备注
