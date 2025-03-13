@@ -45,6 +45,10 @@
 1. [【每日一肌】肩胛下肌——肩后剧痛、冻结肩久治不愈的“绝招”！（完整字幕版）](https://www.bilibili.com/video/BV1cy4y1p7hG/)
 1. [肩袖肌群3D动画详解](https://v.douyin.com/ihrdRxhC/)
 
+### 肩
+1. [紧急避险！肩部训练五大错误](https://bilibili.com/video/BV1URAneqE5c/)：应当多注重核心训练
+1. [坐姿哑铃推肩详解](https://www.bilibili.com/video/BV1uw411N7MC)：11 分钟
+
 ### 训练前热身
 1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/)
 1. [99%的人运动前不做却很重要的动态热身？](https://www.bilibili.com/video/BV1Rt421N7K5/) 推荐。
@@ -356,6 +360,17 @@
 视频：  
 - [如不遏制，5年后我国成人超重肥胖率将超70%](https://bilibili.com/video/BV1ejQwYhE3v/)：视频长度 3 分钟，提到了 成人肥胖食养指南（2024年版）
 - [减肥80%靠饮食20%靠运动](https://bilibili.com/video/BV1ZZ421a7aF)：视频长度 1 分钟
+- [体重减不下来有3个原因](https://www.bilibili.com/video/BV1oG411J7Dk)：4 分钟
+
+- [国家卫健委喊你管理体重啦！居民体重管理核心知识发布](https://www.bilibili.com/video/BV1YJ4m1M7uF)：2 分钟，  
+成年人正常 BMI 应该是 18.5 <= BMI <= 24.0  
+24 <= BMI <= 28 是超重  
+BMI >= 28 是肥胖  
+成年人男性腰围 >= 90 厘米是中心型肥胖。成年人男性 85 厘米 <= 腰围 <= 90 厘米 就是中心型肥胖前期。    
+每周体重减少不超过 0.5kg，3-6个月内减少体重的 5%～10%  
+
+- [全社会积极响应“体重管理年”行动](https://www.bilibili.com/video/BV1DWR3YtEEB)：47 秒
+
 
 
 ## 备注
