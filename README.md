@@ -16,7 +16,7 @@
 1. [【生活化减脂减肥】从理论到案例 就吃食堂外卖](https://www.bilibili.com/video/BV1794y1a7y4/) 47 分钟，好人松松
 1. [大圆肌为什么不属于肩袖肌群](https://v.douyin.com/ihRBNjjj/)
 1. [【功能训练系列③】25个技能包！别让胸椎肩胛成为你进步的绊脚石](https://www.bilibili.com/video/BV1qv4y1t7BE)
-1. [早晨做这4件事帮你快速起床!](https://www.bilibili.com/video/BV1o54y1v7Qq/?vd_source=b62a010489c78c6b1355911db71527bc)
+1. [早晨做这4件事帮你快速起床!](https://www.bilibili.com/video/BV1o54y1v7Qq/)
 1. [【改善体态】5分钟全身体态纠正训练 (起床必备)](https://www.bilibili.com/video/BV1A54y1S7mn/)
 1. [减脂别再买什么饮食计划被割韭菜了，学会这个逻辑，自己给自己做饮食！](https://www.bilibili.com/video/BV1DD421W7DA/)
 1. [肩胛下肌](https://v.douyin.com/ih2DTmb4/)
@@ -26,32 +26,32 @@
 1. [X型腿详解](https://www.bilibili.com/video/BV1at421P7g4)
 1. [外旋肌肉可以每天练，避免动作变形还能改善体态](https://v.douyin.com/ih359QD1/)
 1. [为什么肩外旋是你不可忽视的一环，推荐给你三个加强它的训练，助你拥有健康强壮的肩部](https://v.douyin.com/ih3mTU3n/)
-1. [单腿站立 60 秒，闭眼单腿站立，](https://www.bilibili.com/video/BV1EM4ietEB5/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [单腿站立 60 秒，闭眼单腿站立，](https://www.bilibili.com/video/BV1EM4ietEB5/)
 
 ### 肩关节与肩袖肌群
 1. [肩峰撞击，肩部不适的基础处理](https://v.douyin.com/i5B3rpKA/)
-1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩关节弹响详解](https://www.bilibili.com/video/BV1JC411J7dg/)
 1. [肩峰撞击|自己处理的小方法，可以尝试一下](https://bilibili.com/video/BV1oe411o7PB) 6 分钟
 1. [外展类动作“肩峰撞击”和肩关节疼痛的底层逻辑和保姆级调整方案](bilibili.com/video/BV1yZ421T7EA/) 14 分钟
 1. [肩袖肌群里，最容易受伤的是冈上肌, 介绍一个测试冈上肌肌腱的方法](https://v.douyin.com/ihRhUfh2/)
 1. [肩关节疼痛如何康复？](https://www.bilibili.com/video/BV1mC4y1W7Kn/)
 1. [肩袖肌群](https://v.douyin.com/ih2LHLny)
 1. [【康复师带读】肩关节运动、肩峰撞击、肩关节不稳基础肌动学](https://www.bilibili.com/video/BV1jrWaeBECB/)
-1. [肩胛骨的运动实际发生在胸前？肩关节复合体肌动学领读](https://www.bilibili.com/video/BV1ff421v7yW/?vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩胛骨的运动实际发生在胸前？肩关节复合体肌动学领读](https://www.bilibili.com/video/BV1ff421v7yW/)
 1. [【一网打尽】3分钟教你肩关节疼痛自测方法](https://www.bilibili.com/video/BV1na4y1f7JJ)
 1. [【实用】肩关节疼痛自测指南（肩袖损伤/肩峰撞击/盂唇损伤等）完整版](https://www.bilibili.com/video/BV1834y1c7PE/)
-1. [肩膀如何康复训练？](https://www.bilibili.com/video/BV14142187K3/?spm_id_from=333.788.recommend_more_video.2&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [肩膀如何康复训练？](https://www.bilibili.com/video/BV14142187K3/)
 1. [松解肩胛下肌](https://v.douyin.com/ihrepJ9W/)
-1. [【每日一肌】肩胛下肌——肩后剧痛、冻结肩久治不愈的“绝招”！（完整字幕版）](https://www.bilibili.com/video/BV1cy4y1p7hG/?spm_id_from=trigger_reload&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [【每日一肌】肩胛下肌——肩后剧痛、冻结肩久治不愈的“绝招”！（完整字幕版）](https://www.bilibili.com/video/BV1cy4y1p7hG/)
 1. [肩袖肌群3D动画详解](https://v.douyin.com/ihrdRxhC/)
 
 ### 训练前热身
-1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/?spm_id_from=333.788.recommend_more_video.3&vd_source=b62a010489c78c6b1355911db71527bc)
-1. [99%的人运动前不做却很重要的动态热身？](https://www.bilibili.com/video/BV1Rt421N7K5/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc) 推荐。
+1. [为何运动前要做动态热身？](https://www.bilibili.com/video/BV1MC411s76D/)
+1. [99%的人运动前不做却很重要的动态热身？](https://www.bilibili.com/video/BV1Rt421N7K5/) 推荐。
 
 ### 核心（从膈肌到盆底肌）
-1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
-1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC/?spm_id_from=333.788.recommend_more_video.-1&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [顶尖运动员的核心训练动作](https://www.bilibili.com/video/BV1Tt4y1b7JH)
+1. [「深蹲大学」核心三大项，建议每天练！（预防&缓解腰痛）](https://www.bilibili.com/video/BV17R4y1T7bC)
 1. [核心训练详解](https://www.bilibili.com/video/BV1QC4y1q7FS/)
 1. [完整核心训练的类型和动作都在这，适合健身爱好者，专项运动员和一些伤痛人群。总有一款适合你](https://www.bilibili.com/video/BV1714y1b72K)
 
@@ -65,24 +65,26 @@
 ### 下肢
 1. [【下肢训练底层逻辑】不会练下肢的B友，请进！](https://www.bilibili.com/video/BV1oi421o7KJ)
 1. [深蹲各项问题的解决方法](https://v.douyin.com/ihkb847t/)
-1. [保加利亚蹲—构建强壮、稳定、挺翘的下肢](https://www.bilibili.com/video/BV1tF4m137Xd/?spm_id_from=333.788.recommend_more_video.2&vd_source=b62a010489c78c6b1355911db71527bc)
+1. [保加利亚蹲—构建强壮、稳定、挺翘的下肢](https://www.bilibili.com/video/BV1tF4m137Xd/)
 
-### 练臀
+### 臀
 1. [如何锻炼臀部小肌群？](https://v.douyin.com/iydyvRQD)
 2. [【臀中肌】躯干侧向最重要的稳定肌](https://www.bilibili.com/video/BV1AuCVY4E3n)
 3. [【杠铃臀桥】下肢、核心绝不可错过的经典动作！](https://www.bilibili.com/video/BV1YF4m1T7KS)
 1. [【健身理论课】是男人，更应该练臀](https://www.bilibili.com/video/BV1Fi4y1s7tH)
 
-### 练胸
+### 胸
 1. [哑铃卧推教程](https://v.douyin.com/iyGLt4ur/)
 1. [用舒教练这两个动作技巧，找到卧推动作正确做法](https://v.douyin.com/ifMaxMRx/)
+
+### 背
+1. [用引体练出强壮背部](bilibili.com/video/BV17S9UYGExu/)
 
 ### 泡沫轴
 1. [【全网最细】泡沫轴使用方法](https://www.bilibili.com/video/BV19E421w7Up/)
 
 ### 前锯肌
 1. [【前锯肌】得前锯肌者得肩胛骨，得肩胛骨者得天下](bilibili.com/video/BV18z421q7hN)
-
 
 ### 不会分类
 1. [脖子活动受限不舒服的来](https://v.douyin.com/i5DVkkex/)
