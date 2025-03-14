@@ -376,6 +376,11 @@ BMI >= 28 是肥胖
 
 - [这些信号可能是肾脏在求救！](bilibili.com/video/BV1PZQAYpETc/)：肥胖也会导致肾病，早期是蛋白尿，甚至进入尿毒症，肥胖的人得尿毒症是一般人的 10 倍多
 
+- [这样吃，你的胰岛素真的会“罢工”](https://www.bilibili.com/video/BV11ERAYfEDt)
+
+- [注意！不吃晚饭减肥容易养成易胖体质](https://www.bilibili.com/video/BV1Yt4y1x7tK)：3 分钟
+
+
 ## 备注
 此列表有我个人主观，所以很多"名人"和"网红"不在表里。   
 筛选标准是 "教学类视频多，质量普遍较高"。      
