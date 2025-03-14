@@ -370,8 +370,11 @@ BMI >= 28 是肥胖
 每周体重减少不超过 0.5kg，3-6个月内减少体重的 5%～10%  
 
 - [全社会积极响应“体重管理年”行动](https://www.bilibili.com/video/BV1DWR3YtEEB)：47 秒
+- [你的疲劳可能是吃出来的](https://www.bilibili.com/video/BV1nG4y1t7rK/)：主食不能少。
 
+- [医生建议成人每天睡够7小时](https://www.bilibili.com/video/BV1QN4y1A7Mn/)
 
+- [这些信号可能是肾脏在求救！](bilibili.com/video/BV1PZQAYpETc/)：肥胖也会导致肾病，早期是蛋白尿，甚至进入尿毒症，肥胖的人得尿毒症是一般人的 10 倍多
 
 ## 备注
 此列表有我个人主观，所以很多"名人"和"网红"不在表里。   
