@@ -93,6 +93,7 @@
 ### 不会分类
 1. [多年经验总结，句句肺腑之言！ 不要再过度安排和吹捧“杠铃类”动作了，现在的训练手段和选择性太多了！要记住：自己感受好的动作才是“王牌动作”，希望能帮到你们](bilibili.com/video/BV1jLZpY5EhW)
 1. [脖子活动受限不舒服的来](https://v.douyin.com/i5DVkkex/)
+2. [为什么要多练外旋肌肉力量，舒教练讲解三个理由](https://v.douyin.com/CDckuhr8OVY/)
 
 </details>
 
