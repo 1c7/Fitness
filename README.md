@@ -145,111 +145,116 @@
 </details>
 
 ## 视频创作者
-1. 凯圣王: [B站](https://space.bilibili.com/2100737396/video) 85 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。
-1. 好人松松: [B站](https://space.bilibili.com/2078781964/video) 41 万粉
-1. 北京力量教练舒雨帆: [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/)
-1. 叶师傅: [B站](https://space.bilibili.com/111584767) 4 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAlWWg_kP_VBhF1dJmuquaNMLrDfsIB61orJg9C_SopGQ?from_tab_name=main&vid=7394025477578542347)
-1. 大海运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 51 万粉
-1. Eden健身一噔噔: [抖音](https://www.douyin.com/user/MS4wLjABAAAAMbcY3JbIhkLh_FriwMDdOpzNi6n_7hfIxPs4umLG09I?vid=7407814160320302387) 1 万粉
-1. 小魏的运动领域: [抖音](https://www.douyin.com/user/MS4wLjABAAAAb9yPHJdrbKMJ9OAxnB-rwGX1lX0SiHWdU66JXvb8ZuGp_kvZAPTxlgm2_kFYH1Z_?from_tab_name=main&vid=7472701223657819444)
-1. 谭成义: [抖音](https://www.douyin.com/user/MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25eFkQDGXOY?from_tab_name=main) 198 万粉
+
+| 名字 | 社交媒体 |
+|------|----------|
+| 凯圣王 | [B站](https://space.bilibili.com/2100737396/video) 85 万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAjnKGbRiPmA8tqEn8WAWSqr89M7HQhpxsJdXdgM6bebf2c9pxX4GRBWG9I6GmppEA) 135 万粉，推荐。 |
+| 好人松松 | [B站](https://space.bilibili.com/2078781964/video) 41 万粉 |
+| 北京力量教练舒雨帆 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAp0mWy-Noly002Jvawqu4ec9NVfw3dsuBzBFhv2xvHXHcE9RgbEvpVqjtqH_WD9TW) 6 万粉，2024年8月出版一本书《如何设计健身计划 - 从碎片化知识到训练体系的构建》 [豆瓣](https://book.douban.com/subject/37012860/) |
+| 叶师傅 | [B站](https://space.bilibili.com/111584767) 4 万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAlWWg_kP_VBhF1dJmuquaNMLrDfsIB61orJg9C_SopGQ?from_tab_name=main&vid=7394025477578542347) |
+| 大海运动表现 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAYbFZYe20twERej7pDElXXHr-NK4GdpIY4bW0pZcX6lmr3RhsdxXdV6bccUniYbdu?vid=7341714072477388084) 51 万粉 |
+| Eden健身一噔噔 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAMbcY3JbIhkLh_FriwMDdOpzNi6n_7hfIxPs4umLG09I?vid=7407814160320302387) 1 万粉 |
+| 小魏的运动领域 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAb9yPHJdrbKMJ9OAxnB-rwGX1lX0SiHWdU66JXvb8ZuGp_kvZAPTxlgm2_kFYH1Z_?from_tab_name=main&vid=7472701223657819444) |
+| 谭成义 | [抖音](https://www.douyin.com/user/MS4wLjABAAAArfpAmbNNdODGpzfznrZAXrt2JgCGFWxE25eFkQDGXOY?from_tab_name=main) 198 万粉 |
 
 <details>
   <summary>（点击展开）第二批</summary>
 
-### 健一: [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main&vid=7439427679356570919) 7 万粉，[B站](https://space.bilibili.com/380448118) 2 万粉
-1. 想上奥赛的闫首鸣和陪伴他的刘奕彤: [抖音](https://www.douyin.com/user/MS4wLjABAAAABU_Sckj-3pPPj9CVvysc1inf2K0bvi7nc9Mt61R6UFD1uvNBSf53Tv2xj0FFfCBc)
-  * [对握高拉](https://v.douyin.com/ihrfmtJm/)
-1. 帅soserious: [B站](https://space.bilibili.com/66391032/video) 412 万粉, [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉
-1. Super大叔：[抖音](https://www.douyin.com/user/MS4wLjABAAAAVyS4HD8vZtCDRHeLdgvmRYhTQ-WI3T6na9ek0C4o8hw) 153 万粉
-1. FE健身干货百科书: [B站](https://space.bilibili.com/34782728/video) 14 万粉。视频长度大多在 3 到 5 分钟。
-1. 叔贵: [B站](https://space.bilibili.com/1531707/video) 292 万粉
-1. 爱健身的二哈: [B站](https://space.bilibili.com/480647097/video) 4万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。
-  * [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc)
-  * [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/)
-  * [“沉浸式”的《背部训练计划》](https://www.bilibili.com/video/BV1Pc411D77g)
-  * [大圆、背阔找不到感觉？练背总是手臂先力竭？背展肱二头肌造型非常奇怪？健身房没有“大剪刀”器械？本期视频帮你解决这些问题！](https://www.bilibili.com/video/BV1fE421375P/?spm_id_from=333.788&vd_source=b62a010489c78c6b1355911db71527bc)
-
-1. 蹲300的1涵: [B站](https://space.bilibili.com/1702288791/video) 介绍：前国家队体能教练、省队教练、军事体能外聘教练、北体大体能专业研究生、力量举全国冠军。深蹲300的健身博主干货分享～拓德时代上镜选手
-1. 单竹运动科学: [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 20 万粉。功能性训练。
-1. 汪伦: [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 20 万粉
-1. ALEX健身频道: [B站](https://space.bilibili.com/1681952786/video) 11 万粉
-1. 体德健身教练培训: [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 54 万粉, [B站](https://space.bilibili.com/3537115906312736) 18 万粉。李维刚的学校，抖音直播频繁，卖 399 元的课，直播给学校招生以及卖课。
-1. 简单健: [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16 万粉
-1. 肉导: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8 万粉
-1. 小李不吃🐷: [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 109 万粉。"健康饮食"类内容多
-1. 老爷爷就是老爷爷: [B站](https://space.bilibili.com/20802136/video)
-1. HE运动表现: [抖音](https://www.douyin.com/user/MS4wLjABAAAAhAh2_qDrPg_veciT7XgG1TqDGdlLTIVnbzDeHNehjFOuAkfpTRweWzGnh-ZqkYkN) 北京体育大学 体能训练博士在读
+| 名字 | 社交媒体 |
+|------|----------|
+| 健一 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAPT2gXCFnC1px-_KAWQRBlTKKq3FuZB-VViflbg8daWD3CHR5djLgXj0Y2CYwcTG8?from_tab_name=main&vid=7439427679356570919) 7 万粉 · [B站](https://space.bilibili.com/380448118) 2 万粉 |
+| 想上奥赛的闫首鸣和陪伴他的刘奕彤 | [抖音](https://www.douyin.com/user/MS4wLjABAAAABU_Sckj-3pPPj9CVvysc1inf2K0bvi7nc9Mt61R6UFD1uvNBSf53Tv2xj0FFfCBc)。推荐视频: [对握高拉](https://v.douyin.com/ihrfmtJm/) |
+| 帅soserious | [B站](https://space.bilibili.com/66391032/video) 412 万粉 · [Youtube](https://www.youtube.com/@shuaisoserious/videos) 143 万粉 |
+| Super大叔 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAVyS4HD8vZtCDRHeLdgvmRYhTQ-WI3T6na9ek0C4o8hw) 153 万粉 |
+| FE健身干货百科书 | [B站](https://space.bilibili.com/34782728/video) 14 万粉。视频长度大多在 3 到 5 分钟。 |
+| 叔贵 | [B站](https://space.bilibili.com/1531707/video) 292 万粉 |
+| 爱健身的二哈 | [B站](https://space.bilibili.com/480647097/video) 4万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAZlUl55wZFVYhLOC7kx5OGpKYm2Gs4uFFlbXXW77_EYI) 4万粉。推荐视频: [背部训练的所有逻辑](https://www.bilibili.com/video/BV1Su4y137RY/?spm_id_from=333.337.search-card.all.click&vd_source=b62a010489c78c6b1355911db71527bc) · [如果你有含胸、圆肩、肱骨前移、翼状肩胛，保姆级调整方案在这！](https://www.bilibili.com/video/BV1oi421a7hi/) · [“沉浸式”的《背部训练计划》](https://www.bilibili.com/video/BV1Pc411D77g) · [大圆、背阔找不到感觉？练背总是手臂先力竭？背展肱二头肌造型非常奇怪？健身房没有“大剪刀”器械？本期视频帮你解决这些问题！](https://www.bilibili.com/video/BV1fE421375P/?spm_id_from=333.788&vd_source=b62a010489c78c6b1355911db71527bc) |
+| 蹲300的1涵 | [B站](https://space.bilibili.com/1702288791/video) 介绍：前国家队体能教练、省队教练、军事体能外聘教练、北体大体能专业研究生、力量举全国冠军。深蹲300的健身博主干货分享～拓德时代上镜选手 |
+| 单竹运动科学 | [抖音](https://www.douyin.com/user/MS4wLjABAAAACUcp5nqU1DLy0EvLNwfSJAVBZ57XA_IEBlrFN5_22zk?vid=7345063705404574986) 20 万粉。功能性训练。 |
+| 汪伦 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAj72V0SzSL8EIow2mbrngYJXThZwMWiJU8YPRBbXfuAWn7MZ7MVqmmOs74IInvSyA) 20 万粉 |
+| ALEX健身频道 | [B站](https://space.bilibili.com/1681952786/video) 11 万粉 |
+| 体德健身教练培训 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAjXA1kP2B3Y1V9mZH4Xl5K1J2eWkmK0c9RdgTrekjrss) 54 万粉 · [B站](https://space.bilibili.com/3537115906312736) 18 万粉。李维刚的学校，抖音直播频繁，卖 399 元的课，直播给学校招生以及卖课。 |
+| 简单健 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAOILBaTX0T9FpT5lOuyPOE2rMGAg8U6kzPZ0KmCG--Q0) 16 万粉 |
+| 肉导 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAnQLBvQ1Jiqo2uI_1rQC2prlQpFVm4dAWxou9oTm0xjs) 8 万粉 |
+| 小李不吃🐷 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAetF9J1fel4yfCzxWclXZnzI9I3ptyqd2aaDXpRG5E2WQJQ1Sw91k76-rOA2vxMs2?vid=7386615896648813861) 109 万粉。"健康饮食"类内容多 |
+| 老爷爷就是老爷爷 | [B站](https://space.bilibili.com/20802136/video) |
+| HE运动表现 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAhAh2_qDrPg_veciT7XgG1TqDGdlLTIVnbzDeHNehjFOuAkfpTRweWzGnh-ZqkYkN) 北京体育大学 体能训练博士在读 |
 </details>
 
 <details>
   <summary>（点击展开）第三批</summary>
 
-1. ZBY力量举: [B站](https://space.bilibili.com/236094881/video) 11 万粉
-1. 健助师_小珂: [B站](https://space.bilibili.com/330325021/video) 46 万粉
-1. Erik埃里克: [B站](https://space.bilibili.com/23640791/video) 80 万粉
-1. 闫帅奇: [B站](https://space.bilibili.com/434378423/video) 242 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAd3cuWUapaa1RlDXsRAgV3C2phPRmypHASG4hSZY62RI?from_tab_name=main) 27 万粉
-1. 卓叔增重: [B站](https://space.bilibili.com/22423090/video) 189 万粉，视频标题里"瘦子"2个字出现频率高。内容更新频率低。
-1. Gandy: [B站](https://space.bilibili.com/378067652/video) 71万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14 万粉。
-1. 云健身-仰望尾迹云: [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/) B站视频内容大多以营养学和生理学为主，比如香蕉，蛋白质，肌酸等。
-1. 别往嘴里旋了，姐妹: [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。
-1. 自强不息归来: [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc) 47万粉
-1. 追溯普拉提: [B站](https://space.bilibili.com/398394568/video) 10万粉
-1. MuscleUp街头健身: [B站](https://space.bilibili.com/260509354/video) 39 万粉，视频背景音乐的音量过大，麦克风有爆麦的听感，不太喜欢。[例子](https://www.bilibili.com/video/BV1Yi421a7yG/)
-1. 大啊好我是吕一: [B站](https://space.bilibili.com/109590605/video) 12 万粉
-1. 维亚德: [B站](https://space.bilibili.com/1745356376/video) 53万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44) 112万粉, 法国人, 内容多是竖屏短视频。
-1. KymFit: [B站](https://space.bilibili.com/18143977/video) 18万粉。
-1. Steve不是美队: [B站](https://space.bilibili.com/2507562/video) 3 万粉
-1. 猫叔慢跑: [B站](https://space.bilibili.com/13716885/video) 90 万粉
-1. 刘圣雄: [B站](https://space.bilibili.com/390668605/video) 7万粉。
-1. 怪兽拖鞋战神: [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 9 万粉。
-1. UP健身: [B站](https://space.bilibili.com/129819878/video) 36 万粉，都是外网视频翻译。没有原创内容。
-1. 戴老师超级干: [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 107万粉。
-1. 西奇i健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 530 万粉。
-1. 呙俐: [B站](https://space.bilibili.com/549367210/video) 4 万粉，[抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 22 万粉。视频多是在垫子上训练灵活性，核心，稳定性。
-1. 东东爱健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAAxdgEZ5GTlJuH468LA1XQOZqVI7bEWFENauM1DN8AXhU) 134 万粉
-1. 蛋壳健康APP: [B站](https://www.bilibili.com/video/BV1rCH5exErT/?spm_id_from=333.1007.tianma.5-1-14.click&vd_source=b62a010489c78c6b1355911db71527bc)
-1. Matt: [抖音](https://www.douyin.com/user/MS4wLjABAAAAf2crcjEvOXZf-tyN0oXfrm0EzQYH7Fw6Fjtpvcyb9iA?from_tab_name=main&vid=7392161455916731658) 33 万粉
-1. 体德校长李维刚（健身版）: [抖音](https://www.douyin.com/user/MS4wLjABAAAAx5ZEEJekGWpd1G4XzcOKvZS_vGBUuc0ZY0eJrKWD5CLDwGQpeLusDGttvpQZA9Qr?from_tab_name=main) 31万粉
+| 名字 | 社交媒体 |
+|------|----------|
+| ZBY力量举 | [B站](https://space.bilibili.com/236094881/video) 11 万粉 |
+| 健助师_小珂 | [B站](https://space.bilibili.com/330325021/video) 46 万粉 |
+| Erik埃里克 | [B站](https://space.bilibili.com/23640791/video) 80 万粉 |
+| 闫帅奇 | [B站](https://space.bilibili.com/434378423/video) 242 万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAd3cuWUapaa1RlDXsRAgV3C2phPRmypHASG4hSZY62RI?from_tab_name=main) 27 万粉 |
+| 卓叔增重 | [B站](https://space.bilibili.com/22423090/video) 189 万粉，视频标题里"瘦子"2个字出现频率高。内容更新频率低。 |
+| Gandy | [B站](https://space.bilibili.com/378067652/video) 71万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAswrrHZDE9D5i3YytDEQwFd2g2ISFZnpRA3xlcDHOaCo) 14 万粉。 |
+| 云健身-仰望尾迹云 | [B站](https://space.bilibili.com/1879203169/video) 此人写了几本书。[《健身必须懂-极简健身生理学》](https://book.douban.com/subject/35531065/)，[《我的最后一本减肥书》](https://book.douban.com/subject/36103172/) B站视频内容大多以营养学和生理学为主，比如香蕉，蛋白质，肌酸等。 |
+| 别往嘴里旋了，姐妹 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAW8gdAt1r2BM6L5OxMsPmp6bNkrtlp6sm3n2eTMqPkXgm6QFhVSq4AA-0zvs_3BZn?vid=7336334398494625064) 女性观众会更喜欢他的内容。85万粉。 |
+| 自强不息归来 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAYdFkMeGeCcdQy1_xMAmFliVqdwFz2RVMB38V3g9lDJc) 47万粉 |
+| 追溯普拉提 | [B站](https://space.bilibili.com/398394568/video) 10万粉 |
+| MuscleUp街头健身 | [B站](https://space.bilibili.com/260509354/video) 39 万粉，视频背景音乐的音量过大，麦克风有爆麦的听感，不太喜欢。[例子](https://www.bilibili.com/video/BV1Yi421a7yG/) |
+| 大啊好我是吕一 | [B站](https://space.bilibili.com/109590605/video) 12 万粉 |
+| 维亚德 | [B站](https://space.bilibili.com/1745356376/video) 53万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAfasLItGfE2JlNCp1I68JVtv4M5P0IMKfcxqt7bCgO44) 112万粉, 法国人, 内容多是竖屏短视频。 |
+| KymFit | [B站](https://space.bilibili.com/18143977/video) 18万粉。 |
+| Steve不是美队 | [B站](https://space.bilibili.com/2507562/video) 3 万粉 |
+| 猫叔慢跑 | [B站](https://space.bilibili.com/13716885/video) 90 万粉 |
+| 刘圣雄 | [B站](https://space.bilibili.com/390668605/video) 7万粉。 |
+| 怪兽拖鞋战神 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAcrLVNnNTw98DfCbsfWzFXYM5BVkdhhiMpsZfXD8iWl8yAKsJzzd-soqUiLfdqsEy?vid=7312857851695729971) 9 万粉。 |
+| UP健身 | [B站](https://space.bilibili.com/129819878/video) 36 万粉，都是外网视频翻译。没有原创内容。 |
+| 戴老师超级干 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAH0yRCa-uBPywIzrBBLDgLeuFziBrIJrCqKk1Atx0CPU?vid=7337257689677942051) 107万粉。 |
+| 西奇i健身 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAKuK9tPMPsmTkx1IO5risLyyO-cVpWqTsPDGxQ1Sf2JcuiJp81OWjQudlCnUOFJnk) 530 万粉。 |
+| 呙俐 | [B站](https://space.bilibili.com/549367210/video) 4 万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAA-Jzq-UvrhVgBY5U5eO_CNC7kroc7qPSAynn1xCkfeYLskeN9WspIqAl6yaRm6Rdv?vid=7320572777914748199) 22 万粉。视频多是在垫子上训练灵活性，核心，稳定性。 |
+| 东东爱健身 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAxdgEZ5GTlJuH468LA1XQOZqVI7bEWFENauM1DN8AXhU) 134 万粉 |
+| 蛋壳健康APP | [B站](https://www.bilibili.com/video/BV1rCH5exErT/?spm_id_from=333.1007.tianma.5-1-14.click&vd_source=b62a010489c78c6b1355911db71527bc) |
+| Matt | [抖音](https://www.douyin.com/user/MS4wLjABAAAAf2crcjEvOXZf-tyN0oXfrm0EzQYH7Fw6Fjtpvcyb9iA?from_tab_name=main&vid=7392161455916731658) 33 万粉 |
+| 体德校长李维刚（健身版） | [抖音](https://www.douyin.com/user/MS4wLjABAAAAx5ZEEJekGWpd1G4XzcOKvZS_vGBUuc0ZY0eJrKWD5CLDwGQpeLusDGttvpQZA9Qr?from_tab_name=main) 31万粉 |
 </details>
 
 ## 体态矫正,运动康复
 
-1. 运动康复陈老师：[B站](https://space.bilibili.com/398400942/video) 33万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。
-1. 张翔炜的运动康复/张老师轻松学康复🏆: [B站](https://space.bilibili.com/221682694/video) 26 万粉。[抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 78 万粉
-1. 王德麟: [B站](https://space.bilibili.com/522006194?spm_id_from=333.337.0.0), [抖音](https://www.douyin.com/user/MS4wLjABAAAAjFiHDfNSZpytnvTqOJjS-oQGjCvLH8_AM3xMulXtqtwwMLCzyVmyuOalc6y6-YR6)
-1. C戈体态矫正: [B站](https://space.bilibili.com/489117797/video) 122 万粉
-1. C戈形体矫正逻辑: [B站](https://space.bilibili.com/288606363/video) 58 万粉
-1. 运动康复胡老师: [B站](https://space.bilibili.com/402136145/video) 5 万粉
-1. 脊医博士鹏哥: [B站](https://space.bilibili.com/408907896/video) 164 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAcQl4uLUk1Tc19p2DHRcdeQEk-hXN28y_ecJgXa0J8Ag) 43 万粉
-1. 张博士体态康复: [B站](https://space.bilibili.com/512941756/video) 北京体育大学博士 原国家队体能教练 全网两百万粉丝矫正案例过万，8 万粉
-1. 体能教练黄爆炸: [B站](https://space.bilibili.com/394037557/video) 中国冬季项目国家队体能教练 北京体育大学运动人体科学硕士 美国体能协会CSCS职业体能教练 美国斯巴达SGX一级教练，2 万粉。
-1. 运动康复翁博士: [B站](https://space.bilibili.com/227030965/upload/video)：北体大运动医学博士，康复治疗师，森诺运动康复连锁创始人，北京杭州9家门店
+| 名字 | 社交媒体 |
+|------|----------|
+| 运动康复陈老师 | [B站](https://space.bilibili.com/398400942/video) 33万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAA86EBmyeUoddEPX5ngx8_3LfhbfUHgslAqJ4V1z2fqiw?vid=7351698596238036275) 32万粉。 |
+| 张翔炜的运动康复/张老师轻松学康复🏆 | [B站](https://space.bilibili.com/221682694/video) 26 万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAQ36_lb3jO2zqDlkwNUgDzNuhsR4HRBxJOLtKIQFfIhY?vid=7345063847071403327) 78 万粉 |
+| 王德麟 | [B站](https://space.bilibili.com/522006194?spm_id_from=333.337.0.0) · [抖音](https://www.douyin.com/user/MS4wLjABAAAAjFiHDfNSZpytnvTqOJjS-oQGjCvLH8_AM3xMulXtqtwwMLCzyVmyuOalc6y6-YR6) |
+| C戈体态矫正 | [B站](https://space.bilibili.com/489117797/video) 122 万粉 |
+| C戈形体矫正逻辑 | [B站](https://space.bilibili.com/288606363/video) 58 万粉 |
+| 运动康复胡老师 | [B站](https://space.bilibili.com/402136145/video) 5 万粉 |
+| 脊医博士鹏哥 | [B站](https://space.bilibili.com/408907896/video) 164 万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAAcQl4uLUk1Tc19p2DHRcdeQEk-hXN28y_ecJgXa0J8Ag) 43 万粉 |
+| 张博士体态康复 | [B站](https://space.bilibili.com/512941756/video) 北京体育大学博士 原国家队体能教练 全网两百万粉丝矫正案例过万，8 万粉 |
+| 体能教练黄爆炸 | [B站](https://space.bilibili.com/394037557/video) 中国冬季项目国家队体能教练 北京体育大学运动人体科学硕士 美国体能协会CSCS职业体能教练 美国斯巴达SGX一级教练，2 万粉。 |
+| 运动康复翁博士 | [B站](https://space.bilibili.com/227030965/upload/video)：北体大运动医学博士，康复治疗师，森诺运动康复连锁创始人，北京杭州9家门店 |
 
 <details>
   <summary>更多（点击展开）</summary>
 
-1. 张博士聊体态: [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉，[B站](https://space.bilibili.com/512941756/video) 8万粉。
-1. 健身教练刘远: [B站](https://space.bilibili.com/435967101/video) 22万粉
-1. 毕博士运动康复: [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉
-1. TBT逍遥: [B站](https://space.bilibili.com/44978529)
-1. 加拿大康复治疗师Weina: [B站](https://space.bilibili.com/478577282/video) 6 千粉
-1. 张老师的康复课堂: [B站](https://space.bilibili.com/1160603797/video) 6 万粉
-1. 孔博士工作室: [B站](https://space.bilibili.com/356634017/video) 67 万粉
-1. Jason拉我一把: [B站](https://space.bilibili.com/2079003835/video) 4 万粉
-1. 肖恩筋膜: [B站](https://space.bilibili.com/13802884/video) 3 万粉
-1. 周旋Randy: [B站](https://space.bilibili.com/330360355/video) 3 万粉
-1. 美式整脊曹老师: [B站](https://space.bilibili.com/20340681/video) 26万粉
-1. 康复博士卫双囍: [B站](https://space.bilibili.com/3493086252501409/video) 9 万粉
-1. 运动康复找老孙: [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 256 万粉
-1. 阿群: [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 运动训练学硕士🎓 分享日常和康复训练经验，293 万粉
-1. 运动康复找小桐: [B站](https://space.bilibili.com/3537119572133929/video) 北体大运动康复专业，1 万粉。
-1. 骨科康复kevin: [B站](https://space.bilibili.com/46309408/video) 北京体育大学毕业 专精骨科术前术后康复、运动损伤及慢性疼痛 PRI/SFMA/Mulligan/CSCS ，2 万粉
-1. 康复治疗师王太林: [B站](https://space.bilibili.com/1776492822/video) 10 万粉。
-1. 运动康复小七: [B站](https://space.bilibili.com/3493090232895764/video) 北体大运动康复专业｜国家队康复师｜北医三北大一运动医学科，2 万粉
-1. 冉冉运动康复学院: [B站](https://space.bilibili.com/673687262) 前国家队队医成立，致力于将专属奥运冠军的运动康复技术与标准传授给每一位学员，1万粉
-1. 方昕宇讲运动纠正: [B站](https://space.bilibili.com/437965059/video) 9 千粉
-1. WBV康复健身 曹明老师: [抖音](https://www.douyin.com/user/MS4wLjABAAAAiILkFDY55AWMJXOXWlJDOYdCeMOS4YYrYrFYpHi3cXxa8hDSYX6JaJvaIXu31dm1?vid=7407093472764693770)
+| 名字 | 社交媒体 |
+|------|----------|
+| 张博士聊体态 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAdovwWRbbwMKi_XVERbx4aiVQjb9z4xrILF19UvhLu0saEj2iCEQKvqrlore6BjLh?vid=7362551583957093659) 63万粉 · [B站](https://space.bilibili.com/512941756/video) 8万粉。 |
+| 健身教练刘远 | [B站](https://space.bilibili.com/435967101/video) 22万粉 |
+| 毕博士运动康复 | [抖音](https://www.douyin.com/user/MS4wLjABAAAA_mgxHJBX4UQmXrNPipM2WfK0w0tu3saZ0y96VJ_SqoU?vid=7377322246752259369) 14万粉 |
+| TBT逍遥 | [B站](https://space.bilibili.com/44978529) |
+| 加拿大康复治疗师Weina | [B站](https://space.bilibili.com/478577282/video) 6 千粉 |
+| 张老师的康复课堂 | [B站](https://space.bilibili.com/1160603797/video) 6 万粉 |
+| 孔博士工作室 | [B站](https://space.bilibili.com/356634017/video) 67 万粉 |
+| Jason拉我一把 | [B站](https://space.bilibili.com/2079003835/video) 4 万粉 |
+| 肖恩筋膜 | [B站](https://space.bilibili.com/13802884/video) 3 万粉 |
+| 周旋Randy | [B站](https://space.bilibili.com/330360355/video) 3 万粉 |
+| 美式整脊曹老师 | [B站](https://space.bilibili.com/20340681/video) 26万粉 |
+| 康复博士卫双囍 | [B站](https://space.bilibili.com/3493086252501409/video) 9 万粉 |
+| 运动康复找老孙 | [抖音](https://www.douyin.com/user/MS4wLjABAAAARh7UcI-rSka3YtXhO_EJ-BrefPVOmKkKwhROsbTXXGI?vid=7313154843965771042) 256 万粉 |
+| 阿群 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAnS7YoVfXeve0zu47oNJGonVGTE0d1lGzhmn8SOxeznw?vid=7345045177985174824) 运动训练学硕士🎓 分享日常和康复训练经验，293 万粉 |
+| 运动康复找小桐 | [B站](https://space.bilibili.com/3537119572133929/video) 北体大运动康复专业，1 万粉。 |
+| 骨科康复kevin | [B站](https://space.bilibili.com/46309408/video) 北京体育大学毕业 专精骨科术前术后康复、运动损伤及慢性疼痛 PRI/SFMA/Mulligan/CSCS ，2 万粉 |
+| 康复治疗师王太林 | [B站](https://space.bilibili.com/1776492822/video) 10 万粉。 |
+| 运动康复小七 | [B站](https://space.bilibili.com/3493090232895764/video) 北体大运动康复专业｜国家队康复师｜北医三北大一运动医学科，2 万粉 |
+| 冉冉运动康复学院 | [B站](https://space.bilibili.com/673687262) 前国家队队医成立，致力于将专属奥运冠军的运动康复技术与标准传授给每一位学员，1万粉 |
+| 方昕宇讲运动纠正 | [B站](https://space.bilibili.com/437965059/video) 9 千粉 |
+| WBV康复健身 曹明老师 | [抖音](https://www.douyin.com/user/MS4wLjABAAAAiILkFDY55AWMJXOXWlJDOYdCeMOS4YYrYrFYpHi3cXxa8hDSYX6JaJvaIXu31dm1?vid=7407093472764693770) |
 <!-- 1. 刘老师Leon康复整骨: [B站](https://space.bilibili.com/1746986738/video) 5k 粉丝。主要是讲课。 -->
 <!-- 1. 杭州运动康复: [B站](https://space.bilibili.com/3494350254246470/video) 2000粉。 -->
 </details>
@@ -264,67 +269,79 @@
 1. 头前倾，富贵包
 
 ## 饮食/营养
+
 1. [皮质醇：救你于水火之中，但也会成为水火本身](https://www.bilibili.com/video/BV1hyNnzrEsA/)
-1. 食品科学阿祖: [B站](https://space.bilibili.com/3546377478998801/video) 20 万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 23 万粉。
+
+| 名字 | 社交媒体 |
+|------|----------|
+| 食品科学阿祖 | [B站](https://space.bilibili.com/3546377478998801/video) 20 万粉 · [抖音](https://www.douyin.com/user/MS4wLjABAAAA6V2jqFS-Sj4VZCFDDrRSPk7iizDC-DyXLdlphpv0rY4) 23 万粉。 |
 
 ## 英文的视频创作者
 <details>
   <summary>点击展开</summary>
 
-1. Jeff Nippard: [Youtube](https://www.youtube.com/@JeffNippard) 613 万关注，质量很高，国内有不少搬运翻译。
-1. CoachGreg格教练: [B站](https://space.bilibili.com/1070980577/video) 69 万粉。Youtube 叫 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 219 万粉。
-1. 杰里米JeremyEthier: [B站](https://space.bilibili.com/1026087701/video) 17 万粉。[Youtube](https://www.youtube.com/@JeremyEthier) 671 万关注。（有菲律宾血统的加拿大人， [来源：他自己发的 Instagram Post](https://www.instagram.com/jeremyethier/p/CO0mMUUL6Yn/)）
-1. ATHLEAN-X: [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。
-1. Squat University: [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/)
+| 名字 | 社交媒体 |
+|------|----------|
+| Jeff Nippard | [Youtube](https://www.youtube.com/@JeffNippard) 613 万关注，质量很高，国内有不少搬运翻译。 |
+| CoachGreg格教练 | [B站](https://space.bilibili.com/1070980577/video) 69 万粉。Youtube 叫 [Greg Doucette](https://www.youtube.com/@gregdoucette/videos) 219 万粉。 |
+| 杰里米JeremyEthier | [B站](https://space.bilibili.com/1026087701/video) 17 万粉 · [Youtube](https://www.youtube.com/@JeremyEthier) 671 万关注。（有菲律宾血统的加拿大人， [来源：他自己发的 Instagram Post](https://www.instagram.com/jeremyethier/p/CO0mMUUL6Yn/)） |
+| ATHLEAN-X | [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。 |
+| Squat University | [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注。这人写了一本书[《重返巅峰》](https://book.douban.com/subject/36644813/) |
 
 ---
 
 <!--
 1. Will Tennyson: [Youtube](https://www.youtube.com/@WillTennyson/videos) 316万关注，这人做的视频有点意思，比如去世界上最昂贵的健身房，尝试健身网红的训练计划，全部都是 Fitness/Gym 主题的内容。
 -->
-1. eugene teo: [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。
-1. Renaissance Periodization: [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。
-1. Tom Merrick: [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。
-1. Mario Tomic: [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。
-1. CHRIS HERIA: [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。
-1. THENX: [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。
-1. Ryan Humiston：[Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。
-1. Calisthenicmovement: [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。
-1. FitnessFAQs: [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。
-1. YOGABODY: [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者
-1. Chris Bumstead: [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者
-1. Barefoot Strength: [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者
-1. Obi Vincent: [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。
-1. FMS: [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。
-1. ScottHermanFitness: [Youtube](https://www.youtube.com/@ScottHermanFitness/videos) 280万关注。
-1. FitnessBlender: [Youtube](https://www.youtube.com/@fitnessblender/videos) 662 万关注，跟练。
-1. HASfit: [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。
-1. Anabolic Aliens: [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。
-1. Simeon Panda: [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。
-1. Jordan Yeoh Fitness: [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 398万位订阅者。
-1. Mind Pump TV: [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。
-1. Dr. Jacob Goodin: [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc)
-1. musclemonsters: [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。
-1. Dr. Gains: [Youtube](https://www.youtube.com/@DrGains/videos) 19万粉。
-1. E3 Rehab: [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。
-1. Joe Delaney: [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。
-1. Conor Harris: [Youtube](https://www.youtube.com/@conorharris) 33万粉。
-1. Paul Revelia: [Youtube](https://www.youtube.com/@PaulRevelia/videos) 55万粉。
-1. Alan Thrall: [Youtube](https://www.youtube.com/@AlanThrall) 85万粉。
-1. OmarIsuf: [Youtube](https://www.youtube.com/@OmarIsuf/videos) 84万粉。
-1. Calgary Barbell: [Youtube](https://www.youtube.com/@calgarybarbell/videos) 29万粉。
-1. Mind Pump Show: [Youtube](https://www.youtube.com/channel/UCq0hKkwnW5Cw1wQqu455WrA) 44万粉。
-1. VitruvianPhysique: [Youtube](https://www.youtube.com/channel/UCAcQW_4qZ12wNt3T0M9b-Vw) 57万粉。
-1. Alex Leonidas: [Youtube](https://www.youtube.com/@AlexLeonidas/videos) 38万粉。
-1. Sean Nalewanyj: [Youtube](https://www.youtube.com/@Sean_Nalewanyj/videos) 109万粉。
-1. Jesse James West: [Youtube](https://www.youtube.com/@JesseJamesWest/videos) 387万粉。
-1. mountaindog1: [Youtube](https://www.youtube.com/@mountaindog1/videos) 82万粉。
-1. The Kneesovertoesguy: [Youtube](https://www.youtube.com/@TheKneesovertoesguy/videos) 142万粉。
+
+| 名字 | 社交媒体 |
+|------|----------|
+| eugene teo | [Youtube](https://www.youtube.com/@coacheugeneteo/videos) 70 万关注。 |
+| Renaissance Periodization | [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。 |
+| Tom Merrick | [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。 |
+| Mario Tomic | [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。 |
+| CHRIS HERIA | [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。 |
+| THENX | [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。 |
+| Ryan Humiston | [Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。 |
+| Calisthenicmovement | [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。 |
+| FitnessFAQs | [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。 |
+| YOGABODY | [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者 |
+| Chris Bumstead | [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者 |
+| Barefoot Strength | [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者 |
+| Obi Vincent | [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。 |
+| FMS | [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。 |
+| ScottHermanFitness | [Youtube](https://www.youtube.com/@ScottHermanFitness/videos) 280万关注。 |
+| FitnessBlender | [Youtube](https://www.youtube.com/@fitnessblender/videos) 662 万关注，跟练。 |
+| HASfit | [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。 |
+| Anabolic Aliens | [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。 |
+| Simeon Panda | [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。 |
+| Jordan Yeoh Fitness | [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 398万位订阅者。 |
+| Mind Pump TV | [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。 |
+| Dr. Jacob Goodin | [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc) |
+| musclemonsters | [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。 |
+| Dr. Gains | [Youtube](https://www.youtube.com/@DrGains/videos) 19万粉。 |
+| E3 Rehab | [Youtube](https://www.youtube.com/@E3Rehab) 56万粉。 |
+| Joe Delaney | [Youtube](https://www.youtube.com/@JoeDelaneyy/videos) 70万粉。 |
+| Conor Harris | [Youtube](https://www.youtube.com/@conorharris) 33万粉。 |
+| Paul Revelia | [Youtube](https://www.youtube.com/@PaulRevelia/videos) 55万粉。 |
+| Alan Thrall | [Youtube](https://www.youtube.com/@AlanThrall) 85万粉。 |
+| OmarIsuf | [Youtube](https://www.youtube.com/@OmarIsuf/videos) 84万粉。 |
+| Calgary Barbell | [Youtube](https://www.youtube.com/@calgarybarbell/videos) 29万粉。 |
+| Mind Pump Show | [Youtube](https://www.youtube.com/channel/UCq0hKkwnW5Cw1wQqu455WrA) 44万粉。 |
+| VitruvianPhysique | [Youtube](https://www.youtube.com/channel/UCAcQW_4qZ12wNt3T0M9b-Vw) 57万粉。 |
+| Alex Leonidas | [Youtube](https://www.youtube.com/@AlexLeonidas/videos) 38万粉。 |
+| Sean Nalewanyj | [Youtube](https://www.youtube.com/@Sean_Nalewanyj/videos) 109万粉。 |
+| Jesse James West | [Youtube](https://www.youtube.com/@JesseJamesWest/videos) 387万粉。 |
+| mountaindog1 | [Youtube](https://www.youtube.com/@mountaindog1/videos) 82万粉。 |
+| The Kneesovertoesguy | [Youtube](https://www.youtube.com/@TheKneesovertoesguy/videos) 142万粉。 |
 
 ### 运动康复/损伤预防
-1. `[P]rehab`: [Youtube](https://www.youtube.com/channel/UCZOrpZTHi21RZpnxXdlJbgQ) 32万粉。
-1. Upright Health: [Youtube](https://www.youtube.com/@Uprighthealth/videos) 86万粉。
-1. Bob & Brad: [Youtube](https://www.youtube.com/@BobandBrad/videos) 504万粉。
+
+| 名字 | 社交媒体 |
+|------|----------|
+| `[P]rehab` | [Youtube](https://www.youtube.com/channel/UCZOrpZTHi21RZpnxXdlJbgQ) 32万粉。 |
+| Upright Health | [Youtube](https://www.youtube.com/@Uprighthealth/videos) 86万粉。 |
+| Bob & Brad | [Youtube](https://www.youtube.com/@BobandBrad/videos) 504万粉。 |
 
 <!--
 ### 其他
@@ -343,7 +360,7 @@
 1. 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 28万粉。
 1. Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 109 万粉，内容是"别死"，全力追求延长寿命，外网名人。
 1. 短腿小萝卜_babycarrot: [B站](https://space.bilibili.com/349219867/video) 58 万粉，生活类内容多，教学类内容少
-1. 刘畊宏: [B站](https://space.bilibili.com/516314775/video), [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
+1. 刘畊宏: [B站](https://space.bilibili.com/516314775/video) · [抖音](https://www.douyin.com/user/MS4wLjABAAAASwhiL0bRi1X_zs7UhAIO2udbD1F_XKrsJMOaukl1Io4?vid=7337206216893959434) 直播跳操，适合跟练。
 1. Rockywu健美圈: [B站](https://space.bilibili.com/1276328145/video) 14万粉, [抖音](https://www.douyin.com/user/MS4wLjABAAAAx9DPMNzkbJPUiVl7ilkjTFFjHHLRRhutTxeWpjqg0Ak)
 1. 烧毁一切就是美: [B站](https://space.bilibili.com/1024129080/video)  22万粉。
 1. VDV空降兵费里: [B站](https://space.bilibili.com/669874727/video) 33万粉。
@@ -438,12 +455,10 @@ BMI >= 28 是肥胖
 
 - [注意！不吃晚饭减肥容易养成易胖体质](https://www.bilibili.com/video/BV1Yt4y1x7tK)：3 分钟
 
-
 <!-- ## 备注
 此列表有我个人主观，所以很多"名人"和"网红"不在表里。   
 筛选标准是 "教学类视频多，质量普遍较高"。      
 排序比较主观，希望这些视频创作者本人看到此表不要介意。   -->
-
 
 <!-- 
 本列表不收录备赛日常,顶尖运动员日常分享,搞笑/抽象,生活类,有争议,以及其他和健身教学无关内容，比如：
@@ -477,7 +492,6 @@ BMI >= 28 是肥胖
 ## 展示成果类
 - 征夫记日: [抖音](https://www.douyin.com/user/MS4wLjABAAAAwn0qrOd-560sxQp0rbgEd3ZwJ6sqSswuWWIxq96RbQ1ZTDTWem8B4aMfMTQ_CHGS) 更多是展示成果，不是教学。111万粉。
 
-
 ### 英语的女性视频创作者（跟练和瑜伽类价值不大，先注释）
 - Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
 - Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
@@ -502,7 +516,6 @@ BMI >= 28 是肥胖
 - 豹哥健身 https://space.bilibili.com/269380821/video
 - 蔡梓强 https://space.bilibili.com/23172987/video
 - 剑眉同学: [抖音](https://www.douyin.com/user/MS4wLjABAAAAc2H3aZj9wYckdupd0tmGL-f6x5B80tFaPYa7QQnm-Y4) 这人出过一本书《健身百科全书》，但是抖音只是一直卖货和直播，没有太多教学内容。
-
 
 - 费教练健身教学: [抖音](https://www.douyin.com/user/MS4wLjABAAAAUL4yUQ05Td2YThc5lnTvgXbaviBBuZ8t8XV7vg0mHrU) 完完全全针对女性的教学视频。
 
@@ -558,7 +571,6 @@ BMI >= 28 是肥胖
 - 大煜（yù）健身: [抖音](https://www.douyin.com/user/MS4wLjABAAAA5pCnwYMo7ku9VatArsmedr1faKbT07gbFBX6bSZQ5rg) 105万粉
 视频列表一眼望去教学类内容较少，卖货视频比较多。
 
-
 ## 繁体中文的视频创作者
 - 北木健身治療師 Kopi：[Youtube](https://www.youtube.com/@beiimu/videos)
 - 瑞稞適能中心：[Youtube](https://www.youtube.com/@user-xs9ch7yp1i/videos)
@@ -573,7 +585,6 @@ BMI >= 28 是肥胖
 - TrainerPlus: [B站](https://space.bilibili.com/359519613) 7千粉丝。很多长视频。
 - 姚晓龙Mike: [B站](https://space.bilibili.com/319196687/video) 1690粉。
 - Mia杨悠: [B站](https://space.bilibili.com/1109822091/video) 拉伸。
-
 
 - 康复学堂: [B站](https://space.bilibili.com/285757640/video) 3万粉。不是原创内容，基本都是翻译。
 - 明威老师运动康复: [B站](https://space.bilibili.com/206323949/video) 9万粉。 
@@ -619,7 +630,6 @@ BMI >= 28 是肥胖
 
 ## 把知识分成一个个块，每个块有学习时长，比如学习动作需要多少小时。认识主要肌肉要多少小时。学习常见体态和康复问题要多少小时。
 -->
-
 
 <!-- 
 缺了一个大类别：如何备餐，如何安排饮食。这才是最核心的，现在都是教动作。
