@@ -329,7 +329,7 @@
 | CoachGreg格教练 | [B站](https://space.bilibili.com/1070980577/video) 90 万粉 · [Youtube](https://www.youtube.com/@gregdoucette/videos) 219 万粉 |
 | 杰里米JeremyEthier | [B站](https://space.bilibili.com/1026087701/video) 18 万粉 · [Youtube](https://www.youtube.com/@JeremyEthier) 799 万关注 |
 | ATHLEAN-X | [Youtube](https://www.youtube.com/@athleanx) 1430 万关注。 |
-| Squat University | [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注 |
+| Squat University | [Youtube](https://www.youtube.com/@SquatUniversity/videos) 693 万关注 |
 
 <details>
   <summary>补充说明</summary>
@@ -352,13 +352,13 @@
 | Renaissance Periodization | [Youtube](https://www.youtube.com/@RenaissancePeriodization) 125 万关注。 |
 | Tom Merrick | [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。 |
 | Mario Tomic | [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。 |
-| CHRIS HERIA | [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。 |
+| CHRIS HERIA | [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 541 万关注。皮肤大面积纹身。 |
 | THENX | [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 783 万关注，和上面是同一个人。 |
 | Ryan Humiston | [Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。 |
-| Calisthenicmovement | [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。 |
+| Calisthenicmovement | [Youtube](https://www.youtube.com/@calimove/videos) 427 万关注。 |
 | FitnessFAQs | [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。 |
 | YOGABODY | [Youtube](https://www.youtube.com/@YOGABODY.Official/videos) 73万位订阅者 |
-| Chris Bumstead | [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 363万位订阅者 |
+| Chris Bumstead | [Youtube](https://www.youtube.com/@ChrisBumstead/videos) 489 万关注 |
 | Barefoot Strength | [Youtube](https://www.youtube.com/@barefootstrength) 30万位订阅者 |
 | Obi Vincent | [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。 |
 | FMS | [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。 |
@@ -367,7 +367,7 @@
 | HASfit | [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。 |
 | Anabolic Aliens | [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。 |
 | Simeon Panda | [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。 |
-| Jordan Yeoh Fitness | [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 398万位订阅者。 |
+| Jordan Yeoh Fitness | [Youtube](https://www.youtube.com/@jordanyeohfitness/videos) 450 万关注。 |
 | Mind Pump TV | [Youtube](https://www.youtube.com/@MindPumpTV/videos) 75万位订阅者。 |
 | Dr. Jacob Goodin | [Youtube](https://www.youtube.com/c/DrJacobGoodin) 3万订阅。[B站视频](https://www.bilibili.com/video/BV1c44y1b7Fm?p=37&vd_source=b62a010489c78c6b1355911db71527bc) |
 | musclemonsters | [Youtube](https://www.youtube.com/@musclemonsters/videos) 91 万订阅。 |
@@ -383,7 +383,7 @@
 | VitruvianPhysique | [Youtube](https://www.youtube.com/channel/UCAcQW_4qZ12wNt3T0M9b-Vw) 57万粉。 |
 | Alex Leonidas | [Youtube](https://www.youtube.com/@AlexLeonidas/videos) 38万粉。 |
 | Sean Nalewanyj | [Youtube](https://www.youtube.com/@Sean_Nalewanyj/videos) 109万粉。 |
-| Jesse James West | [Youtube](https://www.youtube.com/@JesseJamesWest/videos) 387万粉。 |
+| Jesse James West | [Youtube](https://www.youtube.com/@JesseJamesWest/videos) 1150 万关注。 |
 | mountaindog1 | [Youtube](https://www.youtube.com/@mountaindog1/videos) 82万粉。 |
 | The Kneesovertoesguy | [Youtube](https://www.youtube.com/@TheKneesovertoesguy/videos) 142万粉。 |
 
