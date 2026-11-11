@@ -325,10 +325,10 @@
 
 | 名字 | 社交媒体 |
 |------|----------|
-| Jeff Nippard | [Youtube](https://www.youtube.com/@JeffNippard) 613 万关注 |
+| Jeff Nippard | [Youtube](https://www.youtube.com/@JeffNippard) 878 万关注 |
 | CoachGreg格教练 | [B站](https://space.bilibili.com/1070980577/video) 90 万粉 · [Youtube](https://www.youtube.com/@gregdoucette/videos) 219 万粉 |
-| 杰里米JeremyEthier | [B站](https://space.bilibili.com/1026087701/video) 18 万粉 · [Youtube](https://www.youtube.com/@JeremyEthier) 671 万关注 |
-| ATHLEAN-X | [Youtube](https://www.youtube.com/@athleanx) 1350 万关注。 |
+| 杰里米JeremyEthier | [B站](https://space.bilibili.com/1026087701/video) 18 万粉 · [Youtube](https://www.youtube.com/@JeremyEthier) 799 万关注 |
+| ATHLEAN-X | [Youtube](https://www.youtube.com/@athleanx) 1430 万关注。 |
 | Squat University | [Youtube](https://www.youtube.com/@SquatUniversity/videos) 369 万关注 |
 
 <details>
@@ -353,7 +353,7 @@
 | Tom Merrick | [Youtube](https://www.youtube.com/@BodyweightWarrior/videos) 100 万关注。 |
 | Mario Tomic | [Youtube](https://www.youtube.com/@MarioTomicOfficial/videos) 41 万关注。 |
 | CHRIS HERIA | [Youtube](https://www.youtube.com/@CHRISHERIA/videos) 490 万关注。皮肤大面积纹身。 |
-| THENX | [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 773万位订阅者，和上面是同一个人。 |
+| THENX | [Youtube](https://www.youtube.com/@OFFICIALTHENXSTUDIOS/videos) 783 万关注，和上面是同一个人。 |
 | Ryan Humiston | [Youtube](https://www.youtube.com/@RyanHumiston/videos) 195万关注。 |
 | Calisthenicmovement | [Youtube](https://www.youtube.com/@calimove/videos) 421万关注。 |
 | FitnessFAQs | [Youtube](https://www.youtube.com/@FitnessFAQs/videos) 169万关注。 |
@@ -363,7 +363,7 @@
 | Obi Vincent | [Youtube](https://www.youtube.com/@ObiVincent/videos) 86万关注，黑人。 |
 | FMS | [Youtube](https://www.youtube.com/@FMStv/videos) 4万关注。 |
 | ScottHermanFitness | [Youtube](https://www.youtube.com/@ScottHermanFitness/videos) 280万关注。 |
-| FitnessBlender | [Youtube](https://www.youtube.com/@fitnessblender/videos) 662 万关注，跟练。 |
+| FitnessBlender | [Youtube](https://www.youtube.com/@fitnessblender/videos) 655 万关注，跟练。 |
 | HASfit | [Youtube](https://www.youtube.com/@HASfit) 199 万关注，跟练。 |
 | Anabolic Aliens | [Youtube](https://www.youtube.com/@AnabolicAliens/videos) 100万位订阅者。 |
 | Simeon Panda | [Youtube](https://www.youtube.com/@SimeonPanda) 277万位订阅者，黑人。 |
@@ -393,7 +393,7 @@
 |------|----------|
 | `[P]rehab` | [Youtube](https://www.youtube.com/channel/UCZOrpZTHi21RZpnxXdlJbgQ) 32万粉。 |
 | Upright Health | [Youtube](https://www.youtube.com/@Uprighthealth/videos) 86万粉。 |
-| Bob & Brad | [Youtube](https://www.youtube.com/@BobandBrad/videos) 504万粉。 |
+| Bob & Brad | [Youtube](https://www.youtube.com/@BobandBrad/videos) 548 万关注。 |
 
 <!--
 ### 其他
@@ -407,7 +407,7 @@
 1. 王立鑫Tony: [B站](https://space.bilibili.com/486682064/video) 13 万粉。跑步内容为主。
 1. 兔兔姐28: [B站](https://space.bilibili.com/12333557/video) 内容全是翻译的英语视频。
 1. 灵魂健身杨老师: [B站](https://space.bilibili.com/16419172/video) 99 万粉。
-1. 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1505 万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 980万粉。
+1. 帕梅拉PamelaReif: [B站](https://space.bilibili.com/604003146/video) 1505 万粉。适合跟练。[Youtube](https://www.youtube.com/@PamelaRf1) 1080 万关注。
 1. Jackedude哈恩: [B站](https://space.bilibili.com/430769865/video) 7 万粉。目前2024年在美国开健身房。
 1. 就昰宮城良田: [B站](https://space.bilibili.com/385529979/video) 31 万粉。
 1. Bryan Johnson: [Youtube](https://www.youtube.com/@BryanJohnson), 109 万粉，内容是"别死"，全力追求延长寿命，外网名人。
@@ -547,10 +547,10 @@ BMI >= 28 是肥胖
 ### 英语的女性视频创作者（跟练和瑜伽类价值不大，先注释）
 - Dr. Kristie Ennis: [Youtube](https://www.youtube.com/@drkristieennis) 53万位订阅者。女性。
 - Charlie Follows [Youtube](https://www.youtube.com/@CharlieFollows/videos) 女性瑜伽跟练。
-- Chloe Ting: [Youtube](https://www.youtube.com/@ChloeTing/videos) 2500 万关注，女性。跟练。
-- Yoga With Adriene: [Youtube](https://www.youtube.com/@yogawithadriene/videos) 1250万关注，瑜伽。
+- Chloe Ting: [Youtube](https://www.youtube.com/@ChloeTing/videos) 2610 万关注，女性。跟练。
+- Yoga With Adriene: [Youtube](https://www.youtube.com/@yogawithadriene/videos) 1370 万关注，瑜伽。
 - Heather Robertson: [Youtube](https://www.youtube.com/@Heatherrobertsoncom) 244 万关注，跟练。
-- MadFit: [Youtube](https://www.youtube.com/@MadFit) 889万位订阅者，跟练。
+- MadFit: [Youtube](https://www.youtube.com/@MadFit) 1180 万关注，跟练。
 - https://www.youtube.com/@JessicaRichburg/videos
 
 ## 欢迎补充内容
